@@ -1,0 +1,36 @@
+<bill session="112" type="sr" number="414" updated="2012-11-24T15:00:12-05:00">
+	<state datetime="2012-03-29">PASSED:SIMPLERES</state>
+	<status><vote datetime="2012-03-29" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-03-29"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commemorating the 125th anniversary of the University of North Carolina at Pembroke.</title>
+	</titles>
+	<sponsor id="400054"/>
+	<cosponsors>
+		<cosponsor id="412324" joined="2012-03-29"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-03-29" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S2282"/><reference label="text as passed Senate" ref="CR S2282"/><reference label="text of measure as introduced" ref="CR S2258"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Higher education"/>
+		<term name="North Carolina"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/29/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Commemorates the 125th anniversary of the University of North Carolina at Pembroke.
+
+	</summary>
+</bill>

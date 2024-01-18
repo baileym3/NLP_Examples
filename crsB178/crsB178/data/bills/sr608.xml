@@ -1,0 +1,39 @@
+<bill session="112" type="sr" number="608" updated="2012-12-06T06:16:48-05:00">
+	<state datetime="2012-12-04">REFERRED</state>
+	<status><introduced datetime="2012-12-04"/></status>
+
+	<introduced datetime="2012-12-04"/>
+	<titles>
+		<title type="official" as="introduced">A resolution supporting the establishment of a President's Youth Council.</title>
+	</titles>
+	<sponsor id="400413"/>
+	<cosponsors>
+		<cosponsor id="412326" joined="2012-12-04"/>
+		<cosponsor id="300009" joined="2012-12-04"/>
+		<cosponsor id="412384" joined="2012-12-04"/>
+		<cosponsor id="300075" joined="2012-12-04"/>
+		<cosponsor id="300076" joined="2012-12-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-04" state="REFERRED"><text>Referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S7403"/></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Families"/>
+		<term name="Advisory bodies"/>
+		<term name="Child safety and welfare"/>
+		<term name="Policy sciences"/>
+		<term name="Presidents and presidential powers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

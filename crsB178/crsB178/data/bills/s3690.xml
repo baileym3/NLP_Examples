@@ -1,0 +1,34 @@
+<bill session="112" type="s" number="3690" updated="2012-12-22T06:21:26-05:00">
+	<state datetime="2012-12-19">REFERRED</state>
+	<status><introduced datetime="2012-12-19"/></status>
+
+	<introduced datetime="2012-12-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require the Government Accountability Office to include in its annual report to Congress a list of the most common grounds for sustaining protests relating to bids for contracts.</title>
+	</titles>
+	<sponsor id="400408"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-19" state="REFERRED"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Administrative remedies"/>
+		<term name="Congressional oversight"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

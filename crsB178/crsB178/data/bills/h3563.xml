@@ -1,0 +1,55 @@
+<bill session="112" type="h" number="3563" updated="2012-11-24T11:55:21-05:00">
+	<state datetime="2012-03-28">REPORTED</state>
+	<status><calendar datetime="2012-03-28" /></status>
+
+	<introduced datetime="2011-12-06"/>
+	<titles>
+		<title type="short" as="introduced">Integrated Public Alert Warning System Modernization Act of 2011</title>
+		<title type="short" as="reported to house">Integrated Public Alert and Warning System Modernization Act of 2012</title>
+		<title type="official" as="introduced">To amend the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to modernize and implement the national integrated public alert and warning system to disseminate homeland security information and other information, and for other purposes.</title>
+	</titles>
+	<sponsor id="412250"/>
+	<cosponsors>
+		<cosponsor id="412269" joined="2012-06-19"/>
+		<cosponsor id="412253" joined="2011-12-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-12-06" state="REFERRED"><text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2011-12-06"><text>Referred to House Homeland Security</text></action>
+		<action datetime="2011-12-06" state="REPORTED"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action datetime="2011-12-07" state="REFERRED"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text></action>
+		<action datetime="2011-12-07" state="REPORTED"><committee name="House Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action datetime="2011-12-08" state="REFERRED"><committee name="House Homeland Security" subcommittee="Emergency Preparedness, Response and Communications"/><text>Subcommittee Consideration and Mark-up Session Held.</text></action>
+		<action datetime="2011-12-08"><committee name="House Homeland Security" subcommittee="Emergency Preparedness, Response and Communications"/><text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text></action>
+		<action datetime="2012-03-28"><committee name="House Homeland Security"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2012-03-28"  state="REPORTED"><committee name="House Homeland Security"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="2012-09-20T18:14:00-04:00"><text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-685, Part I.</text></action>
+		<action datetime="2012-09-20T18:14:00-04:00"><text>Committee on Transportation discharged.</text></action>
+		<calendar number="496" datetime="2012-09-20T18:14:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 496.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Homeland Security" subcommittee="Emergency Preparedness, Response, and Communications" activity="Referral, Markup, Reporting" />
+		<committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Discharged" />
+		<committee code="" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="2904" />
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Advanced technology and technological innovations"/>
+		<term name="Computers and information technology"/>
+		<term name="Emergency communications systems"/>
+		<term name="Government information and archives"/>
+		<term name="Homeland security"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/6/2011--Introduced.
+Integrated Public Alert Warning System Modernization Act of 2011 - Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to modernize and implement the national integrated public alert and warning system, including by: (1) establishing or adapting common alerting and warning protocols, standards, terminology, and operating procedures; (2) including the capability to adapt the dissemination of information and the content of communications on the basis of geographic location, risks, or personal user preferences and the capability to alert, warn, and provide the equivalent amount of information to individuals with disabilities and access and functional needs; (3) ensuring the conduct of training, tests, and exercise for the system that are incorporated into other training and exercise programs of the Department of Homeland Security (DHS); (4) ensuring that the system uses the National Terrorism Advisory System; (5) conducting periodic nationwide tests of the system; and (6) consulting, coordinating, and cooperating with other federal agencies and with state, local, and tribal governments, the private sector, and other key stakeholders to leverage existing alert and warning capabilities. Requires the Secretary to ensure that the system: (1) incorporates redundant and diverse modes to disseminate warning messages to reach the greatest number of individuals; (2) can be adapted to incorporate future technologies; (3) is resilient, secure, and can withstand acts of terrorism and other external attacks; (4) promotes state, local, tribal, and regional partnerships to enhance coordination; (5) is designed to provide alerts that are accessible to the largest portion of the affected population feasible; (6) improves the ability of remote areas to receive alerts; and (7) includes mechanisms to ensure the protection of individual privacy. Directs the Administrator of the Federal Emergency Management Agency (FEMA) to permit the use of homeland security grant funds to improve public alert and warning capabilities.
+
+	</summary>
+</bill>

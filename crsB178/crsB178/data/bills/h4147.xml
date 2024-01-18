@@ -1,0 +1,40 @@
+<bill session="112" type="h" number="4147" updated="2012-11-24T12:23:57-05:00">
+	<state datetime="2012-03-06">REFERRED</state>
+	<status><introduced datetime="2012-03-06"/></status>
+
+	<introduced datetime="2012-03-06"/>
+	<titles>
+		<title type="short" as="introduced">ChiPACC Act of 2011</title>
+		<title type="official" as="introduced">To amend title XIX of the Social Security Act to provide States an option to cover a children's program of all-inclusive coordinated care (ChiPACC) under the Medicaid Program.</title>
+	</titles>
+	<sponsor id="400283"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-03-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E321)</text></action>
+		<action datetime="2012-03-06" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="2012-03-09"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Child health"/>
+		<term name="Comprehensive health care"/>
+		<term name="Medicaid"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/6/2012--Introduced.
+ChiPACC Act of 2011 [sic] - Amends title XIX (Medicaid) of the Social Security Act to give states the option of covering a children's program of all-inclusive coordinated care (ChiPACC).
+
+	</summary>
+</bill>

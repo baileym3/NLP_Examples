@@ -1,0 +1,32 @@
+<bill session="112" type="h" number="6706" updated="2013-01-01T08:51:30-05:00">
+	<state datetime="2012-12-27">REFERRED</state>
+	<status><introduced datetime="2012-12-27"/></status>
+
+	<introduced datetime="2012-12-27"/>
+	<titles>
+		<title type="short" as="introduced">Fair Debt Collection Practices Technical Correction Act of 2012</title>
+		<title type="official" as="introduced">To amend the Fair Debt Collection Practices Act to preclude law firms and licensed attorneys from the definition of a debt collector when taking certain actions.</title>
+	</titles>
+	<sponsor id="400209"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-27" state="REFERRED"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Financial Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

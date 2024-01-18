@@ -1,0 +1,71 @@
+<bill session="112" type="h" number="6016" updated="2012-12-21T06:15:44-05:00">
+	<state datetime="2012-12-19T17:17:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="2012-12-19T17:17:00-05:00" where="h" result="pass" how="roll" roll="638"/></status>
+
+	<introduced datetime="2012-06-21"/>
+	<titles>
+		<title type="short" as="introduced">Government Employee Accountability Act</title>
+		<title type="short" as="reported to house">Government Employee Accountability Act</title>
+		<title type="short" as="passed house">Government Employee Accountability Act</title>
+		<title type="official" as="introduced">To amend title 5, United States Code, to provide for administrative leave requirements with respect to Senior Executive Service employees, and for other purposes.</title>
+		<title type="official" as="amended by house">To amend title 5, United States Code, to provide for investigative leave requirements with respect to Senior Executive Service employees, and for other purposes.</title>
+	</titles>
+	<sponsor id="412465"/>
+	<cosponsors>
+		<cosponsor id="412469" joined="2012-06-26"/>
+		<cosponsor id="412436" joined="2012-06-26"/>
+		<cosponsor id="412456" joined="2012-06-26"/>
+		<cosponsor id="412482" joined="2012-06-26"/>
+		<cosponsor id="412397" joined="2012-06-26"/>
+		<cosponsor id="412473" joined="2012-06-26"/>
+		<cosponsor id="412447" joined="2012-06-26"/>
+		<cosponsor id="412464" joined="2012-06-26"/>
+		<cosponsor id="412468" joined="2012-06-26"/>
+		<cosponsor id="400644" joined="2012-06-26"/>
+		<cosponsor id="412423" joined="2012-06-27"/>
+		<cosponsor id="412317" joined="2012-06-26"/>
+		<cosponsor id="412424" joined="2012-06-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-06-21" state="REFERRED"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+		<action datetime="2012-06-27"><committee name="House Committee on Oversight and Government Reform"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2012-06-27"  state="REPORTED"><committee name="House Committee on Oversight and Government Reform"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="2012-09-21T12:33:00-04:00"><text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-686.</text></action>
+		<calendar number="497" datetime="2012-09-21T12:33:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 497.</text></calendar>
+		<action datetime="2012-12-19T16:15:00-05:00"><text>Mr. Farenthold moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="2012-12-19T16:15:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7324-7326"/></action>
+		<action datetime="2012-12-19T16:15:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6016.</text></action>
+		<action datetime="2012-12-19T16:24:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="2012-12-19T17:09:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7329"/></action>
+		<vote how="roll" type="vote" roll="638" datetime="2012-12-19T17:17:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 2 (Roll no. 638).</text><reference label="text" ref="CR H7324-7325"/></vote>
+		<action datetime="2012-12-19T17:17:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-12-19T17:17:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="2012-12-20"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting" />
+		<committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Administrative remedies"/>
+		<term name="Congressional oversight"/>
+		<term name="Federal officials"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="Government investigations"/>
+		<term name="Merit Systems Protection Board"/>
+		<term name="Office of Personnel Management (OPM)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/21/2012--Reported to House amended. Government Employee Accountability Act - Sets forth administrative leave requirements for Senior Executive Service (SES) career employees. Defines &quot;administrative leave&quot; as an administratively authorized absence from duty, for disciplinary reasons, for up to 90 days. Authorizes the head of a federal agency to place an SES employee on administrative leave: (1) without loss of pay and without charge to annual or sick leave only for misappropriation of funds, misconduct, neglect of duty, or malfeasance; or (2) without pay if such employee's conduct is determined to be serious or flagrant. Requires an agency head to: (1) review the investigation into the SES employee's misappropriation of funds, misconduct, neglect of duty, or malfeasance every two weeks during a period of administrative leave; (2) report on such review to the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs not later than five business days after the end of each two-week period; and (3) remove, suspend without pay, or reinstate or restore such employee to duty at the end of the administrative leave period. Grants an agency head discretion to place an SES employee on one additional period of administrative leave. Entitles an SES employee, before being placed on administrative leave, to: (1) at least 30 days' advance written notice, stating specific reasons for the proposed action, unless there is reasonable cause to believe that the employee has committed a crime for which a sentence of imprisonment can be imposed or unless the agency head determines that the employee's conduct is serious or flagrant; (2) a reasonable time, but not less than 7 days, to answer orally and in writing and to furnish affidavits and other evidence in support of the answer; (3) be represented by an attorney or other representative; and (4) a written decision with specific reasons at the earliest practicable date. Authorizes an agency head to determine there is reasonable cause to believe that an SES employee has committed a crime based on a report received from the agency's inspector general. Entitles an employee who is placed on administrative leave to appeal to the Merit Systems Protection Board (MSPB). Allows an agency to take an adverse action (i.e., removal from the civil service or suspension for more than 14 days) against an SES employee for misappropriation of funds. Conforms the 30 days' advance written notice requirements for an adverse action against an SES employee to such advance requirements for administrative leave as prescribed by this Act.
+
+	</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="112" type="sc" number="65" updated="2012-12-22T06:24:49-05:00">
+	<state datetime="2012-12-19">REFERRED</state>
+	<status><introduced datetime="2012-12-19"/></status>
+
+	<introduced datetime="2012-12-19"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution congratulating the Navy and the current and former officers and crew of the U.S.S. Enterprise (CVN 65) on completion of the 25th and final deployment of the vessel.</title>
+	</titles>
+	<sponsor id="412321"/>
+	<cosponsors>
+		<cosponsor id="300071" joined="2012-12-19"/>
+		<cosponsor id="412249" joined="2012-12-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-19" state="REFERRED"><text>Referred to the Committee on Armed Services.</text><reference label="text of measure as introduced" ref="CR S8206"/></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="112" type="hc" number="143" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Asia"/>
+		<term name="Aviation and airports"/>
+		<term name="Conflicts and wars"/>
+		<term name="Congressional tributes"/>
+		<term name="Department of Defense"/>
+		<term name="Military facilities and property"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Veterans' organizations and recognition"/>
+		<term name="Vietnam"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

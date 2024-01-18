@@ -1,0 +1,39 @@
+<bill session="112" type="s" number="3696" updated="2012-12-22T06:24:38-05:00">
+	<state datetime="2012-12-19">REFERRED</state>
+	<status><introduced datetime="2012-12-19"/></status>
+
+	<introduced datetime="2012-12-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for the admission of the State of New Columbia into the Union.</title>
+	</titles>
+	<sponsor id="300067"/>
+	<cosponsors>
+		<cosponsor id="300011" joined="2012-12-19"/>
+		<cosponsor id="300038" joined="2012-12-19"/>
+		<cosponsor id="300076" joined="2012-12-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3204-3205)</text></action>
+		<action datetime="2012-12-19" state="REFERRED"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="District of Columbia"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Members of Congress"/>
+		<term name="State and local government operations"/>
+		<term name="Voting rights"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

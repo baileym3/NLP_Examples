@@ -1,0 +1,45 @@
+<bill session="112" type="s" number="3500" updated="2012-11-24T17:50:43-05:00">
+	<state datetime="2012-08-02">REFERRED</state>
+	<status><introduced datetime="2012-08-02"/></status>
+
+	<introduced datetime="2012-08-02"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Endangered Species Act of 1973 to establish a procedure for approval of certain settlements.</title>
+	</titles>
+	<sponsor id="300027"/>
+	<cosponsors>
+		<cosponsor id="412251" joined="2012-08-02"/>
+		<cosponsor id="400576" joined="2012-08-02"/>
+		<cosponsor id="300041" joined="2012-09-19"/>
+		<cosponsor id="300055" joined="2012-08-02"/>
+		<cosponsor id="412495" joined="2012-08-02"/>
+		<cosponsor id="300075" joined="2012-08-02"/>
+		<cosponsor id="300083" joined="2012-08-02"/>
+		<cosponsor id="400418" joined="2012-08-02"/>
+		<cosponsor id="400432" joined="2012-08-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-08-02" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Alternative dispute resolution, mediation, arbitration"/>
+		<term name="Civil actions and liability"/>
+		<term name="Endangered and threatened species"/>
+		<term name="Government information and archives"/>
+		<term name="Intergovernmental relations"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

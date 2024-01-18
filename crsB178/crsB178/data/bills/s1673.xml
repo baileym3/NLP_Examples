@@ -1,0 +1,47 @@
+<bill session="112" type="s" number="1673" updated="2012-11-27T06:12:49-05:00">
+	<state datetime="2012-04-25">REPORTED</state>
+	<status><calendar datetime="2012-04-25" /></status>
+
+	<introduced datetime="2011-10-06"/>
+	<titles>
+		<title type="short" as="introduced">Safeguarding American Agriculture Act of 2011</title>
+		<title type="official" as="introduced">A bill to establish the Office of Agriculture Inspection within the Department of Homeland Security, which shall be headed by the Assistant Commissioner for Agriculture Inspection, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="300019" joined="2012-07-18"/>
+		<cosponsor id="300043" joined="2011-10-06"/>
+		<cosponsor id="412223" joined="2012-03-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-10-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6340-6341)</text></action>
+		<action datetime="2011-10-06" state="REFERRED"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S6341-6342"/></action>
+		<calendar datetime="2012-04-25"  state="REPORTED"><committee name="Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S6341-6342)"/><text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="2012-11-26"><text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 112-240.</text></action>
+		<calendar under="General Orders" number="553" datetime="2012-11-26" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Agricultural trade"/>
+		<term name="Animal and plant health"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Customs enforcement"/>
+		<term name="Department of Homeland Security"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/6/2011--Introduced.
+Safeguarding American Agriculture Act of 2011 - Amends the Homeland Security Act of 2002 to establish the Office of Agriculture Inspection within U.S. Customs and Border Protection, which shall be headed by the Assistant Commissioner for Agriculture Inspection. Directs the Secretary of Homeland Security (DHS), through the Commissioner of U.S. Customs and Border Protection, to: (1) identify career paths for customs and border protection agriculture specialists, and (2) develop a plan to recruit and retain qualified customs and border protection agriculture specialists. Authorizes the Secretary of Homeland Security and the Secretary of Agriculture (USDA) to establish an interagency rotation program.
+
+	</summary>
+</bill>

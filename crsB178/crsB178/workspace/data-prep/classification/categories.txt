@@ -1,0 +1,33 @@
+1	Congress
+2	Private legislation
+3	Law
+4	Economics and public finance
+5	Water resources development
+6	Emergency management
+7	Commerce
+8	Crime and law enforcement
+9	International affairs
+10	Arts, culture, religion
+11	Energy
+12	Education
+13	Housing and community development
+14	Finance and financial sector
+15	Armed forces and national security
+16	Transportation and public works
+17	Science, technology, communications
+18	Health
+19	Foreign trade and international finance
+20	Social sciences and history
+21	Social welfare
+22	Families
+23	Labor and employment
+24	Public lands and natural resources
+25	Sports and recreation
+26	Animals
+27	Government operations and politics
+28	Agriculture and food
+29	Civil rights and liberties, minority issues
+30	Immigration
+31	Taxation
+32	Native Americans
+33	Environmental protection

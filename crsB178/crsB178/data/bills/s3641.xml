@@ -1,0 +1,39 @@
+<bill session="112" type="s" number="3641" updated="2012-11-29T06:20:36-05:00">
+	<state datetime="2012-11-27">REFERRED</state>
+	<status><introduced datetime="2012-11-27"/></status>
+
+	<introduced datetime="2012-11-27"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Public Health Service Act with regard to research on asthma, and for other purposes.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="412223" joined="2012-11-27"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-27" state="REFERRED"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Cardiovascular and respiratory health"/>
+		<term name="Child health"/>
+		<term name="Government information and archives"/>
+		<term name="Health information and medical records"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Medical research"/>
+		<term name="Research administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

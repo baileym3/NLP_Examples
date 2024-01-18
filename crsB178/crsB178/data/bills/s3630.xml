@@ -1,0 +1,46 @@
+<bill session="112" type="s" number="3630" updated="2012-12-21T06:19:39-05:00">
+	<state datetime="2012-12-19">PASS_OVER:SENATE</state>
+	<status><vote datetime="2012-12-19" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-11-14"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 218 North Milwaukee Street in Waterford, Wisconsin, as the &quot;Captain Rhett W. Schiller Post Office&quot;.</title>
+	</titles>
+	<sponsor id="412496"/>
+	<cosponsors>
+		<cosponsor id="300061" joined="2012-11-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-14" state="REFERRED"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+		<action datetime="2012-12-06"><committee name="Committee on Homeland Security and Governmental Affairs"/><text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text></action>
+		<action datetime="2012-12-19"><text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S8230"/></action>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-12-19" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S8230"/></vote>
+		<action datetime="2012-12-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-12-20T12:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="2012-12-20"><text>Referred to the House Committee on Oversight and Government Reform.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Discharged" />
+		<committee code="" name="Senate Homeland Security and Governmental Affairs" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" activity="Referral" />
+		<committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional tributes"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Postal service"/>
+		<term name="Wisconsin"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/14/2012--Introduced.
+Designates the facility of the United States Postal Service located at 218 North Milwaukee Street in Waterford, Wisconsin, as the &quot;Captain Rhett W. Schiller Post Office.&quot;
+
+	</summary>
+</bill>

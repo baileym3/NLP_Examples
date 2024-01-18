@@ -1,0 +1,64 @@
+<bill session="112" type="s" number="3472" updated="2012-12-31T12:07:15-05:00">
+	<state datetime="2012-12-17">PASS_OVER:SENATE</state>
+	<status><vote datetime="2012-12-17" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-08-01"/>
+	<titles>
+		<title type="short" as="introduced">Uninterrupted Scholars Act</title>
+		<title type="short" as="passed senate">Uninterrupted Scholars Act (USA)</title>
+		<title type="official" as="introduced">A bill to amend the Family Educational Rights and Privacy Act of 1974 to provide improvements to such Act.</title>
+	</titles>
+	<sponsor id="300063"/>
+	<cosponsors>
+		<cosponsor id="412326" joined="2012-08-01"/>
+		<cosponsor id="400034" joined="2012-08-01"/>
+		<cosponsor id="300011" joined="2012-08-01"/>
+		<cosponsor id="300043" joined="2012-12-05"/>
+		<cosponsor id="412378" joined="2012-08-01"/>
+		<cosponsor id="300048" joined="2012-08-01"/>
+		<cosponsor id="300060" joined="2012-09-10"/>
+		<cosponsor id="412242" joined="2012-08-01"/>
+		<cosponsor id="300076" joined="2012-09-10"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-08-01" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S5880)</text></action>
+		<action datetime="2012-08-01" state="REFERRED"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+		<action datetime="2012-12-17"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text></action>
+		<action datetime="2012-12-17"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8091-8092"/></action>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-12-17" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action datetime="2012-12-17T19:31:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="2012-12-17"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-12-17"><text>Referred to the House Committee on Education and the Workforce.</text></action>
+		<action datetime="2012-12-30T17:28:00-05:00"><text>Mr. Roe (TN) moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="2012-12-30T17:28:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7450-7453"/><reference label="text of Senate amendment as received in House" ref="CR H7450"/></action>
+		<action datetime="2012-12-30T17:28:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 3472.</text></action>
+		<action datetime="2012-12-30T17:55:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Roe (TN) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged" />
+		<committee code="HSED" name="House Education and the Workforce" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="5871" />
+		<bill relation="identical" session="112" type="s" number="3478" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Adoption and foster care"/>
+		<term name="Child safety and welfare"/>
+		<term name="Education of the disadvantaged"/>
+		<term name="Education programs funding"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Judicial procedure and administration"/>
+		<term name="Right of privacy"/>
+		<term name="School administration"/>
+	</subjects>
+	<amendments>
+		<amendment number="s3345"/>
+	</amendments>
+	<summary>
+	8/1/2012--Introduced.
+Uninterrupted Scholars Act - Amends provisions of the Family Educational Rights and Privacy Act of 1974 that prohibit the Department of Education from funding educational agencies or institutions that release student educational records (or personally identifiable information other than certain directory information) to any individual, agency, or organization without written parental consent. Expands the list of organizations exempt from such prohibitions (thereby permitting the educational agencies or institutions participating in a Department of Education program to release records or identifiable information to such organizations without parental consent) to include: (1) organizations conducting studies for, or on behalf of, child welfare agencies to improve educational outcomes for students in foster care; and (2) state or local welfare agencies or tribal organizations responsible for a student's placement and care, provided that any disclosure of records for a student's educational needs is consistent with confidentiality laws in the state applicable to personal records. Permits the release of such records and information without additional notice to parents and students when a parent is a party to a child welfare court proceeding and a court order has already been issued in the context of that proceeding.
+
+	</summary>
+</bill>

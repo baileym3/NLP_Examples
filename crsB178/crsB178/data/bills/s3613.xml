@@ -1,0 +1,41 @@
+<bill session="112" type="s" number="3613" updated="2012-11-24T17:55:30-05:00">
+	<state datetime="2012-09-21">REFERRED</state>
+	<status><introduced datetime="2012-09-21"/></status>
+
+	<introduced datetime="2012-09-21"/>
+	<titles>
+		<title type="short" as="introduced">Arctic Research, Monitoring, and Observing Act of 2012</title>
+		<title type="official" as="introduced">A bill to promote research, monitoring, and observation of the Arctic and for other purposes.</title>
+	</titles>
+	<sponsor id="412326"/>
+	<cosponsors>
+		<cosponsor id="300075" joined="2012-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-21" state="REFERRED"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Science, technology, communications"/>
+		<term name="Alaska"/>
+		<term name="Appropriations"/>
+		<term name="Arctic Ocean"/>
+		<term name="Arctic and polar regions"/> <!-- blah -->
+		<term name="Ecology"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Government trust funds"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Research administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

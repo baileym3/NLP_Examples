@@ -1,0 +1,126 @@
+<bill session="112" type="h" number="1845" updated="2013-01-01T12:01:28-05:00">
+	<state datetime="2012-12-21">PASSED:BILL</state>
+	<status><topresident datetime="2012-12-31" /></status>
+
+	<introduced datetime="2011-05-11"/>
+	<titles>
+		<title type="short" as="introduced">Medicare IVIG Access Act</title>
+		<title type="official" as="introduced">To provide for a study on issues relating to access to intravenous immune globulin (IVIG) for Medicare beneficiaries in all care settings and a demonstration project to examine the benefits of providing coverage and payment for items and services necessary to administer IVIG in the home.</title>
+		<title type="official" as="amended by house">To provide a demonstration project providing Medicare coverage for in-home administration of intravenous immune globulin (IVIG) and to amend title XVIII of the Social Security Act with respect to the application of Medicare secondary payer rules for certain claims.</title>
+	</titles>
+	<sponsor id="400046"/>
+	<cosponsors>
+		<cosponsor id="412404" joined="2011-10-25"/>
+		<cosponsor id="412436" joined="2011-10-25"/>
+		<cosponsor id="400032" joined="2011-05-11"/>
+		<cosponsor id="400039" joined="2012-01-17"/>
+		<cosponsor id="400042" joined="2011-07-25"/>
+		<cosponsor id="412208" joined="2012-09-14"/>
+		<cosponsor id="400048" joined="2011-05-23"/>
+		<cosponsor id="400052" joined="2011-05-11"/>
+		<cosponsor id="400616" joined="2011-06-03"/>
+		<cosponsor id="400062" joined="2012-04-26"/>
+		<cosponsor id="412379" joined="2012-09-14"/>
+		<cosponsor id="400080" joined="2012-11-14"/>
+		<cosponsor id="400089" joined="2011-05-23"/>
+		<cosponsor id="400090" joined="2011-05-23"/>
+		<cosponsor id="400101" joined="2011-10-05"/>
+		<cosponsor id="412385" joined="2011-07-05"/>
+		<cosponsor id="412215" joined="2011-09-23"/>
+		<cosponsor id="400124" joined="2011-09-02"/>
+		<cosponsor id="400646" joined="2011-05-26"/>
+		<cosponsor id="412327" joined="2011-05-11"/>
+		<cosponsor id="400144" joined="2012-07-17"/>
+		<cosponsor id="400147" joined="2011-05-23"/>
+		<cosponsor id="400152" joined="2011-06-21"/>
+		<cosponsor id="400160" joined="2011-05-23"/>
+		<cosponsor id="412401" joined="2012-10-05"/>
+		<cosponsor id="400162" joined="2011-06-21"/>
+		<cosponsor id="412280" joined="2012-04-26"/>
+		<cosponsor id="412446" joined="2012-04-26"/>
+		<cosponsor id="412284" joined="2011-05-11"/>
+		<cosponsor id="412199" joined="2012-07-17"/>
+		<cosponsor id="412435" joined="2011-06-21"/>
+		<cosponsor id="400218" joined="2011-05-11"/>
+		<cosponsor id="412287" joined="2012-07-17"/>
+		<cosponsor id="412290" joined="2011-10-05"/>
+		<cosponsor id="400234" joined="2011-06-21"/>
+		<cosponsor id="412293" joined="2011-05-26"/>
+		<cosponsor id="400663" joined="2011-05-11"/>
+		<cosponsor id="400263" joined="2012-04-26"/>
+		<cosponsor id="412487" joined="2011-07-25"/>
+		<cosponsor id="400283" joined="2011-09-12"/>
+		<cosponsor id="412194" joined="2012-07-17"/>
+		<cosponsor id="400291" joined="2011-05-26"/>
+		<cosponsor id="400297" joined="2011-07-26"/>
+		<cosponsor id="400311" joined="2011-05-11"/>
+		<cosponsor id="412303" joined="2011-09-02"/>
+		<cosponsor id="400318" joined="2012-04-26"/>
+		<cosponsor id="400333" joined="2011-06-03"/>
+		<cosponsor id="412253" joined="2011-05-11"/>
+		<cosponsor id="400346" joined="2011-06-21"/>
+		<cosponsor id="400347" joined="2012-09-21"/>
+		<cosponsor id="400349" joined="2011-05-11"/>
+		<cosponsor id="400350" joined="2011-05-11"/>
+		<cosponsor id="412212" joined="2011-05-11"/>
+		<cosponsor id="400361" joined="2011-05-11"/>
+		<cosponsor id="400647" joined="2011-08-05"/>
+		<cosponsor id="400367" joined="2011-06-22"/>
+		<cosponsor id="400379" joined="2011-10-03"/>
+		<cosponsor id="400380" joined="2012-09-14"/>
+		<cosponsor id="400402" joined="2011-05-26"/>
+		<cosponsor id="400406" joined="2011-05-11"/>
+		<cosponsor id="412254" joined="2012-04-26"/>
+		<cosponsor id="400415" joined="2011-05-11"/>
+		<cosponsor id="412413" joined="2011-06-22"/>
+		<cosponsor id="412412" joined="2011-05-23"/>
+		<cosponsor id="400439" joined="2011-06-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-05-11" state="REFERRED"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2011-05-11"><text>Referred to House Ways and Means</text></action>
+		<action datetime="2011-05-11"><text>Referred to House Energy and Commerce</text></action>
+		<action datetime="2011-05-13"><committee name="House Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="2011-05-18"><committee name="House Ways and Means"/><text>Referred to the Subcommittee on Health.</text></action>
+		<action datetime="2012-12-19T13:30:00-05:00"><text>Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="2012-12-19T13:30:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7301-7307"/></action>
+		<action datetime="2012-12-19T13:30:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1845.</text></action>
+		<action datetime="2012-12-19T13:58:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="2012-12-19T14:25:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7307-7308"/></action>
+		<vote how="roll" type="vote" roll="634" datetime="2012-12-19T14:32:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 3 (Roll no. 634).</text><reference label="text" ref="CR H7301-7303"/></vote>
+		<action datetime="2012-12-19T14:32:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-12-19T14:32:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="2012-12-20"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Unanimous Consent" type="vote2" datetime="2012-12-21" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8380"/></vote>
+		<action datetime="2012-12-27"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="2012-12-31" ><text>Presented to President.</text></topresident>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral" />
+		<committee code="" name="House Ways and Means" subcommittee="Health" activity="Referral" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="112" type="s" number="960" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Cancer"/>
+		<term name="Drug and radiation therapy"/>
+		<term name="Government investigations"/>
+		<term name="Health technology, devices, supplies"/>
+		<term name="Hereditary and development disorders"/>
+		<term name="Home and outpatient care"/>
+		<term name="Immunology"/>
+		<term name="Medicare"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	5/11/2011--Introduced.
+Directs the Secretary of Health and Human Services (HHS) to establish a demonstration project under title XVIII (Medicare) of the Social Security Act (SSA) to evaluate the benefits of providing payment for items and services needed for the administration, within the homes of Medicare beneficiaries, of intravenous immune globin (IVIG) for the treatment of primary immune deficiency diseases. Amends SSA title XVIII to treat as durable medical equipment (DME) any disposable drug delivery systems, including elastomeric infusion pumps, for the treatment of colorectal cancer.
+
+	</summary>
+</bill>

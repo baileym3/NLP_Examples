@@ -1,0 +1,43 @@
+<bill session="112" type="sr" number="584" updated="2012-11-24T15:06:54-05:00">
+	<state datetime="2012-09-22">PASSED:SIMPLERES</state>
+	<status><vote datetime="2012-09-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-09-22"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating October 4, 2012, as &quot;Jumpstart's Read for the Record Day&quot;.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="412326" joined="2012-09-22"/>
+		<cosponsor id="412330" joined="2012-09-22"/>
+		<cosponsor id="412384" joined="2012-09-22"/>
+		<cosponsor id="300023" joined="2012-09-22"/>
+		<cosponsor id="400194" joined="2012-09-22"/>
+		<cosponsor id="300060" joined="2012-09-22"/>
+		<cosponsor id="400432" joined="2012-09-22"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-09-22" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR 9/21/2012 S6679-6684; text as passed Senate: CR 9/21/2012 S6682; text of measure as introduced: CR 9/21/2012 S6633)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="sr" number="290" />
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Literacy and language arts"/>
+		<term name="Preschool education"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates October 4, 2012, as Jumpstart's Read for the Record Day. Commends Jumpstart's Read for the Record on its seventh year. (Jumpstart is a national nonprofit early childhood education organization.) Encourages adults to: (1) join children in creating the world's largest shared reading experience, and (2) show their support for literacy and Jumpstart's early education programming for young children in low-income communities.
+
+	</summary>
+</bill>

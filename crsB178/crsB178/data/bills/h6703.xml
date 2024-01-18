@@ -1,0 +1,33 @@
+<bill session="112" type="h" number="6703" updated="2013-01-01T08:51:41-05:00">
+	<state datetime="2012-12-21">REFERRED</state>
+	<status><introduced datetime="2012-12-21"/></status>
+
+	<introduced datetime="2012-12-21"/>
+	<titles>
+		<title type="short" as="introduced">Measuring and Evaluating Trends for Reliability, Integrity, and Continued Success (METRICS) Act</title>
+		<title type="short" as="introduced">METRICS Act</title>
+		<title type="official" as="introduced">To enable States to implement integrated statewide education longitudinal data systems.</title>
+	</titles>
+	<sponsor id="400184"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-21" state="REFERRED"><text>Referred to the House Committee on Education and the Workforce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

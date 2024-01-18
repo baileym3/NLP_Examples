@@ -1,0 +1,46 @@
+<bill session="112" type="sr" number="601" updated="2012-11-29T06:20:30-05:00">
+	<state datetime="2012-11-27">REFERRED</state>
+	<status><introduced datetime="2012-11-27"/></status>
+
+	<introduced datetime="2012-11-27"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commending the people of Albania on the 100th anniversary of the declaration of their independence from the Turkish Ottoman Empire on November 28, 1912, and commending Albanians in Albania and Kosovo for protecting and saving the lives of all Jews who either lived in Albania or sought asylum there during the Holocaust.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-27" state="REFERRED"><text>Referred to the Committee on Foreign Relations.</text><reference label="text of measure as introduced" ref="CR S6948-6949"/></action>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="hr" number="812" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Albania"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="Europe"/>
+		<term name="Germany"/>
+		<term name="Israel"/>
+		<term name="Kosovo"/>
+		<term name="Middle East"/>
+		<term name="Monuments and memorials"/>
+		<term name="Racial and ethnic relations"/>
+		<term name="Refugees, asylum, displaced persons"/>
+		<term name="Religion"/>
+		<term name="Sovereignty, recognition, national governance and status"/>
+		<term name="War crimes, genocide, crimes against humanity"/>
+		<term name="World history"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

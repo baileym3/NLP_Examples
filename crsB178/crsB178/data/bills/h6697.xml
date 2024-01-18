@@ -1,0 +1,39 @@
+<bill session="112" type="h" number="6697" updated="2013-01-01T08:51:22-05:00">
+	<state datetime="2012-12-20">REFERRED</state>
+	<status><introduced datetime="2012-12-20"/></status>
+
+	<introduced datetime="2012-12-20"/>
+	<titles>
+		<title type="short" as="introduced">Consumer Bounty Act</title>
+		<title type="official" as="introduced">To amend the citizen suit provisions in several statutes to impose an additional award to prevailing plaintiffs.</title>
+	</titles>
+	<sponsor id="400227"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-20" state="REFERRED"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, Transportation and Infrastructure, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-12-20"><text>Referred to House Energy and Commerce</text></action>
+		<action datetime="2012-12-20"><text>Referred to House Judiciary</text></action>
+		<action datetime="2012-12-20"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action datetime="2012-12-20"><text>Referred to House Natural Resources</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

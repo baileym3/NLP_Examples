@@ -1,0 +1,50 @@
+<bill session="112" type="h" number="1445" updated="2012-11-24T10:17:37-05:00">
+	<state datetime="2011-04-08">REFERRED</state>
+	<status><introduced datetime="2011-04-08"/></status>
+
+	<introduced datetime="2011-04-08"/>
+	<titles>
+		<title type="official" as="introduced">To prohibit the Administrator of the Environmental Protection Agency from regulating, based on material composition, any type of firearm ammunition or fishing tackle.</title>
+	</titles>
+	<sponsor id="412252"/>
+	<cosponsors>
+		<cosponsor id="412231" joined="2011-04-08"/>
+		<cosponsor id="400029" joined="2011-04-08"/>
+		<cosponsor id="400645" joined="2011-04-08"/>
+		<cosponsor id="412284" joined="2011-04-08"/>
+		<cosponsor id="400220" joined="2011-04-08"/>
+		<cosponsor id="412294" joined="2011-04-12"/>
+		<cosponsor id="400260" joined="2012-03-20"/>
+		<cosponsor id="400279" joined="2011-04-08"/>
+		<cosponsor id="400335" joined="2011-04-08"/>
+		<cosponsor id="400345" joined="2011-04-08"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-04-08" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E689-690)</text></action>
+		<action datetime="2011-04-08" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="2011-04-15"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Environment and the Economy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Environment and the Economy" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="1443" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Environmental Protection Agency (EPA)"/>
+		<term name="Environmental regulatory procedures"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Hunting and fishing"/>
+		<term name="Outdoor recreation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/8/2011--Introduced.
+Prohibits the Administrator of the Environmental Protection Agency (EPA) from prohibiting, limiting, or controlling any type of firearm ammunition or fishing tackle based on material composition. 
+	</summary>
+</bill>

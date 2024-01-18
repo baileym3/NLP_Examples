@@ -1,0 +1,42 @@
+<bill session="112" type="hr" number="724" updated="2012-11-24T09:03:01-05:00">
+	<state datetime="2012-07-10T14:47:00-04:00">PASSED:SIMPLERES</state>
+	<status><vote datetime="2012-07-10T14:47:00-04:00" where="h" result="pass" how="roll" roll="457"/></status>
+
+	<introduced datetime="2012-07-09"/>
+	<titles>
+		<title type="official" as="introduced">Providing for consideration of the bill (H.R. 6079) to repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010.</title>
+	</titles>
+	<sponsor id="400367"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-07-09T20:14:00-04:00" state="INTRODUCED"><text>The House Committee on Rules reported an original measure, H. Rept. 112-587, by Mr. Sessions.</text></action>
+		<action datetime="2012-07-09T20:14:00-04:00"><text>Rule provides for consideration of H.R. 6079 with 5 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text></action>
+		<calendar datetime="2012-07-09T20:14:00-04:00"  state="REPORTED"><text>Placed on the House Calendar, Calendar No. 144.</text></calendar>
+		<action datetime="2012-07-10T13:01:00-04:00"><text>Considered as privileged matter.</text><reference label="consideration" ref="CR H4711-4724"/></action>
+		<action datetime="2012-07-10T13:04:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H. Res. 724.</text></action>
+		<action datetime="2012-07-10T14:41:00-04:00"><text>On ordering the previous question Agreed to by the Yeas and Nays: 238 - 184 (Roll no. 456).</text><reference label="consideration" ref="CR H4722-4723"/><reference label="text" ref="CR H4722-4723"/></action>
+		<vote how="roll" type="vote" roll="457" datetime="2012-07-10T14:47:00-04:00" where="h" result="pass"  state="PASSED:SIMPLERES"><text>On agreeing to the resolution Agreed to by the Yeas and Nays: 240 - 182 (Roll no. 457).</text><reference label="text" ref="CR H4711"/></vote>
+		<action datetime="2012-07-10T14:47:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSRU" name="House Rules" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="6079" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="House of Representatives"/>
+		<term name="Legislative rules and procedure"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/9/2012--Introduced.
+Sets forth the rule for consideration of the bill (H.R. 6079) to repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010.
+
+	</summary>
+</bill>

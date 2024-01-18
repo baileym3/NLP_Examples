@@ -1,0 +1,45 @@
+<bill session="112" type="s" number="3577" updated="2012-11-24T17:54:04-05:00">
+	<state datetime="2012-09-19">REFERRED</state>
+	<status><introduced datetime="2012-09-19"/></status>
+
+	<introduced datetime="2012-09-19"/>
+	<titles>
+		<title type="short" as="introduced">Foreign Prison Conditions Improvement Act of 2012</title>
+		<title type="official" as="introduced">A bill to eliminate conditions in foreign prisons and other detention facilities that do not meet primary indicators of health, sanitation, and safety, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="300055" joined="2012-09-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-19" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6462-6463)</text></action>
+		<action datetime="2012-09-19" state="REFERRED"><text>Read twice and referred to the Committee on Foreign Relations.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="112" type="h" number="6436" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Congressional oversight"/>
+		<term name="Correctional facilities and imprisonment"/>
+		<term name="Department of State"/>
+		<term name="Detention of persons"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Federal officials"/>
+		<term name="Foreign aid and international relief"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government information and archives"/>
+		<term name="Human rights"/>
+		<term name="Sanctions"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

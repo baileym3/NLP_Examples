@@ -1,0 +1,62 @@
+<bill session="112" type="s" number="3202" updated="2012-12-31T12:06:55-05:00">
+	<state datetime="2012-12-30T19:13:00-05:00">PASSED:BILL</state>
+	<status><vote2 datetime="2012-12-30T19:13:00-05:00" where="h" result="pass" how="roll" roll="651"/></status>
+
+	<introduced datetime="2012-05-17"/>
+	<titles>
+		<title type="short" as="introduced">Dignified Burial of Veterans Act of 2012</title>
+		<title type="official" as="introduced">A bill to amend title 38, United States Code, to ensure that deceased veterans with no known next of kin can receive a dignified burial, and for other purposes.</title>
+	</titles>
+	<sponsor id="300076"/>
+	<cosponsors>
+		<cosponsor id="400054" joined="2012-05-17"/>
+		<cosponsor id="412218" joined="2012-06-13"/>
+		<cosponsor id="400194" joined="2012-06-27"/>
+		<cosponsor id="300078" joined="2012-05-17"/>
+		<cosponsor id="412491" joined="2012-05-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-05-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S3287)</text></action>
+		<action datetime="2012-05-17" state="REFERRED"><text>Read twice and referred to the Committee on Veterans' Affairs.</text><reference label="text of measure as introduced" ref="CR S3287"/></action>
+		<action datetime="2012-06-27"><committee name="Committee on Veterans' Affairs. (text of measure as introduced: CR S3287)"/><text>Committee on Veterans' Affairs. Hearings held.</text></action>
+		<action datetime="2012-12-19"><text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text></action>
+		<action datetime="2012-12-19"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8231"/></action>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-12-19" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action datetime="2012-12-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-12-20T12:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="2012-12-20"><text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-12-20"><text>Referred to House Veterans' Affairs</text></action>
+		<action datetime="2012-12-20"><text>Referred to House Armed Services</text></action>
+		<action datetime="2012-12-20"><text>Referred to House Budget</text></action>
+		<action datetime="2012-12-30T16:46:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7442-7446"/></action>
+		<action datetime="2012-12-30T16:46:00-05:00"><text>Mr. Miller (FL) moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="2012-12-30T16:46:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S. 3202.</text></action>
+		<action datetime="2012-12-30T17:00:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Miller (FL) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text></action>
+		<action datetime="2012-12-30T19:07:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7466-7467"/></action>
+		<vote how="roll" type="vote2" roll="651" datetime="2012-12-30T19:13:00-05:00" where="h" result="pass" suspension="1"  state="PASSED:BILL"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 651).</text><reference label="text" ref="CR H7442-7445"/></vote>
+		<action datetime="2012-12-30T19:13:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Discharged" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral" />
+		<committee code="HSAS" name="House Armed Services" activity="Referral" />
+		<committee code="HSBU" name="House Budget" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="6073" />
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Cemeteries and funerals"/>
+		<term name="Congressional oversight"/>
+		<term name="Military personnel and dependents"/>
+	</subjects>
+	<amendments>
+		<amendment number="s3407"/>
+	</amendments>
+	<summary>
+	5/17/2012--Introduced.
+Dignified Burial of Veterans Act of 2012 - Authorizes the Secretary of Veterans Affairs (VA) to furnish a casket or urn of sufficient quality for a dignified burial for the burial in a national cemetery of a deceased veteran in any case where the Secretary is unable to identify the veteran's next-of-kin and determines that sufficient resources for such casket or urn are not otherwise available. Directs the Secretary to report to the congressional veterans committees on VA compliance with industry standards for caskets and urns.
+
+	</summary>
+</bill>

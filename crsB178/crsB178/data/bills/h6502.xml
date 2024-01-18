@@ -1,0 +1,47 @@
+<bill session="112" type="h" number="6502" updated="2012-11-24T14:29:58-05:00">
+	<state datetime="2012-09-21">REFERRED</state>
+	<status><introduced datetime="2012-09-21"/></status>
+
+	<introduced datetime="2012-09-21"/>
+	<titles>
+		<title type="short" as="introduced">Life-Threatening Diseases Compassion through Combination Therapy Act of 2012</title>
+		<title type="official" as="introduced">To amend title V of the Federal Food, Drug, and Cosmetic Act to provide for extensions of marketing exclusivity periods for drugs in certain combinations of such drugs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400570"/>
+	<cosponsors>
+		<cosponsor id="400103" joined="2012-09-21"/>
+		<cosponsor id="400251" joined="2012-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-21" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="2012-09-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Advisory bodies"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Drug and radiation therapy"/>
+		<term name="Drug safety, medical device, and laboratory regulation"/>
+		<term name="Food and Drug Administration (FDA)"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Health information and medical records"/>
+		<term name="Intellectual property"/>
+		<term name="Medical research"/>
+		<term name="Prescription drugs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

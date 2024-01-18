@@ -1,0 +1,34 @@
+<bill session="112" type="s" number="3678" updated="2012-12-19T12:09:56-05:00">
+	<state datetime="2012-12-13">REFERRED</state>
+	<status><introduced datetime="2012-12-13"/></status>
+
+	<introduced datetime="2012-12-13"/>
+	<titles>
+		<title type="official" as="introduced">A bill to help ensure the fiscal solvency of the FHA mortgage insurance programs of the Secretary of Housing and Urban Development, and for other purposes.</title>
+	</titles>
+	<sponsor id="400408"/>
+	<cosponsors>
+		<cosponsor id="400054" joined="2012-12-18"/>
+		<cosponsor id="412324" joined="2012-12-17"/>
+		<cosponsor id="412321" joined="2012-12-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-13" state="REFERRED"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Housing and community development"/>
+		<term name="Housing finance and home ownership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

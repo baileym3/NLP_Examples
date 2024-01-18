@@ -1,0 +1,46 @@
+<bill session="112" type="s" number="3665" updated="2012-12-12T06:15:55-05:00">
+	<state datetime="2012-12-06">REFERRED</state>
+	<status><introduced datetime="2012-12-06"/></status>
+
+	<introduced datetime="2012-12-06"/>
+	<titles>
+		<title type="short" as="introduced">Foster Youth Higher Education Opportunities Act</title>
+		<title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to provide information to foster youth on their potential eligibility for Federal student aid.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="412326" joined="2012-12-06"/>
+		<cosponsor id="412490" joined="2012-12-06"/>
+		<cosponsor id="400064" joined="2012-12-06"/>
+		<cosponsor id="300025" joined="2012-12-11"/>
+		<cosponsor id="412378" joined="2012-12-06"/>
+		<cosponsor id="300055" joined="2012-12-06"/>
+		<cosponsor id="300063" joined="2012-12-06"/>
+		<cosponsor id="300066" joined="2012-12-06"/>
+		<cosponsor id="300076" joined="2012-12-06"/>
+		<cosponsor id="300084" joined="2012-12-06"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-06" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7686-7687)</text></action>
+		<action datetime="2012-12-06" state="REFERRED"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Adoption and foster care"/>
+		<term name="Government information and archives"/>
+		<term name="Higher education"/>
+		<term name="Student aid and college costs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

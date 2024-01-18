@@ -1,0 +1,35 @@
+<bill session="112" type="sr" number="627" updated="2013-01-01T12:05:46-05:00">
+	<state datetime="2012-12-20">PASSED:SIMPLERES</state>
+	<status><vote datetime="2012-12-20" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-12-20"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating the Chairman of the Senate Committee on Appropriations.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-12-20" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8320"/><reference label="text as passed Senate" ref="CR S8320"/><reference label="text of measure as introduced" ref="CR S8305"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional committees"/>
+		<term name="Members of Congress"/>
+		<term name="Senate"/>
+		<term name="Senate Committee on Appropriations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

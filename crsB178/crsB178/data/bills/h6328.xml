@@ -1,0 +1,57 @@
+<bill session="112" type="h" number="6328" updated="2012-12-31T12:05:13-05:00">
+	<state datetime="2012-12-11">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="2012-12-11" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-08-02"/>
+	<titles>
+		<title type="short" as="introduced">Clothe a Homeless Hero Act</title>
+		<title type="short" as="passed house">Clothe a Homeless Hero Act</title>
+		<title type="official" as="introduced">To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to transfer unclaimed clothing recovered at airport security checkpoints to local veterans organizations and other local charitable organizations, and for other purposes.</title>
+	</titles>
+	<sponsor id="412497"/>
+	<cosponsors>
+		<cosponsor id="400041" joined="2012-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-08-02" state="REFERRED"><text>Referred to the House Committee on Homeland Security.</text></action>
+		<action datetime="2012-09-05"><committee name="House Committee on Homeland Security"/><text>Referred to the Subcommittee on Transportation Security.</text></action>
+		<action datetime="2012-11-27T17:16:00-05:00"><text>Mr. Bilirakis moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="2012-11-27T17:16:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6440-6441"/></action>
+		<action datetime="2012-11-27T17:16:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6328.</text></action>
+		<vote how="by voice vote" type="vote" datetime="2012-11-27T17:22:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6440"/></vote>
+		<action datetime="2012-11-27T17:23:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-11-28"><text>Received in the Senate, read twice.</text></action>
+		<action datetime="2012-12-11"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S7752"/></action>
+		<vote how="by Unanimous Consent" type="vote2" datetime="2012-12-11" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Unanimous Consent.</text><reference label="text" ref="CR S7752"/></vote>
+		<action datetime="2012-12-12"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-12-30T17:02:00-05:00"><text>Mr. Bilirakis moved that the House suspend the rules and agree to the Senate amendment.</text><reference label="consideration" ref="CR H7446-7448"/><reference label="text of Senate amendment as received in House" ref="CR H7447"/></action>
+		<action datetime="2012-12-30T17:02:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6328.</text></action>
+		<action datetime="2012-12-30T17:13:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bilirakis objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHM" name="House Homeland Security" activity="Referral" />
+		<committee code="" name="House Homeland Security" subcommittee="Transportation Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="2179" />
+		<bill relation="unknown" session="112" type="s" number="3640" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Aviation and airports"/>
+		<term name="Homelessness and emergency shelter"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Transportation safety and security"/>
+		<term name="Veterans' loans, housing, homeless programs"/>
+		<term name="Veterans' organizations and recognition"/>
+	</subjects>
+	<amendments>
+		<amendment number="s3328"/>
+	</amendments>
+	<summary>
+	8/2/2012--Introduced.
+Clothe a Homeless Hero Act - Directs the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA] ) to transfer unclaimed clothing recovered at airport security checkpoints to local veterans organizations or other local charitable organizations for distribution to homeless or needy veterans and their families. Authorizes the Assistant Secretary to enter into agreements with airport authorities for disposing of such clothing.
+
+	</summary>
+</bill>

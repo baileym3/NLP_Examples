@@ -1,0 +1,38 @@
+<bill session="112" type="h" number="6514" updated="2012-11-24T14:30:29-05:00">
+	<state datetime="2012-09-21">REFERRED</state>
+	<status><introduced datetime="2012-09-21"/></status>
+
+	<introduced datetime="2012-09-21"/>
+	<titles>
+		<title type="short" as="introduced">Cody Miller Initiative for Safer Prescriptions Act</title>
+		<title type="official" as="introduced">To require the Secretary of Health and Human Services to promulgate regulations regarding the authorship, content, format, and dissemination of Patient Medication Information to ensure patients receive consistent and high-quality information about their prescription medications and are aware of the potential risks and benefits of prescription medications.</title>
+	</titles>
+	<sponsor id="412453"/>
+	<cosponsors>
+		<cosponsor id="400140" joined="2012-11-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-21" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="s" number="3212" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Drug safety, medical device, and laboratory regulation"/>
+		<term name="Government information and archives"/>
+		<term name="Health information and medical records"/>
+		<term name="Prescription drugs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

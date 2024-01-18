@@ -1,0 +1,42 @@
+<bill session="112" type="h" number="2370" updated="2012-11-24T11:01:23-05:00">
+	<state datetime="2011-06-24">REFERRED</state>
+	<status><introduced datetime="2011-06-24"/></status>
+
+	<introduced datetime="2011-06-24"/>
+	<titles>
+		<title type="official" as="introduced">To provide funds to the Army Corps of Engineers to hire veterans and members of the Armed Forces to assist the Corps with curation and historic preservation activities, and for other purposes.</title>
+	</titles>
+	<sponsor id="400628"/>
+	<cosponsors>
+		<cosponsor id="400638" joined="2012-02-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-06-24" state="REFERRED"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action datetime="2011-06-27"><committee name="House Committee on Transportation and Infrastructure"/><text>Referred to the Subcommittee on Water Resources and Environment.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee" />
+		<committee code="" name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Archaeology and anthropology"/>
+		<term name="Army Corps of Engineers"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Historical and cultural resources"/>
+		<term name="Infrastructure development"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/24/2011--Introduced.
+Directs the Chief of Engineers to develop a Veterans' Curation Program to hire veterans and members of the Armed Forces to assist in carrying out curation and historic preservation activities.
+
+	</summary>
+</bill>

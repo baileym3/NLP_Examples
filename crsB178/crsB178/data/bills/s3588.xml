@@ -1,0 +1,49 @@
+<bill session="112" type="s" number="3588" updated="2012-11-24T17:54:27-05:00">
+	<state datetime="2012-09-20">REFERRED</state>
+	<status><introduced datetime="2012-09-20"/></status>
+
+	<introduced datetime="2012-09-20"/>
+	<titles>
+		<title type="short" as="introduced">Great Lakes Ecosystem Protection Act of 2012</title>
+		<title type="official" as="introduced">A bill to amend the Federal Water Pollution Control Act to protect and restore the Great Lakes.</title>
+	</titles>
+	<sponsor id="300066"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2012-09-20"/>
+		<cosponsor id="412246" joined="2012-09-20"/>
+		<cosponsor id="300038" joined="2012-09-20"/>
+		<cosponsor id="412223" joined="2012-09-20"/>
+		<cosponsor id="400222" joined="2012-09-20"/>
+		<cosponsor id="412242" joined="2012-09-21"/>
+		<cosponsor id="300087" joined="2012-09-20"/>
+		<cosponsor id="300093" joined="2012-09-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-20" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Advisory bodies"/>
+		<term name="Aquatic ecology"/>
+		<term name="Canada"/>
+		<term name="Congressional oversight"/>
+		<term name="Environmental Protection Agency (EPA)"/>
+		<term name="Great Lakes"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Water quality"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

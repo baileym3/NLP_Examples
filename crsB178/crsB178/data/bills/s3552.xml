@@ -1,0 +1,57 @@
+<bill session="112" type="s" number="3552" updated="2012-11-24T17:52:58-05:00">
+	<state datetime="2012-09-28">ENACTED:SIGNED</state>
+	<status><enacted datetime="2012-09-28" /></status>
+
+	<introduced datetime="2012-09-13"/>
+	<titles>
+		<title type="short" as="introduced">Pesticide Registration Improvement Extension Act of 2012</title>
+		<title type="short" as="passed house">Pesticide Registration Improvement Extension Act of 2012</title>
+		<title type="short" as="passed senate">Pesticide Registration Improvement Extension Act of 2012</title>
+		<title type="short" as="enacted">Pesticide Registration Improvement Extension Act of 2012</title>
+		<title type="official" as="introduced">A bill to reauthorize the Federal Insecticide, Fungicide, and Rodenticide Act.</title>
+	</titles>
+	<sponsor id="300093"/>
+	<cosponsors>
+		<cosponsor id="300083" joined="2012-09-13"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-09-13" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6370-6387"/><reference label="text as passed Senate" ref="CR S6370-6387"/></vote>
+		<action datetime="2012-09-14T10:23:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="2012-09-14"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-09-14T10:35:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="2012-09-14T12:24:00-04:00"><text>Mr. Lucas asked unanimous consent to take from the Speaker's table and consider.</text></action>
+		<action datetime="2012-09-14T12:24:00-04:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H6024-6042"/></action>
+		<vote how="without objection" type="vote2" datetime="2012-09-14T12:24:00-04:00" where="h" result="pass"  state="PASSED:BILL"><text>On passage Passed without objection.</text><reference label="text" ref="CR H6025-6041"/></vote>
+		<action datetime="2012-09-14T12:24:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<topresident datetime="2012-09-20" ><text>Presented to President.</text></topresident>
+		<signed datetime="2012-09-28" ><text>Signed by President.</text></signed>
+		<enacted number="112-177" type="public" datetime="2012-09-28"  state="ENACTED:SIGNED"><text>Became Public Law No: 112-177.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Agricultural pests"/>
+		<term name="Computers and information technology"/>
+		<term name="Endangered and threatened species"/>
+		<term name="Environmental Protection Agency (EPA)"/>
+		<term name="Environmental regulatory procedures"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government information and archives"/>
+		<term name="Government trust funds"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Licensing and registrations"/>
+		<term name="Small business"/>
+		<term name="User charges and fees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

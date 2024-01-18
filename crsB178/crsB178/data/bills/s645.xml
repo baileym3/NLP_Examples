@@ -1,0 +1,60 @@
+<bill session="112" type="s" number="645" updated="2012-11-24T15:38:34-05:00">
+	<state datetime="2012-09-13">REPORTED</state>
+	<status><calendar datetime="2012-09-13" /></status>
+
+	<introduced datetime="2011-03-17"/>
+	<titles>
+		<title type="short" as="introduced">Child Protection Improvements Act of 2011</title>
+		<title type="short" as="reported to senate">Child Protection Improvements Act of 2012</title>
+		<title type="official" as="introduced">A bill to amend the National Child Protection Act of 1993 to establish a permanent background check system.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="412490" joined="2012-08-02"/>
+		<cosponsor id="400034" joined="2012-02-15"/>
+		<cosponsor id="400050" joined="2011-03-17"/>
+		<cosponsor id="412390" joined="2012-09-11"/>
+		<cosponsor id="300040" joined="2011-03-17"/>
+		<cosponsor id="300043" joined="2012-08-01"/>
+		<cosponsor id="412378" joined="2011-12-13"/>
+		<cosponsor id="412223" joined="2011-03-17"/>
+		<cosponsor id="300052" joined="2011-03-17"/>
+		<cosponsor id="412320" joined="2011-03-17"/>
+		<cosponsor id="412242" joined="2012-09-10"/>
+		<cosponsor id="412247" joined="2011-03-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-03-17" state="REFERRED"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+		<calendar datetime="2012-09-13"  state="REPORTED"><committee name="Committee on the Judiciary"/><text>Committee on the Judiciary. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="2012-09-19"><text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="512" datetime="2012-09-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 512.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="1360" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Child care and development"/>
+		<term name="Child safety and welfare"/>
+		<term name="Civil actions and liability"/>
+		<term name="Crimes against children"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Employment discrimination and employee rights"/>
+		<term name="Personnel records"/>
+		<term name="Preschool education"/>
+		<term name="Right of privacy"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/17/2011--Introduced.
+Child Protection Improvements Act of 2011 - Amends the National Child Protection Act of 1993 to direct the Attorney General to: (1) establish policies and procedures for a program for national criminal history background checks for child-serving organizations, (2) assist such organizations in obtaining access to nationwide background checks, (3) establish procedures for ensuring the accuracy of criminal history records, (4) identify individuals convicted of serious misdemeanors or felonies involving children, and (5) collect demographic data relating to individuals and organizations covered by this Act and make reports to Congress on such data. Limits the liability of a child-serving organization for failure to conduct criminal background checks or to take adverse action against employees with a criminal history. Imposes limitations on the disclosure or use of criminal history records. Amends the PROTECT Act to extend the Child Safety Pilot Program.
+
+	</summary>
+</bill>

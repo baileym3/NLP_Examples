@@ -1,0 +1,57 @@
+<bill session="112" type="h" number="6683" updated="2013-01-01T08:52:31-05:00">
+	<state datetime="2012-12-19">REFERRED</state>
+	<status><introduced datetime="2012-12-19"/></status>
+
+	<introduced datetime="2012-12-19"/>
+	<titles>
+		<title type="short" as="introduced">Hurricane Sandy Tax Relief Act of 2012</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide tax relief for damages relating to Hurricane Sandy, and for other purposes.</title>
+	</titles>
+	<sponsor id="400309"/>
+	<cosponsors>
+		<cosponsor id="400003" joined="2012-12-19"/>
+		<cosponsor id="400008" joined="2012-12-19"/>
+		<cosponsor id="412193" joined="2012-12-19"/>
+		<cosponsor id="400087" joined="2012-12-19"/>
+		<cosponsor id="400103" joined="2012-12-19"/>
+		<cosponsor id="400122" joined="2012-12-19"/>
+		<cosponsor id="400142" joined="2012-12-19"/>
+		<cosponsor id="400145" joined="2012-12-19"/>
+		<cosponsor id="412451" joined="2012-12-19"/>
+		<cosponsor id="400641" joined="2012-12-19"/>
+		<cosponsor id="400184" joined="2012-12-19"/>
+		<cosponsor id="400195" joined="2012-12-19"/>
+		<cosponsor id="412290" joined="2012-12-19"/>
+		<cosponsor id="400230" joined="2012-12-19"/>
+		<cosponsor id="400233" joined="2012-12-19"/>
+		<cosponsor id="400244" joined="2012-12-19"/>
+		<cosponsor id="400246" joined="2012-12-19"/>
+		<cosponsor id="400308" joined="2012-12-19"/>
+		<cosponsor id="412506" joined="2012-12-19"/>
+		<cosponsor id="400333" joined="2012-12-19"/>
+		<cosponsor id="412393" joined="2012-12-19"/>
+		<cosponsor id="412449" joined="2012-12-19"/>
+		<cosponsor id="412186" joined="2012-12-19"/>
+		<cosponsor id="400380" joined="2012-12-19"/>
+		<cosponsor id="400409" joined="2012-12-19"/>
+		<cosponsor id="412499" joined="2012-12-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-19" state="REFERRED"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

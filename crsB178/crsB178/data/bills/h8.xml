@@ -1,0 +1,99 @@
+<bill session="112" type="h" number="8" updated="2013-01-01T12:00:49-05:00">
+	<state datetime="2013-01-01">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="2013-01-01" where="s" result="pass" how="roll" roll="251"/></status>
+
+	<introduced datetime="2012-07-24"/>
+	<titles>
+		<title type="short" as="introduced">Job Protection and Recession Prevention Act of 2012</title>
+		<title type="short" as="passed house">Job Protection and Recession Prevention Act of 2012</title>
+		<title type="short" as="passed house">Pathway to Job Creation through a Simpler, Fairer Tax Code Act of 2012</title>
+		<title type="short" as="passed senate">American Taxpayer Relief Act of 2012</title>
+		<title type="official" as="introduced">To extend certain tax relief provisions enacted in 2001 and 2003, and for other purposes.</title>
+		<title type="official" as="amended by house">To extend certain tax relief provisions enacted in 2001 and 2003, and to provide for expedited consideration of a bill providing for comprehensive tax reform, and for other purposes.</title>
+		<title type="official" as="amended by senate">An act entitled the &quot;American Taxpayer Relief Act of 2012&quot;.</title>
+	</titles>
+	<sponsor id="400058"/>
+	<cosponsors>
+		<cosponsor id="412458" joined="2012-07-24"/>
+		<cosponsor id="412478" joined="2012-07-24"/>
+		<cosponsor id="400636" joined="2012-07-24"/>
+		<cosponsor id="400046" joined="2012-07-24"/>
+		<cosponsor id="412196" joined="2012-07-24"/>
+		<cosponsor id="400057" joined="2012-08-01"/>
+		<cosponsor id="400086" joined="2012-07-26"/>
+		<cosponsor id="400633" joined="2012-07-24"/>
+		<cosponsor id="412420" joined="2012-07-24"/>
+		<cosponsor id="400147" joined="2012-07-24"/>
+		<cosponsor id="400158" joined="2012-07-26"/>
+		<cosponsor id="412401" joined="2012-07-26"/>
+		<cosponsor id="400176" joined="2012-07-24"/>
+		<cosponsor id="412284" joined="2012-07-24"/>
+		<cosponsor id="400206" joined="2012-07-24"/>
+		<cosponsor id="400224" joined="2012-07-26"/>
+		<cosponsor id="400656" joined="2012-07-24"/>
+		<cosponsor id="400297" joined="2012-07-24"/>
+		<cosponsor id="412303" joined="2012-07-24"/>
+		<cosponsor id="400626" joined="2012-07-24"/>
+		<cosponsor id="412393" joined="2012-07-24"/>
+		<cosponsor id="400660" joined="2012-07-24"/>
+		<cosponsor id="412202" joined="2012-07-24"/>
+		<cosponsor id="400351" joined="2012-07-24"/>
+		<cosponsor id="412314" joined="2012-07-24"/>
+		<cosponsor id="412471" joined="2012-08-01"/>
+		<cosponsor id="412217" joined="2012-07-24"/>
+		<cosponsor id="400406" joined="2012-07-24"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-07-24" state="REFERRED"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-07-24"><text>Referred to House Ways and Means</text></action>
+		<action datetime="2012-07-24"><text>Referred to House Budget</text></action>
+		<action datetime="2012-07-31T21:14:00-04:00"><text>Rules Committee Resolution H. Res. 747 Reported to House. Rule provides for consideration of H.R. 6169 and H.R. 8. H.R. 6169 is accorded 3 hours of general debate and H.R. 8 is accorded 1 hour of general debate. For H.R. 6169, the amendment in the nature of a substitute printed in Part A of the report is in order and shall be debatable for 20 minutes. For H.R. 8, the amendment in the nature of a substitute printed in Part B is made in order and shall be debatable for 20 minutes. Section 3 provides that on any legislative day from August 3, 2012 through September 7, 2012: (a) the Journal of the proceedings of the previous day shall be considered as approved; (b) the Chair may adjourn the House to meet at a date and time within the limits of clause 4, section 5, article I of the Constitution; and (c) bills and resolutions introduced shall be numbered, listed in the Congressional Record, and when printed shall bear the date of introduction, but may be referred at a later time.</text></action>
+		<action datetime="2012-08-01T14:21:00-04:00"><text>Rule H. Res. 747 passed House.</text></action>
+		<action datetime="2012-08-01T15:22:00-04:00"><text>Rule provides for consideration of H.R. 6169 and H.R. 8. H.R. 6169 is accorded 3 hours of general debate and H.R. 8 is accorded 1 hour of general debate. For H.R. 6169, the amendment in the nature of a substitute printed in Part A of the report is in order and shall be debatable for 20 minutes. For H.R. 8, the amendment in the nature of a substitute printed in Part B is made in order and shall be debatable for 20 minutes. Section 3 provides that on any legislative day from August 3, 2012 through September 7, 2012: (a) the Journal of the proceedings of the previous day shall be considered as approved; (b) the Chair may adjourn the House to meet at a date and time within the limits of clause 4, section 5, article I of the Constitution; and (c) bills and resolutions introduced shall be numbered, listed in the Congressional Record, and when printed shall bear the date of introduction, but may be referred at a later time. Section 4 authorizes the Speaker to appoint Members to perform the duties of the Chair for the duration of the period addressed by section 3 as though under clause 8(a) of rule I. Section 5 of the resolution provides that each day during the period addressed by section 3 shall not constitute a calendar for purposes of section 7 of the War Powers Resolution. Section 6 of the resolution provides that each day during the period addressed by section 3 shall not constitute a legislative day for the purposes of clause 7 of rule XIII (resolutions of inquiry). Section 7 of the resolution provides that for each day during the period addressed by section 3 shall not constitute a calendar or legislative day for purposes of clause 7(c)(1) of rule XXII (motions to instruct conferees). Section 8 of the resolution authorizes the Speaker to entertain motions to suspend the rules on the legislative day of August 2, 2012. Section 9 of the resolution waives the requirement of clause 6(a) of rule XIII (requiring a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House) with respect to any resolution reported through the legislative day of August 2, 2012.</text></action>
+		<action datetime="2012-08-01T15:22:00-04:00"><text>Considered under the provisions of rule H. Res. 747.</text><reference label="consideration" ref="CR H5578-5597"/><reference label="text of measure as introduced in House" ref="CR H5578-5579"/></action>
+		<action datetime="2012-08-01T15:22:00-04:00"><text>DEBATE - The House proceeded with one hour of debate on H.R. 8.</text></action>
+		<action datetime="2012-08-01T16:44:00-04:00"><text>DEBATE - Pursuant to the provisions of H.Res. 747, the House proceeded with 20 minutes of debate on the Levin amendment in the nature of a substitute.</text></action>
+		<action datetime="2012-08-01T17:38:00-04:00"><text>Mr. DeFazio moved to recommit with instructions to Ways and Means.</text><reference label="consideration" ref="CR H5594-5597"/><reference label="text" ref="CR H5594-5595"/></action>
+		<action datetime="2012-08-01T17:39:00-04:00"><text>DEBATE - The House proceeded with 10 minutes of debate on the DeFazio motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to amend the underlying Republican 1 year extension, allowing the tax cuts to expire for income over $1 million. It would use that money for small business expensing and the rest for deficit reduction, for a total of $29 billion over 10 years.</text></action>
+		<action datetime="2012-08-01T17:53:00-04:00"><text>The previous question on the motion to recommit with instructions was ordered without objection.</text><reference label="consideration" ref="CR H5596"/></action>
+		<action datetime="2012-08-01T18:11:00-04:00"><text>On motion to recommit with instructions Failed by recorded vote: 181 - 246 (Roll no. 544).</text><reference label="consideration" ref="CR H5596-5597"/></action>
+		<vote how="roll" type="vote" roll="545" datetime="2012-08-01T18:20:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed by recorded vote: 256 - 171 (Roll no. 545).</text></vote>
+		<action datetime="2012-08-01T18:20:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-09-10"><text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text></action>
+		<calendar under="General Orders" number="502" datetime="2012-09-11" calendar="Senate Legislative" ><text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 502.</text></calendar>
+		<action datetime="2013-01-01"><text>Measure laid before Senate by unanimous consent.</text></action>
+		<vote how="roll" type="vote2" roll="251" datetime="2013-01-01" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate, under the order of 1/1/2013, having achieved 60 votes in the affirmative, with an amendment and an amendment to the Title by Yea-Nay Vote. 89 - 8. Record Vote Number: 251.</text></vote>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral" />
+		<committee code="HSBU" name="House Budget" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="112" type="hr" number="747" />
+		<bill relation="unknown" session="112" type="h" number="6169" />
+		<bill relation="unknown" session="112" type="h" number="6169" />
+		<bill relation="unknown" session="112" type="s" number="3401" />
+		<bill relation="unknown" session="112" type="s" number="3413" />
+		<bill relation="unknown" session="112" type="s" number="3417" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Business investment and capital"/>
+		<term name="Computers and information technology"/>
+		<term name="Income tax credits"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax rates"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Tax reform and tax simplification"/>
+		<term name="Taxation of foreign income"/>
+	</subjects>
+	<amendments>
+		<amendment number="h1473"/>
+		<amendment number="s3448"/>
+		<amendment number="s3450"/>
+	</amendments>
+	<summary>
+	8/1/2012--Passed House amended. Title I: Job Protection and Recession Prevention Act - Job Protection and Recession Prevention Act of 2012 - (Sec. 102) Extends through 2013: (1) the tax rate reductions and other tax benefits of the Economic Growth and Tax Relief Reconciliation Act of 2001, and (2) the reduction in the tax rates for dividend and capital gain income enacted by the Jobs and Growth Tax Relief Reconciliation Act of 2003. (Sec. 103) Amends the Internal Revenue Code to extend for an additional year: (1) the increased expensing allowance for depreciable business assets, including computer software; (2) the increased exemption amount from the alternative minimum tax (AMT) for individual taxpayers; and (3) the offset against the AMT for certain nonrefundable personal tax credits. (Sec. 105) Provides that the budgetary effects of this Act shall not be taken into account under the Statutory Pay-As-You-Go Act of 2010. Title II: Pathway to Job Creation Through a Simpler, Fairer Tax Code Act - Pathway to Job Creation through a Simpler, Fairer Tax Code Act of 2012 - (Sec. 202) States that the purpose of this Act is to provide for the enactment of comprehensive tax reform in 2013 that: (1) protects taxpayers by creating a fairer, simpler, flatter tax code; (2) is comprehensive; (3) results in tax revenue consistent with historical norms; (4) spurs greater investment, innovation and job creation; and (5) makes American workers and businesses more competitive. (Sec. 203) Defines a &quot;tax reform bill&quot; for purposes of this Act as a bill to be introduced by the chair of the House Committee on Ways and Means not later than April 30, 2013, that is certified by the chair of the Joint Committee on Taxation as containing proposals to: (1) consolidate the 6 current individual income tax brackets into a maximum of 2 brackets (of 10% and not higher than 25%), (2) reduce the corporate income tax rate to not more than 25%, (3) repeal the alternative minimum tax (AMT), (4) broaden the tax base so that tax revenues comprise between 18% and 19% of Gross Domestic Product (GDP), and (5) reform the current system of foreign taxation. Provides for the expedited consideration of such bill in the House of Representatives and the Senate.
+
+	</summary>
+</bill>

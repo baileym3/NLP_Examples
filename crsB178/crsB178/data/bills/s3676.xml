@@ -1,0 +1,38 @@
+<bill session="112" type="s" number="3676" updated="2012-12-18T06:19:29-05:00">
+	<state datetime="2012-12-12">REFERRED</state>
+	<status><introduced datetime="2012-12-12"/></status>
+
+	<introduced datetime="2012-12-12"/>
+	<titles>
+		<title type="short" as="introduced">Reducing Duplication Overseas Act of 2012</title>
+		<title type="official" as="introduced">A bill to promote high-quality, cost-efficient, and effective administrative support services to agencies overseas.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-12" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7980-7981)</text></action>
+		<action datetime="2012-12-12" state="REFERRED"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text><reference label="text of measure as introduced" ref="CR S7981-7982"/></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional oversight"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Performance measurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

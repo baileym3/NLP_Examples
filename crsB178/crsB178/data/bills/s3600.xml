@@ -1,0 +1,43 @@
+<bill session="112" type="s" number="3600" updated="2012-11-24T17:54:57-05:00">
+	<state datetime="2012-09-20">REFERRED</state>
+	<status><introduced datetime="2012-09-20"/></status>
+
+	<introduced datetime="2012-09-20"/>
+	<titles>
+		<title type="short" as="introduced">Digital Accountability and Transparency Act of 2012</title>
+		<title type="official" as="introduced">A bill to expand the Federal Funding Accountability and Transparency Act of 2006 to increase accountability and transparency in Federal spending, and for other purposes.</title>
+	</titles>
+	<sponsor id="412321"/>
+	<cosponsors>
+		<cosponsor id="400325" joined="2012-09-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-20" state="REFERRED"><text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="2146" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Accounting and auditing"/>
+		<term name="Advisory bodies"/>
+		<term name="Computers and information technology"/>
+		<term name="Congressional oversight"/>
+		<term name="Employee hiring"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Fraud offenses and financial crimes"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Performance measurement"/>
+		<term name="Public contracts and procurement"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

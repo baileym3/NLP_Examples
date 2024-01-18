@@ -1,0 +1,38 @@
+<bill session="112" type="h" number="6619" updated="2012-12-11T06:12:28-05:00">
+	<state datetime="2012-11-29">REFERRED</state>
+	<status><introduced datetime="2012-11-29"/></status>
+
+	<introduced datetime="2012-11-29"/>
+	<titles>
+		<title type="short" as="introduced">Anchorage Land Conveyance Act of 2012</title>
+		<title type="official" as="introduced">To provide for the unencumbering of title to non-Federal land owned by the city of Anchorage, Alaska, for purposes of economic development by conveyance of the Federal reversion interest to the City.</title>
+	</titles>
+	<sponsor id="400440"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-29" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="2012-12-10"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="112" type="s" number="3633" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Alaska"/>
+		<term name="Economic development"/>
+		<term name="Land transfers"/>
+		<term name="Land use and conservation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

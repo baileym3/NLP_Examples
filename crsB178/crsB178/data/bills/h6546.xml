@@ -1,0 +1,36 @@
+<bill session="112" type="h" number="6546" updated="2012-11-24T14:31:40-05:00">
+	<state datetime="2012-09-21">REFERRED</state>
+	<status><introduced datetime="2012-09-21"/></status>
+
+	<introduced datetime="2012-09-21"/>
+	<titles>
+		<title type="short" as="introduced">Athlete Due Process Protection Act of 2012</title>
+		<title type="official" as="introduced">To amend the Office of National Drug Control Policy Reauthorization Act of 2006 to increase congressional oversight of the United States Anti-Doping Agency.</title>
+	</titles>
+	<sponsor id="400365"/>
+	<cosponsors>
+		<cosponsor id="400080" joined="2012-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-21" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Athletes"/>
+		<term name="Congressional oversight"/>
+		<term name="Drug, alcohol, tobacco use"/>
+		<term name="Due process and equal protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

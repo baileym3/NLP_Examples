@@ -1,0 +1,108 @@
+<bill session="112" type="h" number="1464" updated="2012-12-31T12:02:23-05:00">
+	<state datetime="2012-12-28">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="2012-12-28" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2011-04-08"/>
+	<titles>
+		<title type="short" as="introduced">North Korean Refugee Adoption Act of 2011</title>
+		<title type="short" as="passed house">North Korean Refugee Adoption Act of 2011</title>
+		<title type="official" as="introduced">To develop a strategy for assisting stateless children from North Korea, and for other purposes.</title>
+		<title type="official" as="amended by senate">An act to express the sense of Congress regarding North Korean children and children of one North Korean parent and to require the Department of State regularly to brief appropriate congressional committees on efforts to advocate for and develop a strategy to provide assistance in the best interest of these children.</title>
+	</titles>
+	<sponsor id="400348"/>
+	<cosponsors>
+		<cosponsor id="400003" joined="2011-07-14"/>
+		<cosponsor id="400017" joined="2012-06-26"/>
+		<cosponsor id="400024" joined="2011-09-08"/>
+		<cosponsor id="400025" joined="2012-06-15"/>
+		<cosponsor id="400033" joined="2012-09-10"/>
+		<cosponsor id="400041" joined="2012-06-07"/>
+		<cosponsor id="412395" joined="2012-08-02"/>
+		<cosponsor id="400055" joined="2012-06-07"/>
+		<cosponsor id="400057" joined="2011-07-19"/>
+		<cosponsor id="400068" joined="2011-07-27"/>
+		<cosponsor id="412379" joined="2012-01-31"/>
+		<cosponsor id="412271" joined="2011-07-19"/>
+		<cosponsor id="412272" joined="2011-09-08"/>
+		<cosponsor id="400090" joined="2011-09-08"/>
+		<cosponsor id="400111" joined="2011-07-19"/>
+		<cosponsor id="412420" joined="2011-07-19"/>
+		<cosponsor id="400133" joined="2011-08-01"/>
+		<cosponsor id="400643" joined="2012-06-15"/>
+		<cosponsor id="400140" joined="2011-07-12"/>
+		<cosponsor id="400145" joined="2011-09-08"/>
+		<cosponsor id="400178" joined="2011-07-12"/>
+		<cosponsor id="412200" joined="2011-07-07"/>
+		<cosponsor id="412422" joined="2011-07-12"/>
+		<cosponsor id="400198" joined="2011-07-25"/>
+		<cosponsor id="412460" joined="2012-08-01"/>
+		<cosponsor id="412191" joined="2012-07-09"/>
+		<cosponsor id="400234" joined="2011-07-19"/>
+		<cosponsor id="400237" joined="2012-06-27"/>
+		<cosponsor id="400245" joined="2011-07-28"/>
+		<cosponsor id="400252" joined="2012-07-18"/>
+		<cosponsor id="412468" joined="2011-10-25"/>
+		<cosponsor id="400260" joined="2011-09-08"/>
+		<cosponsor id="400279" joined="2012-07-11"/>
+		<cosponsor id="400283" joined="2011-07-25"/>
+		<cosponsor id="400309" joined="2012-07-10"/>
+		<cosponsor id="400320" joined="2012-06-15"/>
+		<cosponsor id="400333" joined="2011-07-12"/>
+		<cosponsor id="412253" joined="2011-07-12"/>
+		<cosponsor id="412415" joined="2012-06-29"/>
+		<cosponsor id="412394" joined="2011-09-08"/>
+		<cosponsor id="400343" joined="2012-06-27"/>
+		<cosponsor id="400344" joined="2012-06-28"/>
+		<cosponsor id="412202" joined="2012-07-12"/>
+		<cosponsor id="400347" joined="2012-06-21"/>
+		<cosponsor id="400356" joined="2011-10-05"/>
+		<cosponsor id="400361" joined="2012-06-15"/>
+		<cosponsor id="412314" joined="2011-07-12"/>
+		<cosponsor id="400647" joined="2012-06-29"/>
+		<cosponsor id="412399" joined="2012-06-27"/>
+		<cosponsor id="400371" joined="2012-04-19"/>
+		<cosponsor id="400379" joined="2012-06-27"/>
+		<cosponsor id="400387" joined="2012-06-28"/>
+		<cosponsor id="400415" joined="2012-02-07"/>
+		<cosponsor id="412239" joined="2011-09-08"/>
+		<cosponsor id="400435" joined="2011-08-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-04-08" state="REFERRED"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="2012-09-11T18:18:00-04:00"><text>Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="2012-09-11T18:18:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5842-5844"/></action>
+		<action datetime="2012-09-11T18:18:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1464.</text></action>
+		<vote how="by voice vote" type="vote" datetime="2012-09-11T18:31:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H5842-5843"/></vote>
+		<action datetime="2012-09-11T18:32:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-09-12"><text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text></action>
+		<action datetime="2012-12-28"><text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text></action>
+		<action datetime="2012-12-28"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8516"/></action>
+		<vote how="by Unanimous Consent" type="vote2" datetime="2012-12-28" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text></vote>
+		<action datetime="2012-12-30"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral" />
+		<committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="s" number="416" />
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Adoption and foster care"/>
+		<term name="Asia"/>
+		<term name="Child safety and welfare"/>
+		<term name="China"/>
+		<term name="North Korea"/>
+		<term name="Refugees, asylum, displaced persons"/>
+		<term name="South Korea"/>
+	</subjects>
+	<amendments>
+		<amendment number="s3442"/>
+		<amendment number="s3443"/>
+	</amendments>
+	<summary>
+	9/11/2012--Passed House without amendment. (This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) North Korean Refugee Adoption Act of 2012 - Directs the Secretary of State to develop a comprehensive strategy for facilitating the adoption of North Korean children by U.S. citizens. Directs the Secretary to: -consider the challenges that U.S. citizens would encounter in adopting children from North Korea who are living in Hague countries and non-Hague countries regardless of their legal status; -propose solutions to dealing with the situation in which a North Korean refugee child does not have access to a competent authority in the foreign-sending country; -propose solutions to dealing with North Korean refugee children who are not considered habitual residents of the countries in which they are located; -evaluate alternative mechanisms for foreign-sending countries to prove that North Korean refugee children are orphans when documentation is missing or destroyed; -provide suggestions for working with South Korea to establish programs that identify, provide for the immediate care of, assist in the family reunification of, and assist in the international adoption of orphaned North Korean children in South Korea; -provide suggestions for working with international adoption agencies and aid organizations in Asia to establish programs for the identification, immediate care, family reunification, and international adoption of North Korean orphans living outside North Korea; - identify other nations in which large numbers of stateless, orphaned children are living who might be helped by international adoption; and -propose solutions for assisting orphaned children with Chinese fathers and North Korean mothers who are living in China and have no access to Chinese or North Korean resources. Requires a related report to Congress.
+
+	</summary>
+</bill>

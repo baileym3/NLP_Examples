@@ -1,0 +1,62 @@
+<bill session="112" type="sj" number="44" updated="2012-12-31T12:06:01-05:00">
+	<state datetime="2012-09-13">PASS_OVER:SENATE</state>
+	<status><vote datetime="2012-09-13" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-06-14"/>
+	<titles>
+		<title type="official" as="introduced">A joint resolution granting the consent of Congress to the State and Province Emergency Management Assistance Memorandum of Understanding.</title>
+	</titles>
+	<sponsor id="300061"/>
+	<cosponsors>
+		<cosponsor id="412494" joined="2012-06-14"/>
+		<cosponsor id="300066" joined="2012-09-12"/>
+		<cosponsor id="300080" joined="2012-08-01"/>
+		<cosponsor id="300093" joined="2012-09-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-06-14" state="REFERRED"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+		<calendar datetime="2012-08-02"  state="REPORTED"><committee name="Committee on the Judiciary"/><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="2012-08-02"><text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text></action>
+		<calendar under="General Orders" number="494" datetime="2012-08-02" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.</text></calendar>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-09-13" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S6387-6388"/><reference label="text as passed Senate" ref="CR S6387-6388"/></vote>
+		<action datetime="2012-09-14T10:23:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="2012-09-14"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-09-14"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="2012-12-30T18:32:00-05:00"><text>Ms. Ros-Lehtinen moved to suspend the rules and pass the resolution.</text></action>
+		<action datetime="2012-12-30T18:33:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7462-7464"/><reference label="text as received in House" ref="CR H7462-7464"/></action>
+		<action datetime="2012-12-30T18:33:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 44.</text></action>
+		<action datetime="2012-12-30T18:34:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Ros-Lehtinen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Canada"/>
+		<term name="Congressional oversight"/>
+		<term name="Disaster relief and insurance"/>
+		<term name="Emergency planning and evacuation"/>
+		<term name="Illinois"/>
+		<term name="Indiana"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Michigan"/>
+		<term name="Minnesota"/>
+		<term name="Montana"/>
+		<term name="New York State"/>
+		<term name="North Dakota"/>
+		<term name="Ohio"/>
+		<term name="Pennsylvania"/>
+		<term name="Wisconsin"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/13/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Grants the consent of Congress to the State and Province Emergency Management Assistance Memorandum of Understanding entered into between the states of Illinois, Indiana, Ohio, Michigan, Minnesota, Montana, North Dakota, Pennsylvania, New York, and Wisconsin and the Canadian provinces of Alberta, Manitoba, Ontario, and Saskatchewan.
+
+	</summary>
+</bill>

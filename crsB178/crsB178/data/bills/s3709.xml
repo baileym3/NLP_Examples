@@ -1,0 +1,44 @@
+<bill session="112" type="s" number="3709" updated="2012-12-28T06:16:04-05:00">
+	<state datetime="2012-12-21">PASS_OVER:SENATE</state>
+	<status><vote datetime="2012-12-21" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-12-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to require a Government Accountability Office examination of transactions between large financial institutions and the Federal Government, and for other purposes.</title>
+	</titles>
+	<sponsor id="400418"/>
+	<cosponsors>
+		<cosponsor id="400050" joined="2012-12-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-21" state="INTRODUCED"><text>Introduced in the Senate, read twice.</text></action>
+		<action datetime="2012-12-21"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8378-8379"/></action>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-12-21" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action datetime="2012-12-27"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-12-27T14:09:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="2012-12-27"><text>Referred to the House Committee on Financial Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Financial Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Bank accounts, deposits, capital"/>
+		<term name="Banking and financial institutions regulation"/>
+		<term name="Congressional oversight"/>
+		<term name="Financial crises and stabilization"/>
+		<term name="Government lending and loan guarantees"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Insurance industry and regulation"/>
+		<term name="Securities"/>
+	</subjects>
+	<amendments>
+		<amendment number="s3434"/>
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

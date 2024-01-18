@@ -1,0 +1,31 @@
+<bill session="112" type="h" number="6724" updated="2013-01-01T12:05:32-05:00">
+	<state datetime="2012-12-31">REFERRED</state>
+	<status><introduced datetime="2012-12-31"/></status>
+
+	<introduced datetime="2012-12-31"/>
+	<titles>
+		<title type="official" as="introduced">To reform United States export control restrictions relating to commercially-available automotive products and technologies, and for other purposes.</title>
+	</titles>
+	<sponsor id="412465"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-31" state="REFERRED"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

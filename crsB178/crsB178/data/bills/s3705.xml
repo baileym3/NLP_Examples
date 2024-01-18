@@ -1,0 +1,41 @@
+<bill session="112" type="s" number="3705" updated="2012-12-27T06:14:54-05:00">
+	<state datetime="2012-12-21">REFERRED</state>
+	<status><introduced datetime="2012-12-21"/></status>
+
+	<introduced datetime="2012-12-21"/>
+	<titles>
+		<title type="official" as="introduced">A bill to establish a commission to develop a national strategy and recommendations for reducing fatalities resulting from child abuse and neglect.</title>
+	</titles>
+	<sponsor id="300005"/>
+	<cosponsors>
+		<cosponsor id="400064" joined="2012-12-21"/>
+		<cosponsor id="300025" joined="2012-12-21"/>
+		<cosponsor id="300026" joined="2012-12-21"/>
+		<cosponsor id="300060" joined="2012-12-21"/>
+		<cosponsor id="412323" joined="2012-12-21"/>
+		<cosponsor id="300091" joined="2012-12-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-21" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8364-8365)</text></action>
+		<action datetime="2012-12-21" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Families"/>
+		<term name="Advisory bodies"/>
+		<term name="Child safety and welfare"/>
+		<term name="Crime prevention"/>
+		<term name="Domestic violence and child abuse"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

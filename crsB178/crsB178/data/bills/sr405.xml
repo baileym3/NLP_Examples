@@ -1,0 +1,36 @@
+<bill session="112" type="sr" number="405" updated="2012-11-24T14:59:44-05:00">
+	<state datetime="2012-03-22">PASSED:SIMPLERES</state>
+	<status><vote datetime="2012-03-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-03-22"/>
+	<titles>
+		<title type="official" as="introduced">A resolution authorizing the taking of a photograph in the Chamber of the United States Senate.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300072" joined="2012-03-22"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-03-22" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S2007"/><reference label="text as passed Senate" ref="CR S2007"/><reference label="text of measure as introduced" ref="CR S2004"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="sr" number="381" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Photography and imaging"/>
+		<term name="Senate"/>
+		<term name="U.S. Capitol"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/22/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Suspends specified provisions of Rule IV of the Rules for the Regulation of the Senate Wing of the U.S. Capitol and Senate Office Buildings (prohibiting the taking of pictures in the Senate Chamber) to permit the Senate Photographic Studio to photograph the U.S. Senate in actual session on Tuesday, March 27, 2012, at 2:15 p.m.
+
+	</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="112" type="s" number="3715" updated="2013-01-01T12:07:51-05:00">
+	<state datetime="2012-12-30">PASS_OVER:SENATE</state>
+	<status><vote datetime="2012-12-30" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-12-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the limited antitrust exemption contained in the Pandemic and All-Hazards Preparedness Act.</title>
+	</titles>
+	<sponsor id="300051"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-12-30" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8552"/><reference label="text as passed Senate" ref="CR S8552"/></vote>
+		<action datetime="2012-12-31T12:04:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="2012-12-31"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-12-31T17:28:00-05:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="s" number="1855" />
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

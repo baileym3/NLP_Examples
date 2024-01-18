@@ -1,0 +1,47 @@
+<bill session="112" type="s" number="3638" updated="2012-12-04T06:17:07-05:00">
+	<state datetime="2012-11-26">REFERRED</state>
+	<status><introduced datetime="2012-11-26"/></status>
+
+	<introduced datetime="2012-11-26"/>
+	<titles>
+		<title type="short" as="introduced">TEAM Act of 2012</title>
+		<title type="short" as="introduced">Today's Entrepreneurs are Advancing Mentorship Act of 2012</title>
+		<title type="official" as="introduced">A bill to establish an Office of Entrepreneurial Support within the Small Business Administration, and for other purposes.</title>
+	</titles>
+	<sponsor id="300063"/>
+	<cosponsors>
+		<cosponsor id="300051" joined="2012-11-28"/>
+		<cosponsor id="300060" joined="2012-11-26"/>
+		<cosponsor id="300067" joined="2012-12-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-26" state="REFERRED"><text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text></action>
+		<action datetime="2012-11-29"><committee name="Committee on Small Business and Entrepreneurship"/><text>Committee on Small Business and Entrepreneurship. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Business investment and capital"/>
+		<term name="Census and government statistics"/>
+		<term name="Congressional oversight"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Financial literacy"/>
+		<term name="Government information and archives"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Public-private cooperation"/>
+		<term name="Small Business Administration"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

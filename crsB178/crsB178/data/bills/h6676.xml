@@ -1,0 +1,35 @@
+<bill session="112" type="h" number="6676" updated="2013-01-01T08:52:47-05:00">
+	<state datetime="2012-12-18">REFERRED</state>
+	<status><introduced datetime="2012-12-18"/></status>
+
+	<introduced datetime="2012-12-18"/>
+	<titles>
+		<title type="short" as="introduced">Drone Aircraft Privacy and Transparency Act of 2012</title>
+		<title type="official" as="introduced">To amend the FAA Modernization and Reform Act of 2012 to provide guidance and limitations regarding the integration of unmanned aircraft systems into United States airspace, and for other purposes.</title>
+	</titles>
+	<sponsor id="400253"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-18" state="REFERRED"><text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-12-18"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action datetime="2012-12-18"><text>Referred to House Energy and Commerce</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee" />
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

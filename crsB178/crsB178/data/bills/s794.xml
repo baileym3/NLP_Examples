@@ -1,0 +1,39 @@
+<bill session="112" type="s" number="794" updated="2012-11-24T15:45:52-05:00">
+	<state datetime="2011-04-12">REFERRED</state>
+	<status><introduced datetime="2011-04-12"/></status>
+
+	<introduced datetime="2011-04-12"/>
+	<titles>
+		<title type="short" as="introduced">Protecting American Taxpayers from Misconduct Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to disallow any deduction for punitive damages, and for other purposes.</title>
+	</titles>
+	<sponsor id="300065"/>
+	<cosponsors>
+		<cosponsor id="412247" joined="2011-04-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-04-12" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S2395)</text></action>
+		<action datetime="2011-04-12" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S2395"/></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Civil actions and liability"/>
+		<term name="Competition and antitrust"/>
+		<term name="Income tax deductions"/>
+		<term name="Income tax exclusion"/>
+		<term name="Life, casualty, property insurance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/12/2011--Introduced.
+Protecting American Taxpayers from Misconduct Act - Amends the Internal Revenue Code to: (1) deny a tax deduction for any amount paid or incurred for punitive damages in connection with any judgment in, or settlement of, any legal action; and (2) include any amount paid as punitive damages in gross income for income tax purposes. 
+	</summary>
+</bill>

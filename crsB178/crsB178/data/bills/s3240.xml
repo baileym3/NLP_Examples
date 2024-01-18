@@ -1,0 +1,428 @@
+<bill session="112" type="s" number="3240" updated="2012-11-24T17:37:06-05:00">
+	<state datetime="2012-06-21">PASS_OVER:SENATE</state>
+	<status><vote datetime="2012-06-21" where="s" result="pass" how="roll" roll="164"/></status>
+
+	<introduced datetime="2012-05-24"/>
+	<titles>
+		<title type="popular" as="">Farm bill</title>
+		<title type="short" as="introduced">Agriculture Reform, Food, and Jobs Act of 2012</title>
+		<title type="official" as="introduced">An original bill to reauthorize agricultural programs through 2017, and for other purposes.</title>
+	</titles>
+	<sponsor id="300093"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-05-24" state="INTRODUCED"><text>Committee on Agriculture, Nutrition, and Forestry. Original measure reported to Senate by Senator Stabenow. Without written report.</text></action>
+		<calendar datetime="2012-05-24"  state="REPORTED"><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 415.</text></calendar>
+		<calendar datetime="2012-05-24" ><text>Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported favorably.</text></calendar>
+		<action datetime="2012-06-05"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S3714-3723"/></action>
+		<action datetime="2012-06-05"><text>Cloture motion on the motion to proceed to the measure presented in Senate.</text><reference label="consideration" ref="CR S3714"/><reference label="text" ref="CR S3714"/></action>
+		<action datetime="2012-06-06"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S3739-3768, S3773-3776"/></action>
+		<action datetime="2012-06-07"><text>Motion to proceed to consideration of measure made in Senate.</text><reference label="consideration" ref="CR S3803-3835"/></action>
+		<action datetime="2012-06-07"><text>Cloture on the motion to proceed to the bill invoked in Senate by Yea-Nay Vote. 90 - 8. Record Vote Number: 117.</text><reference label="consideration" ref="CR S3807-3808"/><reference label="text" ref="CR S3807-3808"/></action>
+		<action datetime="2012-06-12"><text>Motion to proceed to measure considered in Senate.</text><reference label="consideration" ref="CR S3949-3964"/></action>
+		<action datetime="2012-06-12"><text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S3949"/></action>
+		<action datetime="2012-06-12"><text>Measure laid before Senate by motion.</text><reference label="consideration" ref="CR S3949"/></action>
+		<action datetime="2012-06-12"><text>Motion by Senator Reid to recommit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions to report back forthwith with amendment SA 2391 made in Senate.</text><reference label="consideration" ref="CR S3962"/><reference label="text" ref="CR S3962"/></action>
+		<action datetime="2012-06-13"><text>Considered by Senate.</text><reference label="consideration" ref="CR S4124-4127"/></action>
+		<action datetime="2012-06-19"><text>Considered by Senate.</text><reference label="consideration" ref="CR S4266-4293"/></action>
+		<action datetime="2012-06-19"><text>Motion by Senator Reid to recommit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions to report back forthwith with amendment SA 2391 withdrawn in Senate by Unanimous Consent.</text><reference label="consideration" ref="CR S4266"/></action>
+		<action datetime="2012-06-20"><text>Considered by Senate.</text><reference label="consideration" ref="CR S4334-4359"/></action>
+		<action datetime="2012-06-20"><text>Motion by Senator Lee to recommit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions rejected in Senate by Yea-Nay Vote. 29 - 70. Record Vote Number: 152.</text><reference label="consideration" ref="CR S4350-4351"/><reference label="text" ref="CR S4350"/></action>
+		<action datetime="2012-06-20"><text>Motion by Senator Johnson WI to recommit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions rejected in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 153.</text><reference label="consideration" ref="CR S4351"/></action>
+		<action datetime="2012-06-21"><text>Considered by Senate.</text><reference label="consideration" ref="CR S4381-4400"/></action>
+		<vote how="roll" type="vote" roll="164" datetime="2012-06-21" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate, under the order of 6/18/2012, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 64 - 35. Record Vote Number: 164.</text></vote>
+		<action datetime="2012-06-25"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-06-26T12:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="2012-06-26T20:00:00-04:00"><text>Held at the desk.</text></action>
+		<action datetime="2012-07-10"><text>Senate ordered measure printed as passed.</text></action>
+		<action datetime="2012-08-28"><text>By Senator Stabenow from Committee on Agriculture, Nutrition, and Forestry filed written report under authority of the order of the Senate of 08/02/2012. Report No. 112-203. Additional views filed.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Origin, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="4948" />
+		<bill relation="unknown" session="112" type="h" number="5879" />
+		<bill relation="unknown" session="112" type="h" number="5962" />
+		<bill relation="unknown" session="112" type="h" number="6233" />
+		<bill relation="unknown" session="112" type="s" number="1053" />
+		<bill relation="unknown" session="112" type="s" number="1905" />
+		<bill relation="unknown" session="112" type="s" number="2155" />
+		<bill relation="unknown" session="112" type="s" number="2216" />
+		<bill relation="unknown" session="112" type="s" number="2274" />
+		<bill relation="unknown" session="112" type="s" number="3541" />
+	</relatedbills>
+	<subjects>
+		<term name="Agriculture and food"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Aging"/>
+		<term name="Agricultural conservation and pollution"/>
+		<term name="Agricultural education"/>
+		<term name="Agricultural insurance"/>
+		<term name="Agricultural marketing and promotion"/>
+		<term name="Agricultural pests"/>
+		<term name="Agricultural practices and innovations"/>
+		<term name="Agricultural prices, subsidies, credit"/>
+		<term name="Agricultural research"/>
+		<term name="Agricultural trade"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Animal and plant health"/>
+		<term name="Aquaculture"/>
+		<term name="Aviation and airports"/>
+		<term name="Birds"/>
+		<term name="Chesapeake Bay"/>
+		<term name="Congressional oversight"/>
+		<term name="Department of Agriculture"/>
+		<term name="Disaster relief and insurance"/>
+		<term name="Education programs funding"/>
+		<term name="Energy research"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Farmland"/>
+		<term name="Food assistance and relief"/>
+		<term name="Food supply, safety, and labeling"/>
+		<term name="Forests"/>
+		<term name="General agriculture matters"/>
+		<term name="Government investigations"/>
+		<term name="Government lending and loan guarantees"/>
+		<term name="Great Lakes"/>
+		<term name="Higher education"/>
+		<term name="Infrastructure development"/>
+		<term name="Lakes and rivers"/>
+		<term name="Land use and conservation"/>
+		<term name="Livestock"/>
+		<term name="Manufacturing"/>
+		<term name="Migrant, seasonal, agricultural labor"/>
+		<term name="Minority and disadvantaged businesses"/>
+		<term name="Motor fuels"/>
+		<term name="New York City"/>
+		<term name="Nutrition and diet"/>
+		<term name="Parks, recreation areas, trails"/>
+		<term name="Research administration and funding"/>
+		<term name="Research and development"/>
+		<term name="Rural conditions and development"/>
+		<term name="Student aid and college costs"/>
+		<term name="Transportation safety and security"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+		<term name="Veterinary medicine and animal diseases"/>
+		<term name="Water quality"/>
+		<term name="Water use and supply"/>
+		<term name="Watersheds"/>
+		<term name="Wetlands"/>
+		<term name="Wildlife conservation and habitat protection"/>
+		<term name="Worker safety and health"/>
+	</subjects>
+	<amendments>
+		<amendment number="s2156"/>
+		<amendment number="s2157"/>
+		<amendment number="s2158"/>
+		<amendment number="s2159"/>
+		<amendment number="s2160"/>
+		<amendment number="s2161"/>
+		<amendment number="s2162"/>
+		<amendment number="s2163"/>
+		<amendment number="s2164"/>
+		<amendment number="s2165"/>
+		<amendment number="s2166"/>
+		<amendment number="s2167"/>
+		<amendment number="s2168"/>
+		<amendment number="s2169"/>
+		<amendment number="s2170"/>
+		<amendment number="s2171"/>
+		<amendment number="s2172"/>
+		<amendment number="s2173"/>
+		<amendment number="s2174"/>
+		<amendment number="s2175"/>
+		<amendment number="s2176"/>
+		<amendment number="s2177"/>
+		<amendment number="s2178"/>
+		<amendment number="s2179"/>
+		<amendment number="s2180"/>
+		<amendment number="s2181"/>
+		<amendment number="s2182"/>
+		<amendment number="s2183"/>
+		<amendment number="s2184"/>
+		<amendment number="s2185"/>
+		<amendment number="s2186"/>
+		<amendment number="s2187"/>
+		<amendment number="s2188"/>
+		<amendment number="s2189"/>
+		<amendment number="s2190"/>
+		<amendment number="s2191"/>
+		<amendment number="s2192"/>
+		<amendment number="s2193"/>
+		<amendment number="s2194"/>
+		<amendment number="s2195"/>
+		<amendment number="s2196"/>
+		<amendment number="s2197"/>
+		<amendment number="s2198"/>
+		<amendment number="s2199"/>
+		<amendment number="s2200"/>
+		<amendment number="s2201"/>
+		<amendment number="s2202"/>
+		<amendment number="s2203"/>
+		<amendment number="s2204"/>
+		<amendment number="s2205"/>
+		<amendment number="s2206"/>
+		<amendment number="s2207"/>
+		<amendment number="s2208"/>
+		<amendment number="s2209"/>
+		<amendment number="s2210"/>
+		<amendment number="s2211"/>
+		<amendment number="s2212"/>
+		<amendment number="s2213"/>
+		<amendment number="s2214"/>
+		<amendment number="s2215"/>
+		<amendment number="s2216"/>
+		<amendment number="s2217"/>
+		<amendment number="s2218"/>
+		<amendment number="s2219"/>
+		<amendment number="s2220"/>
+		<amendment number="s2221"/>
+		<amendment number="s2222"/>
+		<amendment number="s2223"/>
+		<amendment number="s2224"/>
+		<amendment number="s2225"/>
+		<amendment number="s2226"/>
+		<amendment number="s2227"/>
+		<amendment number="s2228"/>
+		<amendment number="s2229"/>
+		<amendment number="s2230"/>
+		<amendment number="s2231"/>
+		<amendment number="s2232"/>
+		<amendment number="s2233"/>
+		<amendment number="s2234"/>
+		<amendment number="s2235"/>
+		<amendment number="s2236"/>
+		<amendment number="s2237"/>
+		<amendment number="s2238"/>
+		<amendment number="s2239"/>
+		<amendment number="s2240"/>
+		<amendment number="s2241"/>
+		<amendment number="s2242"/>
+		<amendment number="s2243"/>
+		<amendment number="s2244"/>
+		<amendment number="s2245"/>
+		<amendment number="s2246"/>
+		<amendment number="s2247"/>
+		<amendment number="s2248"/>
+		<amendment number="s2249"/>
+		<amendment number="s2250"/>
+		<amendment number="s2251"/>
+		<amendment number="s2252"/>
+		<amendment number="s2253"/>
+		<amendment number="s2254"/>
+		<amendment number="s2255"/>
+		<amendment number="s2256"/>
+		<amendment number="s2257"/>
+		<amendment number="s2258"/>
+		<amendment number="s2259"/>
+		<amendment number="s2260"/>
+		<amendment number="s2261"/>
+		<amendment number="s2262"/>
+		<amendment number="s2263"/>
+		<amendment number="s2264"/>
+		<amendment number="s2265"/>
+		<amendment number="s2266"/>
+		<amendment number="s2267"/>
+		<amendment number="s2268"/>
+		<amendment number="s2269"/>
+		<amendment number="s2270"/>
+		<amendment number="s2271"/>
+		<amendment number="s2272"/>
+		<amendment number="s2273"/>
+		<amendment number="s2274"/>
+		<amendment number="s2275"/>
+		<amendment number="s2276"/>
+		<amendment number="s2277"/>
+		<amendment number="s2278"/>
+		<amendment number="s2279"/>
+		<amendment number="s2280"/>
+		<amendment number="s2281"/>
+		<amendment number="s2282"/>
+		<amendment number="s2283"/>
+		<amendment number="s2284"/>
+		<amendment number="s2285"/>
+		<amendment number="s2286"/>
+		<amendment number="s2287"/>
+		<amendment number="s2288"/>
+		<amendment number="s2289"/>
+		<amendment number="s2290"/>
+		<amendment number="s2291"/>
+		<amendment number="s2292"/>
+		<amendment number="s2293"/>
+		<amendment number="s2294"/>
+		<amendment number="s2295"/>
+		<amendment number="s2296"/>
+		<amendment number="s2297"/>
+		<amendment number="s2298"/>
+		<amendment number="s2299"/>
+		<amendment number="s2300"/>
+		<amendment number="s2301"/>
+		<amendment number="s2302"/>
+		<amendment number="s2303"/>
+		<amendment number="s2304"/>
+		<amendment number="s2305"/>
+		<amendment number="s2306"/>
+		<amendment number="s2307"/>
+		<amendment number="s2308"/>
+		<amendment number="s2309"/>
+		<amendment number="s2310"/>
+		<amendment number="s2311"/>
+		<amendment number="s2312"/>
+		<amendment number="s2313"/>
+		<amendment number="s2314"/>
+		<amendment number="s2315"/>
+		<amendment number="s2316"/>
+		<amendment number="s2317"/>
+		<amendment number="s2318"/>
+		<amendment number="s2319"/>
+		<amendment number="s2320"/>
+		<amendment number="s2321"/>
+		<amendment number="s2322"/>
+		<amendment number="s2323"/>
+		<amendment number="s2324"/>
+		<amendment number="s2325"/>
+		<amendment number="s2326"/>
+		<amendment number="s2327"/>
+		<amendment number="s2328"/>
+		<amendment number="s2329"/>
+		<amendment number="s2330"/>
+		<amendment number="s2331"/>
+		<amendment number="s2332"/>
+		<amendment number="s2333"/>
+		<amendment number="s2334"/>
+		<amendment number="s2335"/>
+		<amendment number="s2336"/>
+		<amendment number="s2337"/>
+		<amendment number="s2338"/>
+		<amendment number="s2339"/>
+		<amendment number="s2340"/>
+		<amendment number="s2341"/>
+		<amendment number="s2342"/>
+		<amendment number="s2343"/>
+		<amendment number="s2344"/>
+		<amendment number="s2345"/>
+		<amendment number="s2346"/>
+		<amendment number="s2347"/>
+		<amendment number="s2348"/>
+		<amendment number="s2349"/>
+		<amendment number="s2350"/>
+		<amendment number="s2351"/>
+		<amendment number="s2352"/>
+		<amendment number="s2353"/>
+		<amendment number="s2354"/>
+		<amendment number="s2355"/>
+		<amendment number="s2356"/>
+		<amendment number="s2357"/>
+		<amendment number="s2358"/>
+		<amendment number="s2359"/>
+		<amendment number="s2360"/>
+		<amendment number="s2361"/>
+		<amendment number="s2362"/>
+		<amendment number="s2363"/>
+		<amendment number="s2364"/>
+		<amendment number="s2365"/>
+		<amendment number="s2366"/>
+		<amendment number="s2367"/>
+		<amendment number="s2368"/>
+		<amendment number="s2369"/>
+		<amendment number="s2370"/>
+		<amendment number="s2371"/>
+		<amendment number="s2372"/>
+		<amendment number="s2373"/>
+		<amendment number="s2374"/>
+		<amendment number="s2375"/>
+		<amendment number="s2376"/>
+		<amendment number="s2377"/>
+		<amendment number="s2378"/>
+		<amendment number="s2379"/>
+		<amendment number="s2380"/>
+		<amendment number="s2381"/>
+		<amendment number="s2382"/>
+		<amendment number="s2383"/>
+		<amendment number="s2384"/>
+		<amendment number="s2385"/>
+		<amendment number="s2386"/>
+		<amendment number="s2387"/>
+		<amendment number="s2388"/>
+		<amendment number="s2389"/>
+		<amendment number="s2390"/>
+		<amendment number="s2391"/>
+		<amendment number="s2392"/>
+		<amendment number="s2393"/>
+		<amendment number="s2394"/>
+		<amendment number="s2395"/>
+		<amendment number="s2396"/>
+		<amendment number="s2397"/>
+		<amendment number="s2398"/>
+		<amendment number="s2399"/>
+		<amendment number="s2400"/>
+		<amendment number="s2401"/>
+		<amendment number="s2402"/>
+		<amendment number="s2403"/>
+		<amendment number="s2404"/>
+		<amendment number="s2405"/>
+		<amendment number="s2406"/>
+		<amendment number="s2407"/>
+		<amendment number="s2408"/>
+		<amendment number="s2409"/>
+		<amendment number="s2410"/>
+		<amendment number="s2411"/>
+		<amendment number="s2412"/>
+		<amendment number="s2413"/>
+		<amendment number="s2414"/>
+		<amendment number="s2415"/>
+		<amendment number="s2416"/>
+		<amendment number="s2417"/>
+		<amendment number="s2418"/>
+		<amendment number="s2419"/>
+		<amendment number="s2420"/>
+		<amendment number="s2421"/>
+		<amendment number="s2422"/>
+		<amendment number="s2423"/>
+		<amendment number="s2424"/>
+		<amendment number="s2425"/>
+		<amendment number="s2426"/>
+		<amendment number="s2427"/>
+		<amendment number="s2428"/>
+		<amendment number="s2429"/>
+		<amendment number="s2430"/>
+		<amendment number="s2431"/>
+		<amendment number="s2432"/>
+		<amendment number="s2433"/>
+		<amendment number="s2434"/>
+		<amendment number="s2435"/>
+		<amendment number="s2436"/>
+		<amendment number="s2437"/>
+		<amendment number="s2438"/>
+		<amendment number="s2439"/>
+		<amendment number="s2440"/>
+		<amendment number="s2441"/>
+		<amendment number="s2442"/>
+		<amendment number="s2443"/>
+		<amendment number="s2444"/>
+		<amendment number="s2445"/>
+		<amendment number="s2446"/>
+		<amendment number="s2447"/>
+		<amendment number="s2448"/>
+		<amendment number="s2449"/>
+		<amendment number="s2450"/>
+		<amendment number="s2451"/>
+		<amendment number="s2452"/>
+		<amendment number="s2453"/>
+		<amendment number="s2454"/>
+		<amendment number="s2455"/>
+		<amendment number="s2456"/>
+		<amendment number="s2457"/>
+		<amendment number="s2459"/>
+		<amendment number="s2460"/>
+	</amendments>
+	<summary>
+	5/24/2012--Introduced.
+Agriculture Reform, Food, and Jobs Act of 2012 - Repeals, but continues for crop year 2012: (1) direct payments, (2) countercyclical payments, and (3) the average crop revenue election program (ACRE). Establishes the agriculture risk coverage program through crop year 2017 for covered crops to make payments to producers for each planted crop when actual farm or county-wide crop revenue is below the agriculture risk coverage guarantee (89% of historical revenue). Requires producers to choose individual or county coverage. Authorizes: (1) nonrecourse marketing assistance loans, (2) loan deficiency payments, (3) payments in lieu of loan deficiency payments for grazed acreage, (4) programs for upland cotton and extra long staple cotton, (5) assistance for peanuts, (6) recourse loans for high moisture feed grains and seed cotton, and (7) programs for sugar and sugar beets. Establishes a dairy production margin protection program under which participating dairy operations are paid: (1) basic production margin protection program payments when production margins are less than threshold levels, and (2) supplemental production margin protection program payments if purchased by a participating dairy operation. Provides for a transition period under which the dairy production margin protection program and the milk income loss program shall both be in existence and producers may participate in either program. Establishes a dairy market stabilization program to assist in balancing the supply of milk with demand when participating dairy operations are experiencing low or negative operating margins. Terminates the production margin protection and stabilization programs on December 31, 2017. Repeals: (1) the dairy products price support program, (2) the milk income loss contract program, and (3) the dairy export incentive program. Extends: (1) the dairy indemnity program, (2) the dairy forward pricing program, and (3) the dairy promotion and research program. Provides assistance for livestock losses caused by: (1) adverse weather or attacks by federally reintroduced animals, including wolves; and (2) drought or fire. Provides assistance for orchardists and nursery tree growers for commercial losses caused by natural disasters. Suspends permanent price supports for covered commodities, cotton, sugar, and milk through 2017. Revises payment limitation provisions. Extends the conservation reserve program and the farmable wetland program through FY2017. Revises the conservation stewardship program. Extends the environmental quality incentives program through FY2017. Establishes the agricultural conservation easement program for the conservation of eligible land and natural resources through easements or other interests in land. (Combines the purposes and coordinates the functions of the wetlands reserve program, the grassland reserve program, and the farmland protection program.) Extends through FY2017: (1) the conservation of private grazing land program, (2) the grass roots source water protection program, (3) the voluntary public access and habitat incentive program, and (4) the small watershed rehabilitation program. Establishes a terminal lakes assistance program (in lieu of the desert lakes program) for the purchase of eligible land impacted by flooded or terminal lakes and their associated watershed or riparian resources. Authorizes appropriations through FY2017 for: (1) the conservation reserve program, (2) the agricultural conservation easement program, (3) the conservation stewardship program, and (4) the environmental quality incentives program. Repeals: (1) the conservation enhancement program, (2) the emergency forestry conservation reserve program, (3) the wetlands reserve program, (3) the farmland protection program, (4) the grassland reserve program, (5) the agricultural water enhancement program, (6) the wildlife habitat incentive program, (7) the Great Lakes Basin program, (8) the Chesapeake Bay watershed program, (9) the cooperative conservation partnership initiative, and (10) the environmental easement program. Extends specified programs under the Food for Peace Act and the Agricultural Trade Act of 1978 through FY2017. Extends through FY2017: (1) the food for progress program, (2) the Bill Emerson humanitarian trust, and (3) the McGovern-Dole international food for education and child nutrition program. Establishes the Donald Payne Horn of Africa food resilience program. Extends the supplemental nutrition assistance program (SNAP, formerly food stamps) through FY2017. Revises provisions regarding participant eligibility, retail stores, and food assistance security. Extends through FY2017: (1) the food distribution program on Indian reservations, and (2) commodity purchases for emergency food assistance. Extends through FY2017: (1) the commodity distribution program, (2) the commodity supplemental food program, (3) distribution of surplus commodities to special nutrition projects, (4) purchases of fresh fruit and vegetables for schools and service institutions, and (5) the senior farmers' market nutrition program. Revises the hunger-free communities program. Establishes the healthy food financing initiative. Restructures agricultural credit program provisions under the Consolidated Farm and Rural Development Act. Extends through FY2017: (1) guarantee authority for rural electrification or telephone bonds and notes, and (2) expansion of 911 access. Extends the distance learning and telemedicine program through FY2017. Establishes a rural energy savings plan to provide consumer loans to implement energy efficiency measures. Extends the National Agricultural Research, Extension, Education, and Economics Advisory Board until September 30, 2017. Establishes a grant program to develop and sustain veterinary services. Authorizes appropriations for agricultural and food policy research centers. Extends through FY2017: (1) grants and fellowships for food and agricultural sciences education, (2) education grants to Native Alaska Native Hawaiian serving institutions, (3) the nutrition education program, (4) animal heath and disease research programs, (5) grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, (6) grants for Hispanic-serving institutions, (7) grants for international agricultural science and education, and (8) assistance for extension, aquaculture, rangeland, and biosecurity programs. Authorizes appropriations through FY2017 for: (1) sustainable agriculture technology, (2) the genetics resource program, (3) the agricultural weather information system, (3) high priority and organic agriculture research, (4) farm business management, and (5) assistive technology for farmers with disabilities. Establishes a comprehensive food safety training network. Authorizes the prioritization of regional centers of excellence for specialized agricultural commodities. Authorizes appropriations through FY2017 for: (1) wheat disease research, (2) youth organizations, (3) specialty crop research, and (4) the Office of Pest Management Policy. Authorizes appropriations through FY2017 for activities under the Critical Agricultural Materials Act. Revises &quot;1994 Institutions&quot; (Equity in Educational Land-Grant Status Act of 1994) provisions. Establishes four regional integrated pest management centers. Authorizes appropriations through FY2017 for: (1) the Agricultural Biosecurity Communication Center, (2) activities under the National Aquaculture Act of 1990, (3) activities under the Renewable Resources Extension Act of 1978, and (4) the beginning farmer and rancher development program. Authorizes appropriations through FY2017 for: (1) the Agricultural Biosecurity Communication Center, (2) agricultural biosecurity grants and local capacity development. Extends the grazing lands research laboratory through September 30, 2017. Revises budget submission and funding provisions under the Food, Conservation, and Energy Act of 2008. Authorizes appropriations through FY2017 for: (1) the natural products research program, and (2) the sun grant program. Establishes the Foundation for Food and Agriculture Research. Repeals: (1) the forest land enhancement program, (2) the watershed forestry assistance program, (3) the Hispanic-serving institution agricultural land leadership program, and (4) the tribal watershed forestry assistance program. Authorizes appropriations through FY2017 for: (1) the forest stewardship program, (2) the forest legacy program, (3) the community forest and open space conservation program, (4) urban and community forestry assistance, (5) rural revitalization technologies, (6) the Office of International Forestry, (7) insect infestation treatment areas, and (8) the healthy forests reserve program. Authorizes stewardship contracting projects with private persons or other public or private entities to perform land management services for national forests and public lands. Authorizes appropriations through FY2017 for: (1) the biobased marketing program, (2) the bioenergy program for advanced biofuels, (3) the biodiesel fuel education program, (4) the rural energy for America program, (5) biomass research and development, (6) the feedstock flexibility program for bioenergy producers, (7) the biomass crop assistance program, and (8) the community wood energy program. Repeals: (1) the forest biomass for energy program, and (2) the program encouraging biorefineries to replace fossil fuel operating systems with renewable biomass systems. Authorizes appropriations through FY2017 for: (1) the specialty crop market news program, (2) the farmers market and local food promotion program, (3) organic production and market initiatives, (4) national organic program upgrades, (5) food safety initiatives, and (6) specialty crop block grants. Repeals the specialty crop movement-to-market program. Establishes the national clean plant network for pathogen elimination services. Amends federal crop insurance provisions regarding: (1) a supplemental crop insurance coverage option, (2) catastrophic risk protection premiums, (3) enterprise units for irrigated and nonirrigated crops, (4) stacked income protection for upland cotton producers, (5) revenue crop insurance for peanuts, (6) administrative provisions, (7) research and development, (8) whole farm risk management insurance, (9) swine protection, (10) margin coverage for catfish, (11) a weather insurance pilot program, (12) beginning farmers and ranchers, and (13) crop protection on native sod. Authorizes appropriations through FY2017 for outreach and assistance for socially disadvantaged or veteran farmers and ranchers. Establishes: (1) the wildlife reservoir zoonotic disease initiative, and (2) a program to improve the U.S. sheep industry. Authorizes appropriations through FY2017 for: (1) the national aquatic animal health plan, and (2) the trichinae certification program. Authorizes a feral swine eradication pilot program. Establishes the position of Military Veterans Agricultural Liaison. Authorizes appropriations through FY2017 for grants to improve agricultural labor force supply, stability, safety, and training.
+
+	</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="112" type="h" number="4019" updated="2013-01-01T12:02:28-05:00">
+	<state datetime="2012-02-16">REPORTED</state>
+	<status><calendar datetime="2012-02-16" /></status>
+
+	<introduced datetime="2012-02-14"/>
+	<titles>
+		<title type="short" as="introduced">Federal Forests County Revenue, Schools, and Jobs Act of 2012</title>
+		<title type="official" as="introduced">To increase employment and educational opportunities in, and improve the economic stability of, counties containing Federal forest land, while also reducing the cost of managing such land, by providing such counties a dependable source of revenue from such land, and for other purposes.</title>
+	</titles>
+	<sponsor id="400171"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-02-14" state="REFERRED"><text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-02-14"><text>Referred to House Natural Resources</text></action>
+		<action datetime="2012-02-14" state="REPORTED"><text>Referred to House Agriculture</text></action>
+		<action datetime="2012-02-16" state="REFERRED"><committee name="House Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2012-02-16"  state="REPORTED"><committee name="House Natural Resources"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 17.</text></calendar>
+		<action datetime="2012-04-12"><committee name="House Agriculture"/><text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text></action>
+		<action datetime="2012-12-31T14:03:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-737, Part I.</text></action>
+		<action datetime="2012-12-31T14:03:00-05:00"><text>Committee on Agriculture discharged.</text></action>
+		<calendar number="539" datetime="2012-12-31T14:03:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 539.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral, Discharged" />
+		<committee code="" name="House Agriculture" subcommittee="Conservation, Energy, and Forestry" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Administrative remedies"/>
+		<term name="Department of the Interior"/>
+		<term name="Education programs funding"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Forests"/>
+		<term name="Government information and archives"/>
+		<term name="Government trust funds"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Judicial review and appeals"/>
+		<term name="Land use and conservation"/>
+		<term name="Licensing and registrations"/>
+		<term name="Outdoor recreation"/>
+		<term name="State and local finance"/>
+		<term name="User charges and fees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/14/2012--Introduced.
+Federal Forests County Revenue, Schools, and Jobs Act of 2012 - Establishes the County, Schools, and Revenue Trust to provide a dependable source of revenue for each participating beneficiary county containing National Forest System land that was eligible to receive payments under the Secure Rural Schools and Community Self-Determination Act of 2000. Requires County, Schools, and Revenue Trust Projects to generate amounts sufficient to satisfy the annual revenue requirement established for units of the National Forest System. Permits Trust Projects to include projects involving timber sales, mineral development, power generation, and community wildfire protection plans. Allows the Secretary to designate any project that is conducted in response to a catastrophic event in a System unit as a Trust Project. Requires 65% of the amounts derived from a Trust Project to be deposited in the County, Schools, and Revenue Trust and 35% of the amounts derived from a Trust Project to be deposited in the general fund of the Treasury for use by the Forest Service. Entitles counties or other eligible units of local government in which U.S.-owned entitlement land is located to certain payments under the Payment in Lieu of Taxes (PILT) Program through FY2017 and directs the Secretary of the Interior to submit annually to Congress a list of the states that have not submitted the data required for calculating payments under such Program. Directs the Secretary to set an annual fee for, and requires the payment of such fee to the United States by, an authorized owner of a privately built and owned recreational cabin located on National Forest System land. 
+	</summary>
+</bill>

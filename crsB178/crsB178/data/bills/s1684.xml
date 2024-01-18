@@ -1,0 +1,52 @@
+<bill session="112" type="s" number="1684" updated="2012-12-22T06:18:30-05:00">
+	<state datetime="2012-09-13">REPORTED</state>
+	<status><calendar datetime="2012-09-13" /></status>
+
+	<introduced datetime="2011-10-12"/>
+	<titles>
+		<title type="short" as="introduced">Indian Tribal Energy Development and Self-Determination Act Amendments of 2011</title>
+		<title type="official" as="introduced">A bill to amend the Indian Tribal Energy Development and Self-Determination Act of 2005, and for other purposes.</title>
+	</titles>
+	<sponsor id="412251"/>
+	<cosponsors>
+		<cosponsor id="300001" joined="2011-10-12"/>
+		<cosponsor id="300041" joined="2011-10-31"/>
+		<cosponsor id="412494" joined="2011-10-12"/>
+		<cosponsor id="300071" joined="2011-10-12"/>
+		<cosponsor id="400546" joined="2011-10-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-10-12" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6463)</text></action>
+		<action datetime="2011-10-12" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+		<action datetime="2012-04-19"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Hearings held.</text></action>
+		<calendar datetime="2012-09-13"  state="REPORTED"><committee name="Committee on Indian Affairs"/><text>Committee on Indian Affairs. Ordered to be reported with amendments favorably.</text></calendar>
+		<action datetime="2012-12-21"><text>Committee on Indian Affairs. Reported by Senator Akaka with amendments. With written report No. 112-263.</text></action>
+		<calendar under="General Orders" number="575" datetime="2012-12-21" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 575.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Hearings, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Energy assistance for the poor and aged"/>
+		<term name="Energy efficiency and conservation"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Government lending and loan guarantees"/>
+		<term name="Indian lands and resources rights"/>
+		<term name="Indian social and development programs"/>
+		<term name="Oil and gas"/>
+		<term name="Residential rehabilitation and home repair"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/12/2011--Introduced.
+Indian Tribal Energy Development and Self-Determination Act Amendments of 2011 - Amends the Energy Policy Act of 1992 to direct the Secretary of the Interior to provide Indian tribes with technical assistance in planning their energy resource development programs. Makes intertribal organizations eligible for Department of Energy (DOE) Indian energy education planning and management assistance program grants. Allows such grants to be used to increase tribal capacity to manage energy development and efficiency programs. Makes tribal energy development organizations eligible for DOE energy development loan guarantees. Allows leases and business agreements that pool, unitize, or communitize a tribe's energy resources with other energy resources. Requires an energy-related tribal lease, business agreement, or grant of a right-of-way made without the Secretary's approval to: (1) comply with a tribal energy resource agreement between the tribe and the Secretary, or (2) have been entered into with a tribal energy development organization that the Secretary has certified pursuant to a specified process. Alters the process and conditions for the Secretary's approval of tribal energy resource agreements. Makes such agreements effective, if consistent with federal law, until rescinded by the Secretary or by the tribe. Alters the process for determining whether an interested party has a valid claim to be suffering an adverse environmental impact due to a tribe's noncompliance with such agreement. Requires the Secretary to make available to a tribe, upon its request, the amount the Secretary would have had to expend to carry out an activity that the tribe is now carrying out pursuant to a tribal energy resource agreement. Amends the Federal Power Act to include Indian tribes, along with states and municipalities, as having preference for the receipt of preliminary hydroelectric licenses. Amends the Tribal Forest Protection Act of 2004 to direct the Secretary to enter into agreements with Indian tribes for the conduct of demonstration projects to promote biomass energy production on Indian forest land and in nearby communities. Amends the Energy Policy and Conservation Act to provide home weatherization grants directly to Indian tribes if a tribe requests a direct grant and the Secretary of Energy determines that the Indian beneficiaries would not be better served by providing the grant to their state.
+
+	</summary>
+</bill>

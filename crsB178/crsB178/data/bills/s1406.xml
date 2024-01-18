@@ -1,0 +1,44 @@
+<bill session="112" type="s" number="1406" updated="2012-11-24T16:13:37-05:00">
+	<state datetime="2011-07-26">PASS_OVER:SENATE</state>
+	<status><vote datetime="2011-07-26" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2011-07-22"/>
+	<titles>
+		<title type="official" as="introduced">A bill to designate the United States courthouse under construction at 510 19th Street, Bakersfield, California, as the Myron Donovan Crocker United States Courthouse.</title>
+	</titles>
+	<sponsor id="300011"/>
+	<cosponsors>
+		<cosponsor id="300043" joined="2011-07-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-07-22" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action datetime="2011-07-26"><text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text></action>
+		<vote how="by Unanimous Consent" type="vote" datetime="2011-07-26" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S4915"/><reference label="text as passed Senate" ref="CR S4915"/></vote>
+		<action datetime="2011-07-27"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2011-07-27T12:45:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="2011-07-27"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action datetime="2011-07-28"><committee name="House Committee on Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged" />
+		<committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee" />
+		<committee code="" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="112" type="h" number="2650" />
+		<bill relation="unknown" session="112" type="h" number="2650" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="California"/>
+		<term name="Congressional tributes"/>
+		<term name="Government buildings, facilities, and property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/26/2011--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the U.S. courthouse under construction at 510 19th Street, Bakersfield, California, as the &quot;Myron Donovan Crocker United States Courthouse.&quot;
+
+	</summary>
+</bill>

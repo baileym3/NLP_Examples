@@ -1,0 +1,62 @@
+<bill session="112" type="s" number="1701" updated="2012-11-24T16:27:06-05:00">
+	<state datetime="2011-11-02">REPORTED</state>
+	<status><calendar datetime="2011-11-02" /></status>
+
+	<introduced datetime="2011-10-13"/>
+	<titles>
+		<title type="short" as="introduced">Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2011</title>
+		<title type="short" as="reported to senate">Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2011</title>
+		<title type="official" as="introduced">A bill to amend the Harmful Algal Blooms and Hypoxia Research and Control Act of 1998, and for other purposes.</title>
+	</titles>
+	<sponsor id="300091"/>
+	<cosponsors>
+		<cosponsor id="412326" joined="2011-10-13"/>
+		<cosponsor id="412490" joined="2012-05-15"/>
+		<cosponsor id="300011" joined="2011-11-01"/>
+		<cosponsor id="300018" joined="2011-11-01"/>
+		<cosponsor id="400064" joined="2011-10-13"/>
+		<cosponsor id="300025" joined="2011-11-01"/>
+		<cosponsor id="412223" joined="2011-10-13"/>
+		<cosponsor id="412325" joined="2012-02-13"/>
+		<cosponsor id="300078" joined="2011-10-13"/>
+		<cosponsor id="300084" joined="2011-10-13"/>
+		<cosponsor id="412247" joined="2011-10-13"/>
+		<cosponsor id="300100" joined="2011-12-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-10-13" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6507)</text></action>
+		<action datetime="2011-10-13" state="REFERRED"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text><reference label="text of measure as introduced" ref="CR S6507-6510"/></action>
+		<calendar datetime="2011-11-02"  state="REPORTED"><committee name="Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S6507-6510)"/><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="2012-11-13"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 112-237.</text></action>
+		<calendar under="General Orders" number="542" datetime="2012-11-13" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 542.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="2484" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Aquatic ecology"/>
+		<term name="Ecology"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Environmental technology"/>
+		<term name="Great Lakes"/>
+		<term name="Gulf of Mexico"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Marine and coastal resources, fisheries"/>
+		<term name="Marine pollution"/>
+		<term name="Mississippi River"/>
+		<term name="Water quality"/>
+		<term name="Watersheds"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	10/13/2011--Introduced.
+Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2011 - Amends the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 to include the Centers for Disease Control (CDC) as a member of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Requires such Task Force to: (1) establish a national harmful algal bloom and hypoxia program; (2) develop and publish a national harmful algal blooms and hypoxia action strategy; (3) assess interagency work and spending plans for implementing such program's activities; (4) review such program's distribution of federal grants and funding to address research priorities; (5) promote the development of new technologies for predicting, monitoring, and mitigating harmful algal blooms and hypoxia conditions; and (6) report on hypoxia. Gives primary responsibility for administering such program to the National Oceanic and Atmospheric Administration (NOAA). Requires the Under Secretary of Commerce for Oceans and Atmosphere to: (1) develop a national strategy to understand, detect, predict, control, mitigate, and respond to marine and freshwater hypoxia events; (2) prepare work and spending plans for implementing such program and develop and implement the regional research and action plans; (3) identify additional research, development, and demonstration needs and priorities relating to monitoring, prevention, control, mitigation, and response to marine and freshwater harmful algal blooms and hypoxia; (4) integrate and augment existing education programs to improve public understanding of the causes, impacts, and mitigation efforts for such blooms and hypoxia; (5) provide resources to train state and local coastal and water resource managers in the methods and technologies for monitoring, controlling, and mitigating such blooms and hypoxia; (6) support regional efforts to control and mitigate outbreaks; (7) maintain and enhance NOAA's competitive programs relating to such blooms and hypoxia; (8) carry out marine and Great Lakes harmful algal bloom and hypoxia events response activities; and (9) increase the availability to entities of analytical facilities and technologies, operational forecasts, and reference and research materials. Requires the Administrator of the Environmental Protection Agency (EPA), through the Task Force, with respect to such program's freshwater aspects (except for those aspects occurring in the Great Lakes), to: (1) research the ecology of freshwater harmful algal blooms; (2) monitor and respond to such blooms events in lakes, rivers, and reservoirs; and (3) mitigate and control such blooms. Sets forth reporting requirements for the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force. Authorizes appropriations for FY2011-FY2015 for developing such regional research and action plans and related reports.
+
+	</summary>
+</bill>

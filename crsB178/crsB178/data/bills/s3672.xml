@@ -1,0 +1,36 @@
+<bill session="112" type="s" number="3672" updated="2012-12-18T06:17:01-05:00">
+	<state datetime="2012-12-12">REFERRED</state>
+	<status><introduced datetime="2012-12-12"/></status>
+
+	<introduced datetime="2012-12-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to clarify the collateral requirement for certain loans under section 7(d) of the Small Business Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="300063"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-12" state="REFERRED"><text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text></action>
+		<action datetime="2012-12-13"><committee name="Committee on Small Business and Entrepreneurship"/><text>Committee on Small Business and Entrepreneurship. Hearings held.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, Hearings, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Disaster relief and insurance"/>
+		<term name="Government lending and loan guarantees"/>
+		<term name="Housing finance and home ownership"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

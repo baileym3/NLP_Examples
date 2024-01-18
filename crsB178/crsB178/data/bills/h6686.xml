@@ -1,0 +1,32 @@
+<bill session="112" type="h" number="6686" updated="2013-01-01T08:52:21-05:00">
+	<state datetime="2012-12-19">REFERRED</state>
+	<status><introduced datetime="2012-12-19"/></status>
+
+	<introduced datetime="2012-12-19"/>
+	<titles>
+		<title type="short" as="introduced">Mercury Use Reduction Act of 2012</title>
+		<title type="official" as="introduced">To amend the Toxic Substances Control Act relating to certain mercury compounds, products, and processes.</title>
+	</titles>
+	<sponsor id="400124"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-19" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

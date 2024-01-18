@@ -1,0 +1,54 @@
+<bill session="112" type="h" number="6014" updated="2012-12-31T12:05:04-05:00">
+	<state datetime="2012-12-28">PASSED:BILL</state>
+	<status><vote2 datetime="2012-12-28" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-06-21"/>
+	<titles>
+		<title type="short" as="introduced">Katie Sepich Enhanced DNA Collection Act of 2012</title>
+		<title type="short" as="passed house">Katie Sepich Enhanced DNA Collection Act of 2012</title>
+		<title type="official" as="introduced">To authorize the Attorney General to award grants for States to implement minimum and enhanced DNA collection processes.</title>
+		<title type="official" as="amended by house">To authorize the Attorney General to award grants for States to implement DNA arrestee collection processes.</title>
+	</titles>
+	<sponsor id="400361"/>
+	<cosponsors>
+		<cosponsor id="412281" joined="2012-06-21"/>
+		<cosponsor id="412293" joined="2012-06-21"/>
+		<cosponsor id="400313" joined="2012-06-21"/>
+		<cosponsor id="400660" joined="2012-06-21"/>
+		<cosponsor id="412405" joined="2012-06-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-06-21" state="REFERRED"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action datetime="2012-12-18T13:16:00-05:00"><text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="2012-12-18T13:16:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6844-6848"/></action>
+		<action datetime="2012-12-18T13:16:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6014.</text></action>
+		<vote how="by voice vote" type="vote" datetime="2012-12-18T13:42:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H6844-6845"/></vote>
+		<action datetime="2012-12-18T13:42:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-12-18T13:42:00-05:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="2012-12-19"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Unanimous Consent" type="vote2" datetime="2012-12-28" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8515"/></vote>
+		<action datetime="2012-12-30"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="988" />
+		<bill relation="unknown" session="112" type="s" number="250" />
+		<bill relation="unknown" session="112" type="s" number="517" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Criminal investigation, prosecution, interrogation"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Evidence and witnesses"/>
+		<term name="Law enforcement administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/21/2012--Introduced.
+Katie Sepich Enhanced DNA Collection Act of 2012 - Directs the Attorney General to make grants to assist states with costs associated with the implementation of minimum or enhanced DNA collection processes. Defines such processes for the purpose of this Act. 
+	</summary>
+</bill>

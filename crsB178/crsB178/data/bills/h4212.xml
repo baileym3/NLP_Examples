@@ -1,0 +1,88 @@
+<bill session="112" type="h" number="4212" updated="2012-12-31T12:03:25-05:00">
+	<state datetime="2012-12-21">PASS_BACK:SENATE</state>
+	<status><vote2 datetime="2012-12-21" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-03-19"/>
+	<titles>
+		<title type="short" as="introduced">Contaminated Drywall Safety Act of 2012</title>
+		<title type="short" as="passed house">Drywall Safety Act of 2012</title>
+		<title type="short" as="passed senate">Drywall Safety Act of 2012</title>
+		<title type="official" as="introduced">To designate drywall manufactured in China a banned hazardous product, and for other purposes.</title>
+		<title type="official" as="amended by house">To prevent the introduction into commerce of unsafe drywall, to ensure the manufacturer of drywall is readily identifiable, to ensure that problematic drywall removed from homes is not reused, and for other purposes.</title>
+	</titles>
+	<sponsor id="412483"/>
+	<cosponsors>
+		<cosponsor id="400010" joined="2012-09-19"/>
+		<cosponsor id="400038" joined="2012-05-08"/>
+		<cosponsor id="400048" joined="2012-03-19"/>
+		<cosponsor id="412196" joined="2012-03-19"/>
+		<cosponsor id="412195" joined="2012-04-27"/>
+		<cosponsor id="412385" joined="2012-03-19"/>
+		<cosponsor id="400108" joined="2012-03-19"/>
+		<cosponsor id="400137" joined="2012-03-19"/>
+		<cosponsor id="412485" joined="2012-08-02"/>
+		<cosponsor id="400170" joined="2012-03-19"/>
+		<cosponsor id="400253" joined="2012-08-03"/>
+		<cosponsor id="412309" joined="2012-03-19"/>
+		<cosponsor id="412415" joined="2012-03-22"/>
+		<cosponsor id="412411" joined="2012-03-22"/>
+		<cosponsor id="400364" joined="2012-03-19"/>
+		<cosponsor id="400623" joined="2012-03-19"/>
+		<cosponsor id="412413" joined="2012-04-27"/>
+		<cosponsor id="412412" joined="2012-03-22"/>
+		<cosponsor id="412255" joined="2012-03-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-03-19" state="REFERRED"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-03-19"><text>Referred to House Energy and Commerce</text></action>
+		<action datetime="2012-03-19"><text>Referred to House Foreign Affairs</text></action>
+		<action datetime="2012-05-07"><committee name="House Foreign Affairs"/><text>Referred to the Subcommittee on Asia and the Pacific.</text></action>
+		<action datetime="2012-05-07"><committee name="House Foreign Affairs"/><text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text></action>
+		<action datetime="2012-09-19T20:33:00-04:00"><text>Mrs. Bono Mack moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="2012-09-19T20:33:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6134-6137"/></action>
+		<action datetime="2012-09-19T20:33:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4212.</text></action>
+		<vote how="by voice vote" type="vote" datetime="2012-09-19T20:49:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H6134-6135"/></vote>
+		<action datetime="2012-09-19T20:49:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-09-19T20:49:00-04:00"><text>The title of the measure was amended. Agreed to without objection.</text></action>
+		<action datetime="2012-09-20"><text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<action datetime="2012-12-21"><text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text></action>
+		<action datetime="2012-12-21"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8377-8378"/></action>
+		<vote how="by Unanimous Consent" type="vote2" datetime="2012-12-21" where="s" result="pass"  state="PASS_BACK:SENATE"><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action datetime="2012-12-27"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-12-30T17:14:00-05:00"><text>Mr. Terry moved that the House suspend the rules and agree to the Senate amendment.</text><reference label="consideration" ref="CR H7448-7450"/><reference label="text of Senate amendment as received in House" ref="CR H7448-7449"/></action>
+		<action datetime="2012-12-30T17:14:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 4212.</text></action>
+		<action datetime="2012-12-30T17:27:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Hochul objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Asia and the Pacific" activity="Referral" />
+		<committee code="" name="House Foreign Affairs" subcommittee="Terrorism, Nonproliferation, and Trade" activity="Referral" />
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Asia"/>
+		<term name="Building construction"/>
+		<term name="China"/>
+		<term name="Civil actions and liability"/>
+		<term name="Consumer Product Safety Commission"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Jurisdiction and venue"/>
+		<term name="Materials"/>
+		<term name="Product safety and quality"/>
+		<term name="Residential rehabilitation and home repair"/>
+		<term name="Trade restrictions"/>
+	</subjects>
+	<amendments>
+		<amendment number="s3432"/>
+	</amendments>
+	<summary>
+	9/19/2012--Passed House amended. Drywall Safety Act of 2012 - Expresses the sense of Congress that the Secretary of Commerce should insist that: (1) the government of China, which has ownership interests in the companies that manufactured and exported problematic drywall to the United States, facilitate a meeting between the companies and U.S. government representatives about remedying affected homeowners; and (2) such companies comply with any related U.S. court decisions. Requires the Consumer Product Safety Commission (CPSC) to promulgate final rules concerning drywall manufactured or imported for domestic use that: (1) require each sheet to be permanently marked with the name of the manufacturer and the month and year of manufacture, and (2) limit sulfur content to a level not associated with elevated rates of corrosion in the home. Provides exceptions, and means of enforcement as a rule, if the CPSC determines that a voluntary standard in each case is adequate to permit identification and publishes the determination in the Federal Register. Provides procedures for revision of voluntary standards. Allows the initiation at any time of a subsequent rulemaking to reduce sulfur content or include a provision concerning drywall composition or characteristics that the CPSC determines is reasonably necessary to protect public health or safety. Directs the CPSC to revise its &quot;Remediation Guidance for Homes with Corrosion from Problem Drywall&quot; to specify that problematic drywall removed pursuant to the guidance should not be reused or used as a component in production of new drywall.
+
+	</summary>
+</bill>

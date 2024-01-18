@@ -1,0 +1,42 @@
+<bill session="112" type="h" number="6654" updated="2012-12-21T06:22:34-05:00">
+	<state datetime="2012-12-13">REFERRED</state>
+	<status><introduced datetime="2012-12-13"/></status>
+
+	<introduced datetime="2012-12-13"/>
+	<titles>
+		<title type="short" as="introduced">Foreign Counterfeit Merchandise Prevention Act</title>
+		<title type="official" as="introduced">To provide for the exchange of information related to trade enforcement, and for other purposes.</title>
+	</titles>
+	<sponsor id="400652"/>
+	<cosponsors>
+		<cosponsor id="400071" joined="2012-12-13"/>
+		<cosponsor id="412435" joined="2012-12-18"/>
+		<cosponsor id="400245" joined="2012-12-13"/>
+		<cosponsor id="400654" joined="2012-12-18"/>
+		<cosponsor id="400267" joined="2012-12-18"/>
+		<cosponsor id="400355" joined="2012-12-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-13" state="REFERRED"><text>Referred to the House Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="4216" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Crimes against property"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Customs enforcement"/>
+		<term name="Government information and archives"/>
+		<term name="Intellectual property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

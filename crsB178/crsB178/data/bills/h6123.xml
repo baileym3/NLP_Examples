@@ -1,0 +1,39 @@
+<bill session="112" type="h" number="6123" updated="2012-11-24T14:10:42-05:00">
+	<state datetime="2012-07-12">REFERRED</state>
+	<status><introduced datetime="2012-07-12"/></status>
+
+	<introduced datetime="2012-07-12"/>
+	<titles>
+		<title type="short" as="introduced">Fulfilling Our Promise to Student Veterans Act of 2012</title>
+		<title type="official" as="introduced">To clarify the authority of the Secretary of the Army to correct erroneous Army College Fund benefit amounts.</title>
+	</titles>
+	<sponsor id="400663"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-07-12" state="REFERRED"><text>Referred to the House Committee on Armed Services.</text></action>
+		<action datetime="2012-07-26"><committee name="House Committee on Armed Services"/><text>Referred to the Subcommittee on Military Personnel.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSAS" name="House Armed Services" activity="Referral, In Committee" />
+		<committee code="" name="House Armed Services" subcommittee="Military Personnel" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Personnel records"/>
+		<term name="Veterans' education, employment, rehabilitation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/12/2012--Introduced.
+Fulfilling Our Promise to Student Veterans Act of 2012 - Amends the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 to include among the members and former members of the Armed Forces authorized to request the correction of erroneous Army College Fund benefit amounts those members serving on active duty at the time the request is submitted. Reauthorizes through 2015 any payments required in connection with such corrections.
+
+	</summary>
+</bill>

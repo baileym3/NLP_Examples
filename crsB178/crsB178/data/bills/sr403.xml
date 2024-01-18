@@ -1,0 +1,37 @@
+<bill session="112" type="sr" number="403" updated="2012-11-24T14:59:40-05:00">
+	<state datetime="2012-03-21">PASSED:SIMPLERES</state>
+	<status><vote datetime="2012-03-21" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-03-21"/>
+	<titles>
+		<title type="official" as="introduced">A resolution to authorize testimony, document production, and legal representation in United States v. Richard F. &quot;Dickie&quot; Scruggs.</title>
+	</titles>
+	<sponsor id="300082"/>
+	<cosponsors>
+		<cosponsor id="300072" joined="2012-03-21"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-03-21" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S1944-1945"/><reference label="text as passed Senate" ref="CR S1944-1945"/><reference label="text of measure as introduced" ref="CR S1942"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional officers and employees"/>
+		<term name="Criminal investigation, prosecution, interrogation"/>
+		<term name="Evidence and witnesses"/>
+		<term name="Legislative rules and procedure"/>
+		<term name="Senate"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	3/21/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes: (1) Hugh Gamble, Brad Davis (including the production of documents), and any other employee from whom testimony may be necessary to testify in the case of United States v. Richard F. &quot;Dickie&quot; Scruggs, except concerning matters for which a privilege should be asserted; and (2) the Senate Legal Counsel to represent such individuals and any other employee of the Senate from whom evidence may be sought in connection with such case.
+
+	</summary>
+</bill>

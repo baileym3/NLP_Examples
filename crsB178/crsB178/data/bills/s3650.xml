@@ -1,0 +1,44 @@
+<bill session="112" type="s" number="3650" updated="2012-12-05T06:18:12-05:00">
+	<state datetime="2012-11-29">REFERRED</state>
+	<status><introduced datetime="2012-11-29"/></status>
+
+	<introduced datetime="2012-11-29"/>
+	<titles>
+		<title type="short" as="introduced">Ditch and Irrigation Company Tax Reform Act</title>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to facilitate water leasing and water transfers to promote conservation and efficiency.</title>
+	</titles>
+	<sponsor id="400412"/>
+	<cosponsors>
+		<cosponsor id="412251" joined="2012-11-29"/>
+		<cosponsor id="412330" joined="2012-11-29"/>
+		<cosponsor id="300030" joined="2012-11-29"/>
+		<cosponsor id="300041" joined="2012-12-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-29" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S7219)</text></action>
+		<action datetime="2012-11-29" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text><reference label="text of measure as introduced" ref="CR S7219-7220"/></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="6462" />
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Business investment and capital"/>
+		<term name="Corporate finance and management"/>
+		<term name="Farmland"/>
+		<term name="Financial services and investments"/>
+		<term name="Land transfers"/>
+		<term name="Securities"/>
+		<term name="Tax-exempt organizations"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

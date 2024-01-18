@@ -1,0 +1,46 @@
+<bill session="112" type="h" number="6484" updated="2012-11-24T14:29:05-05:00">
+	<state datetime="2012-09-21">REFERRED</state>
+	<status><introduced datetime="2012-09-21"/></status>
+
+	<introduced datetime="2012-09-21"/>
+	<titles>
+		<title type="short" as="introduced">SAFE Levee Act</title>
+		<title type="short" as="introduced">Shielding Against Flood Emergencies Levee Act</title>
+		<title type="official" as="introduced">To amend the Calfed Bay-Delta Authorization Act to authorize the Secretary of the Interior to provide assistance to non-Federal interests for levee stability improvements located within the Sacramento-San Joaquin Delta related to Bureau of Reclamation Central Valley Project water deliveries, and for other purposes.</title>
+	</titles>
+	<sponsor id="412382"/>
+	<cosponsors>
+		<cosponsor id="400663" joined="2012-09-21"/>
+		<cosponsor id="412189" joined="2012-09-21"/>
+		<cosponsor id="400278" joined="2012-09-21"/>
+		<cosponsor id="400403" joined="2012-09-21"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-21" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="2012-10-04"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Water and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Water and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="California"/>
+		<term name="Congressional oversight"/>
+		<term name="Dams and canals"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Floods and storm protection"/>
+		<term name="Government investigations"/>
+		<term name="Water resources funding"/>
+		<term name="Water use and supply"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

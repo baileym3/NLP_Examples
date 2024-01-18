@@ -1,0 +1,36 @@
+<bill session="112" type="h" number="5099" updated="2012-11-24T13:18:34-05:00">
+	<state datetime="2012-04-27">REFERRED</state>
+	<status><introduced datetime="2012-04-27"/></status>
+
+	<introduced datetime="2012-04-27"/>
+	<titles>
+		<title type="official" as="introduced">To reduce temporarily the duty on certain AC electric motors of an output exceeding 37.5 W but not exceeding 72 W.</title>
+	</titles>
+	<sponsor id="400147"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-04-27" state="REFERRED"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="2012-05-02"><committee name="House Committee on Ways and Means"/><text>Referred to the Subcommittee on Trade .</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="" name="House Ways and Means" subcommittee="Trade" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Foreign trade and international finance"/>
+		<term name="Tariffs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/27/2012--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to reduce temporarily the duty on certain AC electric motors of an output exceeding 37.5 W but not exceeding 72 W.
+
+	</summary>
+</bill>

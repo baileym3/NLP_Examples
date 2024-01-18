@@ -1,0 +1,51 @@
+<bill session="112" type="h" number="6672" updated="2013-01-01T08:53:44-05:00">
+	<state datetime="2012-12-19T14:25:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="2012-12-19T14:25:00-05:00" where="h" result="pass" how="roll" roll="633"/></status>
+
+	<introduced datetime="2012-12-17"/>
+	<titles>
+		<title type="short" as="introduced">Pandemic and All-Hazards Preparedness Reauthorization Act of 2012</title>
+		<title type="short" as="passed house">Pandemic and All-Hazards Preparedness Reauthorization Act of 2012</title>
+		<title type="official" as="introduced">To reauthorize certain programs under the Public Health Service Act and the Federal Food, Drug, and Cosmetic Act with respect to public health security and all-hazards preparedness and response, and for other purposes.</title>
+	</titles>
+	<sponsor id="400342"/>
+	<cosponsors>
+		<cosponsor id="400052" joined="2012-12-17"/>
+		<cosponsor id="400124" joined="2012-12-17"/>
+		<cosponsor id="400160" joined="2012-12-17"/>
+		<cosponsor id="400308" joined="2012-12-17"/>
+		<cosponsor id="400320" joined="2012-12-17"/>
+		<cosponsor id="400409" joined="2012-12-17"/>
+		<cosponsor id="400414" joined="2012-12-17"/>
+		<cosponsor id="400425" joined="2012-12-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-17" state="REFERRED"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-12-17"><text>Referred to House Energy and Commerce</text></action>
+		<action datetime="2012-12-17"><text>Referred to House Veterans' Affairs</text></action>
+		<action datetime="2012-12-19T12:42:00-05:00"><text>Mr. Rogers (MI) moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="2012-12-19T12:42:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7282-7296"/></action>
+		<action datetime="2012-12-19T12:42:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6672.</text></action>
+		<action datetime="2012-12-19T13:01:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="2012-12-19T14:00:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7307"/></action>
+		<vote how="roll" type="vote" roll="633" datetime="2012-12-19T14:25:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 383 - 16 (Roll no. 633).</text><reference label="text" ref="CR H7282-7292"/></vote>
+		<action datetime="2012-12-19T14:25:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-12-19"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral" />
+		<committee code="HSVR" name="House Veterans' Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

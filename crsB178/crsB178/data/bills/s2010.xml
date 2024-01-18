@@ -1,0 +1,53 @@
+<bill session="112" type="s" number="2010" updated="2012-11-24T16:43:05-05:00">
+	<state datetime="2011-12-16">REFERRED</state>
+	<status><introduced datetime="2011-12-16"/></status>
+
+	<introduced datetime="2011-12-16"/>
+	<titles>
+		<title type="short" as="introduced">Social Security Fairness Act of 2011</title>
+		<title type="official" as="introduced">A bill to amend title II of the Social Security Act to repeal the Government pension offset and windfall elimination provisions.</title>
+	</titles>
+	<sponsor id="300060"/>
+	<cosponsors>
+		<cosponsor id="412326" joined="2012-03-08"/>
+		<cosponsor id="300011" joined="2012-03-20"/>
+		<cosponsor id="412384" joined="2012-04-26"/>
+		<cosponsor id="400050" joined="2012-02-14"/>
+		<cosponsor id="300018" joined="2012-01-30"/>
+		<cosponsor id="300025" joined="2011-12-16"/>
+		<cosponsor id="412218" joined="2012-04-16"/>
+		<cosponsor id="300056" joined="2012-06-05"/>
+		<cosponsor id="300058" joined="2012-01-31"/>
+		<cosponsor id="300064" joined="2012-02-15"/>
+		<cosponsor id="300065" joined="2012-05-17"/>
+		<cosponsor id="300075" joined="2012-05-14"/>
+		<cosponsor id="300081" joined="2012-01-26"/>
+		<cosponsor id="400357" joined="2012-03-22"/>
+		<cosponsor id="300091" joined="2012-01-31"/>
+		<cosponsor id="300093" joined="2012-07-30"/>
+		<cosponsor id="400413" joined="2012-01-23"/>
+		<cosponsor id="412247" joined="2012-01-30"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-12-16" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="112" type="h" number="1332" />
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Social security and elderly assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/16/2011--Introduced.
+Social Security Fairness Act of 2011 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to repeal: (1) government pension offset requirements applicable to husband's and wife's insurance benefits, widow's and widower's insurance benefits, and mother's and father's insurance benefits with respect to OASDI payments; and (2) windfall elimination requirements with respect to computation of an individual's primary insurance amount.
+
+	</summary>
+</bill>

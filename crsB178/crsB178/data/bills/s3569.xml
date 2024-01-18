@@ -1,0 +1,43 @@
+<bill session="112" type="s" number="3569" updated="2012-11-24T17:53:37-05:00">
+	<state datetime="2012-09-19">REFERRED</state>
+	<status><introduced datetime="2012-09-19"/></status>
+
+	<introduced datetime="2012-09-19"/>
+	<titles>
+		<title type="short" as="introduced">Cloud Computing Act of 2012</title>
+		<title type="official" as="introduced">A bill to improve the enforcement of criminal and civil law with respect to cloud computing, and for other purposes.</title>
+	</titles>
+	<sponsor id="412242"/>
+	<cosponsors>
+		<cosponsor id="412494" joined="2012-09-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-19" state="REFERRED"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Computers and information technology"/>
+		<term name="Congressional oversight"/>
+		<term name="Europe"/>
+		<term name="European Union"/>
+		<term name="Fraud offenses and financial crimes"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Public contracts and procurement"/>
+		<term name="Public-private cooperation"/>
+		<term name="Right of privacy"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="112" type="h" number="6529" updated="2012-11-24T14:31:07-05:00">
+	<state datetime="2012-09-21">REFERRED</state>
+	<status><introduced datetime="2012-09-21"/></status>
+
+	<introduced datetime="2012-09-21"/>
+	<titles>
+		<title type="short" as="introduced">ECPA 2.0 Act of 2012</title>
+		<title type="official" as="introduced">To amend title 18, United States Code, with respect to disclosures to governments by communications-related service providers of certain information consisting of or relating to communications, and for other purposes.</title>
+	</titles>
+	<sponsor id="400245"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-21" state="REFERRED"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-09-21"><text>Referred to House Judiciary</text></action>
+		<action datetime="2012-09-21"><text>Referred to House Intelligence (Permanent Select)</text></action>
+		<action datetime="2012-10-03"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+		<committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="2168" />
+		<bill relation="unknown" session="112" type="s" number="1212" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Civil actions and liability"/>
+		<term name="Computers and information technology"/>
+		<term name="Criminal investigation, prosecution, interrogation"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Evidence and witnesses"/>
+		<term name="Fraud offenses and financial crimes"/>
+		<term name="Right of privacy"/>
+		<term name="Telephone and wireless communication"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

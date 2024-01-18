@@ -1,0 +1,38 @@
+<bill session="112" type="s" number="3640" updated="2012-11-29T06:17:38-05:00">
+	<state datetime="2012-11-27">REFERRED</state>
+	<status><introduced datetime="2012-11-27"/></status>
+
+	<introduced datetime="2012-11-27"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security, Transportation Security Administration, to transfer unclaimed clothing recovered at airport security checkpoints to local veterans organizations and other local charitable organizations, and for other purposes.</title>
+	</titles>
+	<sponsor id="400408"/>
+	<cosponsors>
+		<cosponsor id="412223" joined="2012-11-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-27" state="REFERRED"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Aviation and airports"/>
+		<term name="Homelessness and emergency shelter"/>
+		<term name="Poverty and welfare assistance"/>
+		<term name="Social work, volunteer service, charitable organizations"/>
+		<term name="Transportation safety and security"/>
+		<term name="Veterans' loans, housing, homeless programs"/>
+		<term name="Veterans' organizations and recognition"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

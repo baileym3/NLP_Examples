@@ -1,0 +1,44 @@
+<bill session="112" type="s" number="3606" updated="2012-11-24T17:55:11-05:00">
+	<state datetime="2012-09-20">REFERRED</state>
+	<status><introduced datetime="2012-09-20"/></status>
+
+	<introduced datetime="2012-09-20"/>
+	<titles>
+		<title type="short" as="introduced">Invasive Fish and Wildlife Prevention Act of 2012</title>
+		<title type="official" as="introduced">A bill to establish an improved regulatory process for injurious wildlife to prevent the introduction and establishment in the United States of nonnative wildlife and wild animal pathogens and parasites that are likely to cause harm.</title>
+	</titles>
+	<sponsor id="412223"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-20" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="5864" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Agricultural pests"/>
+		<term name="Animal and plant health"/>
+		<term name="Aquatic ecology"/>
+		<term name="Department of the Interior"/>
+		<term name="Environmental regulatory procedures"/>
+		<term name="Government information and archives"/>
+		<term name="Government trust funds"/>
+		<term name="Licensing and registrations"/>
+		<term name="Trade restrictions"/>
+		<term name="User charges and fees"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

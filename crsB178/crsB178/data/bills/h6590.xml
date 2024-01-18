@@ -1,0 +1,53 @@
+<bill session="112" type="h" number="6590" updated="2012-12-13T06:14:28-05:00">
+	<state datetime="2012-11-15">REFERRED</state>
+	<status><introduced datetime="2012-11-15"/></status>
+
+	<introduced datetime="2012-11-15"/>
+	<titles>
+		<title type="short" as="introduced">Fair, Accurate, Secure, and Timely Voting Act of 2012</title>
+		<title type="short" as="introduced">FAST Voting Act of 2012</title>
+		<title type="official" as="introduced">To provide incentives for States to invest in practices and technology that are designed to expedite voting at the polls and to simplify voter registration.</title>
+	</titles>
+	<sponsor id="412272"/>
+	<cosponsors>
+		<cosponsor id="412407" joined="2012-12-11"/>
+		<cosponsor id="412470" joined="2012-12-11"/>
+		<cosponsor id="400230" joined="2012-11-15"/>
+		<cosponsor id="400283" joined="2012-12-12"/>
+		<cosponsor id="400295" joined="2012-12-11"/>
+		<cosponsor id="400350" joined="2012-12-11"/>
+		<cosponsor id="400364" joined="2012-12-11"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-15" state="REFERRED"><text>Referred to the Committee on House Administration, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-11-15"><text>Referred to House House Administration</text></action>
+		<action datetime="2012-11-15"><text>Referred to House Judiciary</text></action>
+		<action datetime="2012-12-07"><committee name="House Judiciary"/><text>Referred to the Subcommittee on the Constitution.</text></action>
+		<action datetime="2012-12-07"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Constitution" activity="Referral" />
+		<committee code="" name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="s" number="3635" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Disability and paralysis"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Emergency planning and evacuation"/>
+		<term name="Military personnel and dependents"/>
+		<term name="Natural disasters"/>
+		<term name="Performance measurement"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

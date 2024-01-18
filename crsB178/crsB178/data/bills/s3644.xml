@@ -1,0 +1,34 @@
+<bill session="112" type="s" number="3644" updated="2012-11-30T06:17:49-05:00">
+	<state datetime="2012-11-28">REFERRED</state>
+	<status><introduced datetime="2012-11-28"/></status>
+
+	<introduced datetime="2012-11-28"/>
+	<titles>
+		<title type="official" as="introduced">A bill to provide for indemnification of transferees of property at any closed military installation.</title>
+	</titles>
+	<sponsor id="402675"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-28" state="REFERRED"><text>Read twice and referred to the Committee on Armed Services.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Civil actions and liability"/>
+		<term name="Land transfers"/>
+		<term name="Military facilities and property"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

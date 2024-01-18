@@ -1,0 +1,35 @@
+<bill session="112" type="h" number="1569" updated="2012-11-24T10:23:14-05:00">
+	<state datetime="2011-04-14">REFERRED</state>
+	<status><introduced datetime="2011-04-14"/></status>
+
+	<introduced datetime="2011-04-14"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Simeon Simeonov, Stela Simeonova, Stoyan Simeonov, and Vania Simeonova.</title>
+	</titles>
+	<sponsor id="400163"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2011-04-14" state="REFERRED"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action datetime="2011-06-20"><committee name="House Committee on the Judiciary"/><text>Referred to the Subcommittee on Immigration Policy and Enforcement.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Immigration Policy and Enforcement" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/14/2011--Introduced.
+Provides for the relief of Simeon Simeonov, Stela Simeonova, Stoyan Simeonov, and Vania Simeonova.
+
+	</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="112" type="s" number="3622" updated="2012-11-24T17:55:51-05:00">
+	<state datetime="2012-09-22">REFERRED</state>
+	<status><introduced datetime="2012-09-22"/></status>
+
+	<introduced datetime="2012-09-22"/>
+	<titles>
+		<title type="short" as="introduced">Protecting Patients and Hospitals From Price Gouging Act</title>
+		<title type="official" as="introduced">A bill to prohibit prescription drug price-gouging during states of market shortage.</title>
+	</titles>
+	<sponsor id="300087"/>
+	<cosponsors>
+		<cosponsor id="412490" joined="2012-09-22"/>
+		<cosponsor id="412325" joined="2012-09-22"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-22" state="REFERRED"><text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Civil actions and liability"/>
+		<term name="Consumer affairs"/>
+		<term name="Criminal investigation, prosecution, interrogation"/>
+		<term name="Drug and radiation therapy"/>
+		<term name="Fraud offenses and financial crimes"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Inflation and prices"/>
+		<term name="Prescription drugs"/>
+		<term name="Retail and wholesale trades"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

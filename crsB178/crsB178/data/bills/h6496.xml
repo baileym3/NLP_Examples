@@ -1,0 +1,41 @@
+<bill session="112" type="h" number="6496" updated="2012-11-24T14:29:38-05:00">
+	<state datetime="2012-09-21">REFERRED</state>
+	<status><introduced datetime="2012-09-21"/></status>
+
+	<introduced datetime="2012-09-21"/>
+	<titles>
+		<title type="official" as="introduced">To reauthorize grants to enhance State and local efforts to combat trafficking in persons.</title>
+	</titles>
+	<sponsor id="412500"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-21" state="REFERRED"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action datetime="2012-11-06"><committee name="House Committee on the Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="2830" />
+		<bill relation="unknown" session="112" type="h" number="3589" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Crime victims"/>
+		<term name="Crimes against children"/>
+		<term name="Criminal investigation, prosecution, interrogation"/>
+		<term name="Human trafficking"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Pornography"/>
+		<term name="Sex offenses"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

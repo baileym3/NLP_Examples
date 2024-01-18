@@ -1,0 +1,46 @@
+<bill session="112" type="sr" number="600" updated="2012-11-30T12:07:49-05:00">
+	<state datetime="2012-11-29">PASSED:SIMPLERES</state>
+	<status><vote datetime="2012-11-29" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-11-26"/>
+	<titles>
+		<title type="official" as="introduced">A resolution supporting the goals and ideals of American Diabetes Month.</title>
+	</titles>
+	<sponsor id="412323"/>
+	<cosponsors>
+		<cosponsor id="300001" joined="2012-11-26"/>
+		<cosponsor id="412490" joined="2012-11-28"/>
+		<cosponsor id="300025" joined="2012-11-26"/>
+		<cosponsor id="300063" joined="2012-11-26"/>
+		<cosponsor id="300064" joined="2012-11-26"/>
+		<cosponsor id="300073" joined="2012-11-26"/>
+		<cosponsor id="412244" joined="2012-11-26"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-26" state="REFERRED"><text>Referred to the Committee on Health, Education, Labor, and Pensions.</text><reference label="text of measure as introduced" ref="CR S6896-6897"/></action>
+		<action datetime="2012-11-29"><text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text></action>
+		<action datetime="2012-11-29"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S7276-7277"/></action>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-11-29" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text><reference label="text" ref="CR S7276-7277"/></vote>
+	</actions>
+	<committees>
+		<committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="sr" number="327" />
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Digestive and metabolic diseases"/>
+		<term name="Health promotion and preventive care"/>
+		<term name="Medical research"/>
+	</subjects>
+	<amendments>
+		<amendment number="s3287"/>
+	</amendments>
+	<summary>
+	11/26/2012--Introduced.
+Expresses support for: (1) the goals and ideals of American Diabetes Month, including encouraging people to fight diabetes through public awareness about prevention and treatment options, and increasing education about the disease; and (2) decreasing the prevalence of type 1, type 2, and gestational diabetes in the United States through increased research, treatment, and prevention. Recognizes the importance of early detection, awareness of the symptoms, and the risk factors that often lead to the development of diabetes.
+
+	</summary>
+</bill>

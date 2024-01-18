@@ -1,0 +1,32 @@
+<bill session="112" type="s" number="3714" updated="2013-01-01T08:52:40-05:00">
+	<state datetime="2012-12-30">REFERRED</state>
+	<status><introduced datetime="2012-12-30"/></status>
+
+	<introduced datetime="2012-12-30"/>
+	<titles>
+		<title type="official" as="introduced">A bill to alleviate the fiscal cliff, and for other purposes.</title>
+	</titles>
+	<sponsor id="412391"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-30" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8548-8549)</text></action>
+		<action datetime="2012-12-30" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="112" type="s" number="3704" updated="2012-12-27T06:17:38-05:00">
+	<state datetime="2012-12-20">REFERRED</state>
+	<status><introduced datetime="2012-12-20"/></status>
+
+	<introduced datetime="2012-12-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to clarify the authorized uses of funds in the Crime Victims Fund.</title>
+	</titles>
+	<sponsor id="300062"/>
+	<cosponsors>
+		<cosponsor id="300043" joined="2012-12-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-20" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8303-8304)</text></action>
+		<action datetime="2012-12-20" state="REFERRED"><text>Read twice and referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S8304"/></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Crime victims"/>
+		<term name="Government trust funds"/>
+		<term name="Judicial procedure and administration"/>
+		<term name="Law enforcement administration and funding"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

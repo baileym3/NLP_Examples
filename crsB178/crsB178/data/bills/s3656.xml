@@ -1,0 +1,34 @@
+<bill session="112" type="s" number="3656" updated="2012-12-06T06:20:00-05:00">
+	<state datetime="2012-12-04">REFERRED</state>
+	<status><introduced datetime="2012-12-04"/></status>
+
+	<introduced datetime="2012-12-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to repeal an obsolete provision in title 49, United States Code, requiring motor vehicle insurance cost reporting.</title>
+	</titles>
+	<sponsor id="412242"/>
+	<cosponsors>
+		<cosponsor id="400432" joined="2012-12-04"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-04" state="REFERRED"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Consumer affairs"/>
+		<term name="Life, casualty, property insurance"/>
+		<term name="Motor vehicles"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

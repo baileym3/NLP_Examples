@@ -1,0 +1,44 @@
+<bill session="112" type="s" number="3570" updated="2012-11-24T17:53:40-05:00">
+	<state datetime="2012-09-19">REFERRED</state>
+	<status><introduced datetime="2012-09-19"/></status>
+
+	<introduced datetime="2012-09-19"/>
+	<titles>
+		<title type="short" as="introduced">Vessel Incidental Discharge Act</title>
+		<title type="official" as="introduced">A bill to provide for the establishment of nationally uniform and environmentally sound standards governing discharges incidental to the normal operation of a vessel in the navigable waters of the United States.</title>
+	</titles>
+	<sponsor id="412491"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-19" state="REFERRED"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Aquatic ecology"/>
+		<term name="Coast guard"/>
+		<term name="Department of Homeland Security"/>
+		<term name="Environmental regulatory procedures"/>
+		<term name="Environmental technology"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Licensing and registrations"/>
+		<term name="Marine and inland water transportation"/>
+		<term name="Marine pollution"/>
+		<term name="Technology assessment"/>
+		<term name="Water quality"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

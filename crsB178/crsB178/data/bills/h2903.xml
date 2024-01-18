@@ -1,0 +1,60 @@
+<bill session="112" type="h" number="2903" updated="2012-11-24T11:25:23-05:00">
+	<state datetime="2012-09-19T17:37:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="2012-09-19T17:37:00-04:00" where="h" result="pass" how="by voice vote" roll=""/></status>
+
+	<introduced datetime="2011-09-13"/>
+	<titles>
+		<title type="short" as="introduced">FEMA Reauthorization Act of 2011</title>
+		<title type="short" as="reported to house">FEMA Reauthorization Act of 2012</title>
+		<title type="short" as="reported to house">Dam Safety Act of 2012</title>
+		<title type="short" as="reported to house">Integrated Public Alert and Warning System Modernization Act of 2012</title>
+		<title type="short" as="passed house">FEMA Reauthorization Act of 2012</title>
+		<title type="short" as="passed house">Dam Safety Act of 2012</title>
+		<title type="short" as="passed house">Integrated Public Alert and Warning System Modernization Act of 2012</title>
+		<title type="official" as="introduced">To reauthorize the programs and activities of the Federal Emergency Management Agency.</title>
+	</titles>
+	<sponsor id="412403"/>
+	<cosponsors>
+		<cosponsor id="412454" joined="2011-09-13"/>
+		<cosponsor id="400295" joined="2011-09-13"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-09-13" state="REFERRED"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action datetime="2011-09-14"><committee name="House Committee on Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action datetime="2012-03-08"><committee name="House Committee on Transportation and Infrastructure"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2012-03-08"  state="REPORTED"><committee name="House Committee on Transportation and Infrastructure"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="2012-09-14T17:01:00-04:00"><text>Reported (Amended) by the Committee on 112-674, Part I.</text></action>
+		<action datetime="2012-09-14"><text>Referred sequentially to the House Committee on Homeland Security for a period ending not later than Sept. 17, 2012 for a period ending not later than September 17, 2012, for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(j) of rule X.</text></action>
+		<action datetime="2012-09-17T16:17:00-04:00"><text>Committee on Homeland Security discharged.</text></action>
+		<calendar number="486" datetime="2012-09-17T16:17:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 486.</text></calendar>
+		<action datetime="2012-09-19T17:08:00-04:00"><text>Mr. Denham moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="2012-09-19T17:09:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6104-6113"/></action>
+		<action datetime="2012-09-19T17:09:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2903.</text></action>
+		<vote how="by voice vote" type="vote" datetime="2012-09-19T17:37:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text><reference label="text" ref="CR H6104-6110"/></vote>
+		<action datetime="2012-09-19T17:37:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-09-20"><text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+		<committee code="HSHM" name="House Homeland Security" activity="Referral, Discharged, Other legislative involvement" />
+		<committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Department of Homeland Security"/>
+		<term name="Emergency medical services and trauma care"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Federal Emergency Management Agency (FEMA)"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/13/2011--Introduced.
+FEMA Reauthorization Act of 2011 - Authorizes appropriations for FY2012-FY2013 for: (1) the Urban Search and Rescue Response System, (2) Emergency Management Assistance Compact grants, and (3) the Federal Emergency Management Agency (FEMA) for management and administration. 
+	</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="112" type="h" number="3451" updated="2012-11-24T11:49:50-05:00">
+	<state datetime="2011-11-17">REFERRED</state>
+	<status><introduced datetime="2011-11-17"/></status>
+
+	<introduced datetime="2011-11-17"/>
+	<titles>
+		<title type="official" as="introduced">To designate the Federal Building and United States Courthouse located at 1125 Chapline Street in Wheeling, West Virginia, as the &quot;Frederick P. Stamp, Jr. Federal Building and United States Courthouse&quot;.</title>
+	</titles>
+	<sponsor id="412487"/>
+	<cosponsors>
+		<cosponsor id="400061" joined="2011-11-17"/>
+		<cosponsor id="400331" joined="2011-11-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-11-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E2082)</text></action>
+		<action datetime="2011-11-17" state="REFERRED"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action datetime="2011-11-18"><committee name="House Committee on Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee" />
+		<committee code="" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional tributes"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="West Virginia"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	11/17/2011--Introduced.
+Designates the federal building and U.S. courthouse located at 1125 Chapline Street in Wheeling, West Virginia, as the &quot;Frederick P. Stamp, Jr. Federal Building and United States Courthouse.&quot;
+
+	</summary>
+</bill>

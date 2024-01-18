@@ -1,0 +1,52 @@
+<bill session="112" type="h" number="2919" updated="2012-12-21T06:13:44-05:00">
+	<state datetime="2011-10-13">REPORTED</state>
+	<status><calendar datetime="2011-10-13" /></status>
+
+	<introduced datetime="2011-09-14"/>
+	<titles>
+		<title type="short" as="introduced">Community Shelter Protection Act of 2011</title>
+		<title type="official" as="introduced">To eliminate the reimbursement requirement for certain tornado shelters constructed with Federal assistance, and for other purposes.</title>
+	</titles>
+	<sponsor id="400010"/>
+	<cosponsors>
+		<cosponsor id="400004" joined="2011-09-14"/>
+		<cosponsor id="400038" joined="2011-09-14"/>
+		<cosponsor id="412395" joined="2011-09-14"/>
+		<cosponsor id="400209" joined="2011-09-15"/>
+		<cosponsor id="412445" joined="2011-09-20"/>
+		<cosponsor id="412394" joined="2011-09-15"/>
+		<cosponsor id="400341" joined="2011-09-14"/>
+		<cosponsor id="412396" joined="2011-09-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-09-14" state="REFERRED"><text>Referred to the House Committee on Transportation and Infrastructure.</text></action>
+		<action datetime="2011-09-15"><committee name="House Committee on Transportation and Infrastructure"/><text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text></action>
+		<action datetime="2011-10-13"><committee name="House Committee on Transportation and Infrastructure"/><text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text></action>
+		<action datetime="2011-10-13"><committee name="House Committee on Transportation and Infrastructure"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2011-10-13"  state="REPORTED"><committee name="House Committee on Transportation and Infrastructure"/><text>Ordered to be Reported (Amended) by Voice Vote.</text></calendar>
+		<action datetime="2012-12-20T15:29:00-05:00"><text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 112-712.</text></action>
+		<calendar number="517" datetime="2012-12-20T15:30:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 517.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings and Emergency Management" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Emergency management"/>
+		<term name="Educational facilities and institutions"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Homelessness and emergency shelter"/>
+		<term name="Natural disasters"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/14/2011--Introduced.
+Community Shelter Protection Act of 2011 - Prohibits the Federal Emergency Management Agency (FEMA) from requiring an educational institution (elementary or secondary school that is an eligible applicant for FEMA assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act) to reimburse FEMA for the market value of a covered temporary tornado shelter facility (a structure designed to protect children from a tornado that is constructed or acquired with federal financial assistance) when the facility is no longer needed for that purpose.
+
+	</summary>
+</bill>

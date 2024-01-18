@@ -1,0 +1,51 @@
+<bill session="112" type="h" number="6561" updated="2012-11-24T14:32:13-05:00">
+	<state datetime="2012-09-25">REFERRED</state>
+	<status><introduced datetime="2012-09-25"/></status>
+
+	<introduced datetime="2012-09-25"/>
+	<titles>
+		<title type="short" as="introduced">Teachers and First Responders Back to Work Act of 2012</title>
+		<title type="official" as="introduced">To direct the Secretary of Education to make grants to States to hire teachers and prevent layoffs, to direct the Secretary of Homeland Security to make grants to hire firefighters and prevent layoffs, and to direct the Attorney General to make grants to hire law enforcement officers and prevent layoffs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400087"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-25" state="REFERRED"><text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on the Judiciary, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-09-25"><text>Referred to House Education and the Workforce</text></action>
+		<action datetime="2012-09-25"><text>Referred to House Judiciary</text></action>
+		<action datetime="2012-09-25"><text>Referred to House Science, Space, and Technology</text></action>
+		<action datetime="2012-10-03"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action datetime="2012-10-10"><committee name="House Science, Space, and Technology"/><text>Referred to the Subcommittee on Technology and Innovation.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee" />
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+		<committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee" />
+		<committee code="" name="House Science, Space, and Technology" subcommittee="Technology and Innovation" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="s" number="1723" />
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Education of the disadvantaged"/>
+		<term name="Education programs funding"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Employee hiring"/>
+		<term name="Fires"/>
+		<term name="First responders and emergency personnel"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Law enforcement officers"/>
+		<term name="Preschool education"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

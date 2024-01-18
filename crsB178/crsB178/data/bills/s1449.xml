@@ -1,0 +1,83 @@
+<bill session="112" type="s" number="1449" updated="2012-12-22T06:18:21-05:00">
+	<state datetime="2011-12-14">REPORTED</state>
+	<status><calendar datetime="2011-12-14" /></status>
+
+	<introduced datetime="2011-07-29"/>
+	<titles>
+		<title type="short" as="introduced">Mariah's Act</title>
+		<title type="short" as="introduced">Motor Vehicle and Highway Safety Improvement Act of 2011</title>
+		<title type="short" as="reported to senate">Mariah's Act</title>
+		<title type="short" as="reported to senate">Motor Vehicle and Highway Safety Improvement Act of 2011</title>
+		<title type="official" as="introduced">A bill to authorize the appropriation of funds for highway safety programs and for other purposes.</title>
+	</titles>
+	<sponsor id="300080"/>
+	<cosponsors>
+		<cosponsor id="412223" joined="2011-07-29"/>
+		<cosponsor id="412242" joined="2011-07-29"/>
+		<cosponsor id="300084" joined="2011-07-29"/>
+		<cosponsor id="300087" joined="2011-08-02"/>
+		<cosponsor id="400413" joined="2011-07-29"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-07-29" state="REFERRED"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<calendar datetime="2011-12-14"  state="REPORTED"><committee name="Committee on Commerce, Science, and Transportation"/><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="2012-11-14"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. Without written report.</text></action>
+		<calendar under="General Orders" number="548" datetime="2012-11-14" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.</text></calendar>
+		<action datetime="2012-12-21"><text>By Senator Rockefeller from Committee on Commerce, Science, and Transportation filed written report. Report No. 112-261.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="14" />
+		<bill relation="unknown" session="112" type="h" number="2324" />
+		<bill relation="unknown" session="112" type="h" number="6051" />
+		<bill relation="unknown" session="112" type="s" number="510" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Accidents"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Advisory bodies"/>
+		<term name="Bankruptcy"/>
+		<term name="Business ethics"/>
+		<term name="Child safety and welfare"/>
+		<term name="Congressional oversight"/>
+		<term name="Consumer affairs"/>
+		<term name="Department of Transportation"/>
+		<term name="Drug, alcohol, tobacco use"/>
+		<term name="Emergency medical services and trauma care"/>
+		<term name="Employment discrimination and employee rights"/>
+		<term name="Federal officials"/>
+		<term name="Government ethics and transparency, public corruption"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Government trust funds"/>
+		<term name="Health information and medical records"/>
+		<term name="Insurance industry and regulation"/>
+		<term name="Intergovernmental relations"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Licensing and registrations"/>
+		<term name="Life, casualty, property insurance"/>
+		<term name="Manufacturing"/>
+		<term name="Motor vehicles"/>
+		<term name="Product safety and quality"/>
+		<term name="Research administration and funding"/>
+		<term name="Research and development"/>
+		<term name="Retail and wholesale trades"/>
+		<term name="Roads and highways"/>
+		<term name="State and local finance"/>
+		<term name="Telephone and wireless communication"/>
+		<term name="Trade restrictions"/>
+		<term name="Transportation programs funding"/>
+		<term name="Transportation safety and security"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/29/2011--Introduced.
+Motor Vehicle and Highway Safety Improvement Act of 2011 or Mariah's Act - Authorizes appropriations out of the Highway Trust Fund (HTF) (other than the Mass Transit Account) for FY2012 and FY2013 for specified highway safety programs. Requires state highway safety programs to comply with certain uniform guidelines that meet specified criteria, including requirements for an effective accident record system. Prohibits the Secretary of Transportation (DOT) from approving a state highway program which does not, beginning FY2013, provide for a robust, data-driven traffic safety enforcement program in areas most at risk for accidents. Repeals authority for a grant to states that use a comprehensive computerized safety recordkeeping system designed to correlate data regarding traffic accidents, drivers, motor vehicles, and roadways. Repeals the requirement that the Secretary establish an approval process by which a state may apply for all highway safety grants for which a single consolidated application process with one annual deadline is appropriate. Directs the Secretary to require a state to submit for Secretary approval annual highway safety plans that comply with certain safety performance measures and reporting requirements. Authorizes a state to use federal funds to implement a teen traffic safety program. Authorizes the Secretary to carry out collaborative research and development (R&amp;D) projects to encourage innovative solutions to highway safety problems. Requires the Secretary to make continual improvements to modernize the National Driver Register's data processing system. Directs the Secretary to award grants to states that adopt and implement combined occupant protection programs (for both high seat and lower seat belt use) to reduce highway deaths and injuries. Directs the Secretary to award grants to states that adopt and implement: (1) impaired driving programs to reduce driving under the influence of alcohol or drugs, or (2) alcohol-ignition interlock laws. Directs the Secretary to award a grant to a state that enacts and enforces a law that: (1) prohibits drivers from texting while driving through a personal wireless communications device (including a cell phone, but not a global navigation satellite [GPS] system receiver), (2) prohibits drivers age 18 or younger from using a cell phone while driving, (3) makes violation of the law a primary offense, and (4) establishes certain minimum fines and increased civil and criminal penalties. Revises eligibility criteria for state motorcyclist safety grants. Directs the Administrator of the National Highway Traffic Safety Administration (NHTSA) to carry out a collaborative research effort to continue to explore the feasibility and potential benefits of, and the public policy challenges associated with, more widespread deployment of in-vehicle technology to prevent alcohol-impaired driving. Directs the Secretary to award incentive grants to states with graduated driver licensing laws that include, for novice drivers under age 21, a two-stage licensing process before the grant of an unrestricted driver's license. Directs the Secretary to establish a National Emergency Medical Services Advisory Council. Subjects a motorcycle helmet to federal motor vehicle equipment safety requirements. Prohibits a motor vehicle safety standard from requiring a manufacturer to comply with the standard by using a safety belt interlock designed to prevent starting or operating a motor vehicle if an occupant is not using a safety belt. Increases the maximum civil penalties for persons who commit a related series of daily violations of federal motor vehicle safety requirements. Directs the Secretary to conduct motor vehicle safety R&amp;D activities. Increases civil penalties (including damages) for violations of federal prohibitions against tampering with motor vehicle odometers. Prohibits a person from selling, offering for sale, introducing in interstate commerce, or importing into the United States motor vehicles or motor vehicle equipment containing a safety defect about which a notice or order of noncompliance with federal motor vehicle safety requirements has been issued, unless it receives a required recall remedy before being sold to a U.S. consumer. Directs the Secretary to: (1) improve public accessibility to information on the NHTSA vehicle safety databases; (2) require motor vehicle safety recall information be made available to the public; and (3) establish a NHTSA passenger vehicle safety defect hotline for manufacturer, dealer, and mechanic personnel. Directs the Secretary to issue regulations to require: (1) public disclosure of possible defects of motor vehicles or related equipment reported to the Secretary by motor vehicle manufacturers (Early Warning data); and (2) passenger motor vehicle manufacturers to affix, in a readily accessible location, a device that provides information on how to submit a safety-related motor vehicle defect complaint to NHTSA. Requires certain motor vehicle manufacturer communications to include all notices to dealerships of software upgrades and recommended vehicle modifications. Directs the Secretary to require the senior official of a company responsible for safety to certify certain information submitted to the Secretary in response to requests for information in NHTSA safety defect or compliance investigations. Prescribes civil penalties for knowingly and willfully submitting false, misleading, or incomplete information. Establishes whistleblower protections for motor vehicle manufacturer, part supplier, and dealership employees. Prohibits a motor vehicle manufacturer or other person who is subject to federal motor vehicle safety regulation from employing NHTSA employees for the two-year period following the employee's termination of employment with NHTSA. Prescribes civil penalties for violations of such prohibition. Declares that filing for bankruptcy shall not negate a manufacturer's duty to comply with motor vehicle safety requirements for the recall of defective motor vehicle and motor vehicle equipment. Establishes within NHTSA a Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies. Directs the Secretary to prescribe federal motor vehicle safety standards that: (1) mitigate unintended acceleration in passenger motor vehicles through a brake override system; (2) mitigate potential obstruction of pedal movement in passenger motor vehicles; (3) require electronic systems in passenger motor vehicles to meet minimum performance standards; (4) establish standards for the operation of passenger motor vehicles equipped with push-button ignition systems, particularly in emergency situations when the vehicle is in motion; and (5) prohibit electronic visual entertainment screens visible to the driver while driving. Directs the Secretary to modify federal motor vehicle safety standards to: (1) require new passenger motor vehicles sold in the United States to be equipped with an event data recorder (EDR) that records vehicle operational data that can be stored and accessed for retrieval and analysis, (2) establish frontal crash protection requirements for child restraint systems for children weighing over 65 pounds, (3) improve the protection of children seated in child restraint systems during side impact crashes, (4) improve visibility and accessibility to child restraint anchorage systems as well as establish a maximum allowable weight of the child and child restraint for use of such systems, and (5) provide a safety belt use warning system for designated seating positions in the rear seat. Requires the Secretary to complete research to develop performance requirements to warn drivers that a child or other unattended passenger remains in the rear seating position after the vehicle motor is turned off.
+
+	</summary>
+</bill>

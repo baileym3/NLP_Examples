@@ -1,0 +1,46 @@
+<bill session="112" type="h" number="6617" updated="2012-12-11T06:12:23-05:00">
+	<state datetime="2012-11-29">REFERRED</state>
+	<status><introduced datetime="2012-11-29"/></status>
+
+	<introduced datetime="2012-11-29"/>
+	<titles>
+		<title type="short" as="introduced">Indian Trust Asset Reform Act</title>
+		<title type="short" as="introduced">Indian Trust Asset Management Demonstration Project Act of 2012</title>
+		<title type="official" as="introduced">To provide for Indian trust asset management reform, and for other purposes.</title>
+	</titles>
+	<sponsor id="400376"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-29" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="2012-12-10"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="" name="House Natural Resources" subcommittee="Indian and Alaska Native Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Administrative remedies"/>
+		<term name="Alternative dispute resolution, mediation, arbitration"/>
+		<term name="Department of the Interior"/>
+		<term name="Executive agency funding and structure"/>
+		<term name="Federal officials"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Government employee pay, benefits, personnel management"/>
+		<term name="Government information and archives"/>
+		<term name="Indian lands and resources rights"/>
+		<term name="Judicial review and appeals"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

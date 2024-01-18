@@ -1,0 +1,36 @@
+<bill session="112" type="sr" number="585" updated="2012-11-24T15:06:55-05:00">
+	<state datetime="2012-09-22">PASSED:SIMPLERES</state>
+	<status><vote datetime="2012-09-22" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-09-22"/>
+	<titles>
+		<title type="official" as="introduced">A resolution recognizing the extraordinary history and heritage of the State of New Mexico, and honoring and commending the State of New Mexico and its people on its centennial anniversary.</title>
+	</titles>
+	<sponsor id="300009"/>
+	<cosponsors>
+		<cosponsor id="400413" joined="2012-09-22"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-09-22" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR 9/21/2012 S6679-6684; text as passed Senate: CR 9/21/2012 S6682-6683; text of measure as introduced: CR 9/21/2012 S6633-6634)</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="112" type="hr" number="791" />
+	</relatedbills>
+	<subjects>
+		<term name="Social sciences and history"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Congressional tributes"/>
+		<term name="New Mexico"/>
+		<term name="State and local government operations"/>
+		<term name="U.S. history"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	9/22/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the history and heritage of the state of New Mexico and honors and commends New Mexico and its people on its centennial anniversary. 
+	</summary>
+</bill>

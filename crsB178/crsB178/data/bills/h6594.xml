@@ -1,0 +1,41 @@
+<bill session="112" type="h" number="6594" updated="2012-11-24T14:33:29-05:00">
+	<state datetime="2012-11-16">REFERRED</state>
+	<status><introduced datetime="2012-11-16"/></status>
+
+	<introduced datetime="2012-11-16"/>
+	<titles>
+		<title type="short" as="introduced">Military Ballot Integrity Act of 2012</title>
+		<title type="official" as="introduced">To amend the Uniformed and Overseas Citizens Absentee Voting Act to require States which fail to transmit validly requested absentee ballots in an election for Federal office to absent uniformed services voters within the deadline established under the Act to delay certifying the results of the election, to establish a private right of action to enforce the requirements of such Act, and for other purposes.</title>
+	</titles>
+	<sponsor id="412302"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-16" state="REFERRED"><text>Referred to the House Committee on House Administration.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Civil actions and liability"/>
+		<term name="Congressional elections"/>
+		<term name="Congressional oversight"/>
+		<term name="Diplomacy, foreign officials, Americans abroad"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Government information and archives"/>
+		<term name="Military personnel and dependents"/>
+		<term name="National Guard and reserves"/>
+		<term name="Postal service"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

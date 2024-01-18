@@ -1,0 +1,46 @@
+<bill session="112" type="h" number="824" updated="2012-12-06T06:12:23-05:00">
+	<state datetime="2012-12-04T12:29:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="2012-12-04T12:29:00-05:00" where="h" result="pass" how="without objection" roll=""/></status>
+
+	<introduced datetime="2011-02-18"/>
+	<titles>
+		<title type="official" as="introduced">For the relief of Daniel Wachira.</title>
+	</titles>
+	<sponsor id="400333"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2011-02-18" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E331)</text></action>
+		<action datetime="2011-02-18" state="REFERRED"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action datetime="2011-02-28"><committee name="House Committee on the Judiciary"/><text>Referred to the Subcommittee on Immigration Policy and Enforcement.</text></action>
+		<action datetime="2012-06-26"><committee name="House Committee on the Judiciary"/><text>Subcommittee on Immigration Policy and Enforcement Discharged.</text></action>
+		<action datetime="2012-06-28"><committee name="House Committee on the Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2012-06-28"  state="REPORTED"><committee name="House Committee on the Judiciary"/><text>Ordered to be Reported by Voice Vote.</text></calendar>
+		<action datetime="2012-07-24T17:25:00-04:00"><text>Reported by the Committee on Judiciary. H. Rept. 112-618.</text></action>
+		<calendar number="2" datetime="2012-07-24T17:25:00-04:00" calendar="Private" ><text>Placed on the Private Calendar, Calendar No. 2.</text></calendar>
+		<action datetime="2012-12-04T12:29:00-05:00"><text>Considered from the Private Calendar.</text></action>
+		<vote how="without objection" type="vote" datetime="2012-12-04T12:29:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text></vote>
+		<action datetime="2012-12-04T12:29:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-12-05"><text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Immigration Policy and Enforcement" activity="Referral, Discharged" />
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Private legislation"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/18/2011--Introduced.
+Provides for the relief of Daniel Wachira.
+
+	</summary>
+</bill>

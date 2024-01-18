@@ -1,0 +1,63 @@
+<bill session="112" type="s" number="3250" updated="2013-01-01T12:07:17-05:00">
+	<state datetime="2012-12-30">PASS_OVER:SENATE</state>
+	<status><vote datetime="2012-12-30" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-05-24"/>
+	<titles>
+		<title type="short" as="introduced">SAFER Act of 2012</title>
+		<title type="short" as="introduced">Sexual Assault Forensic Evidence Registry Act of 2012</title>
+		<title type="official" as="introduced">A bill to amend the DNA Analysis Backlog Elimination Act of 2000 to provide for Debbie Smith grants for auditing sexual assault evidence backlogs and to establish a Sexual Assault Forensic Evidence Registry, and for other purposes.</title>
+	</titles>
+	<sponsor id="300027"/>
+	<cosponsors>
+		<cosponsor id="412330" joined="2012-05-24"/>
+		<cosponsor id="412490" joined="2012-09-20"/>
+		<cosponsor id="400054" joined="2012-09-20"/>
+		<cosponsor id="300025" joined="2012-05-24"/>
+		<cosponsor id="412390" joined="2012-09-20"/>
+		<cosponsor id="300043" joined="2012-09-20"/>
+		<cosponsor id="412378" joined="2012-05-24"/>
+		<cosponsor id="300054" joined="2012-09-20"/>
+		<cosponsor id="400222" joined="2012-05-24"/>
+		<cosponsor id="412242" joined="2012-05-24"/>
+		<cosponsor id="412243" joined="2012-09-21"/>
+		<cosponsor id="300087" joined="2012-09-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-05-24" state="REFERRED"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+		<calendar datetime="2012-09-20"  state="REPORTED"><committee name="Committee on the Judiciary"/><text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="2012-12-30"><text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text></action>
+		<action datetime="2012-12-30"><text>Measure laid before Senate by unanimous consent.</text><reference label="consideration" ref="CR S8551-8552"/></action>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-12-30" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate with an amendment by Unanimous Consent.</text></vote>
+		<action datetime="2012-12-31T12:04:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="2012-12-31"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-12-31T17:27:00-05:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="1523" />
+		<bill relation="unknown" session="112" type="h" number="6628" />
+		<bill relation="unknown" session="112" type="s" number="2338" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Crime victims"/>
+		<term name="Crimes against women"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Evidence and witnesses"/>
+		<term name="Genetics"/>
+		<term name="Government information and archives"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Sex offenses"/>
+	</subjects>
+	<amendments>
+		<amendment number="s3445"/>
+	</amendments>
+	<summary>
+	5/24/2012--Introduced.
+Sexual Assault Forensic Evidence Registry Act of 2012 or the SAFER Act of 2012 - Amends the DNA Analysis Backlog Elimination Act of 2000 to authorize the Attorney General to make Debbie Smith grants under such Act to states or local governments to conduct audits of samples of sexual assault evidence that are awaiting testing, provided such government submits an audit plan that includes a good-faith estimate of the number of such samples. Requires 7% of Debbie Smith grant funds distributed in FY2013-FY2017 to be awarded for such purpose if sufficient applications are received, provided such award doesn't decrease funds for other distribution requirements. Requires the Attorney General to establish a Sexual Assault Forensic Evidence Registry that: (1) allows state and local governments to enter specified information about samples of sexual assault evidence in their possession that are awaiting testing, and (2) tracks the testing and processing of such samples. Requires a government: (1) to complete a funded audit and enter such information about the sample into the Registry within one year after receiving a grant under this Act, (2) within 21 days after receiving a sample that was not in such government's possession at the time of such audit, to enter information about such sample into the Registry, (3) to update the status of a sample within 30 days after any change, and (4) to assign each sample a unique numeric or alphanumeric identifier. Exempts from such Registry-requirements samples that are not considered criminal evidence or that relate to a sexual assault for which the prosecution of each perpetrator is barred by a statute of limitations. Requires the Attorney General to make publicly available on a website aggregate non-individualized and non-personally identifying data compiled from information required to be entered into the Registry, to allow for comparison of backlog data by state and local governments. Requires, for each fiscal year through FY2017, not less than: (1) 40% of Debbie Smith grant amounts to be awarded to carry out DNA analyses of samples from crime scenes for inclusion in the Combined DNA Index System, and (2) 75% of grant amounts be awarded for a combination of that purpose and to increase the capacity of state or local government laboratories to carry out DNA analyses.
+
+	</summary>
+</bill>

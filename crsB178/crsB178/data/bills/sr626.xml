@@ -1,0 +1,37 @@
+<bill session="112" type="sr" number="626" updated="2012-12-22T06:22:35-05:00">
+	<state datetime="2012-12-20">REFERRED</state>
+	<status><introduced datetime="2012-12-20"/></status>
+
+	<introduced datetime="2012-12-20"/>
+	<titles>
+		<title type="official" as="introduced">A resolution designating April 24, 2014, as &quot;Jan Karski Day&quot;.</title>
+	</titles>
+	<sponsor id="300070"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-20" state="REFERRED"><text>Referred to the Committee on the Judiciary.</text><reference label="text of measure as introduced" ref="CR S8305"/></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Commemorative events and holidays"/>
+		<term name="Conflicts and wars"/>
+		<term name="Congressional tributes"/>
+		<term name="Europe"/>
+		<term name="Poland"/>
+		<term name="War crimes, genocide, crimes against humanity"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

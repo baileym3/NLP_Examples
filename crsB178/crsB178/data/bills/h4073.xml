@@ -1,0 +1,54 @@
+<bill session="112" type="h" number="4073" updated="2013-01-01T12:02:37-05:00">
+	<state datetime="2012-12-30">PASSED:BILL</state>
+	<status><vote2 datetime="2012-12-30" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-02-17"/>
+	<titles>
+		<title type="official" as="introduced">To authorize the Secretary of Agriculture to accept the quitclaim, disclaimer, and relinquishment of a railroad right of way within and adjacent to Pike National Forest in El Paso County, Colorado, originally granted to the Mt. Manitou Park and Incline Railway Company pursuant to the Act of March 3, 1875.</title>
+	</titles>
+	<sponsor id="412191"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-02-17" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="2012-02-28"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="2012-04-17"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="2012-06-07"><committee name="House Committee on Natural Resources"/><text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text></action>
+		<action datetime="2012-06-07"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2012-06-07"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended).</text></calendar>
+		<action datetime="2012-07-17T17:35:00-04:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-599.</text></action>
+		<calendar number="434" datetime="2012-07-17T17:35:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 434.</text></calendar>
+		<action datetime="2012-07-31T16:49:00-04:00"><text>Mr. Lamborn moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="2012-07-31T16:50:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H5432-5433"/></action>
+		<action datetime="2012-07-31T16:50:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4073.</text></action>
+		<action datetime="2012-07-31T16:53:00-04:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Sablan objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text></action>
+		<action datetime="2012-08-01T18:35:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H5599"/></action>
+		<vote how="by voice vote" type="vote" datetime="2012-08-01T18:35:00-04:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2012 H5432)</text></vote>
+		<action datetime="2012-08-01T18:35:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-08-02"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Unanimous Consent" type="vote2" datetime="2012-12-30" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8552-8556"/></vote>
+		<action datetime="2012-12-31"><text>Message on Senate action sent to the House.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral, Hearings, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="s" number="2341" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Colorado"/>
+		<term name="Forests"/>
+		<term name="Land transfers"/>
+		<term name="Railroads"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	8/1/2012--Passed House amended. (This measure has not been amended since it was reported to the House on July 17, 2012. The summary of that version is repeated here.) Authorizes the Secretary of Agriculture to accept the quitclaim, disclaimer, and relinquishment by the Manitou and Pikes Peak Railway Company of a specified right-of-way adjacent to Pike National Forest that was originally granted to the Mt. Manitou Park and Incline Railway Company for the construction of a railroad and station in El Paso County, Colorado.
+
+	</summary>
+</bill>

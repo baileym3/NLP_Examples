@@ -1,0 +1,46 @@
+<bill session="112" type="h" number="6616" updated="2012-12-19T12:07:20-05:00">
+	<state datetime="2012-11-29">REFERRED</state>
+	<status><introduced datetime="2012-11-29"/></status>
+
+	<introduced datetime="2012-11-29"/>
+	<titles>
+		<title type="official" as="introduced">To protect securities transactions in the United States from enforcement of certain excise taxes imposed by any foreign government, and for other purposes.</title>
+	</titles>
+	<sponsor id="400626"/>
+	<cosponsors>
+		<cosponsor id="412478" joined="2012-12-03"/>
+		<cosponsor id="400636" joined="2012-12-03"/>
+		<cosponsor id="400656" joined="2012-12-03"/>
+		<cosponsor id="412474" joined="2012-12-05"/>
+		<cosponsor id="412314" joined="2012-12-18"/>
+		<cosponsor id="412461" joined="2012-12-12"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-29" state="REFERRED"><text>Referred to the Committee on Ways and Means, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-11-29"><text>Referred to House Ways and Means</text></action>
+		<action datetime="2012-11-29"><text>Referred to House Foreign Affairs</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Europe"/>
+		<term name="Financial services and investments"/>
+		<term name="France"/>
+		<term name="International law and treaties"/>
+		<term name="Sales and excise taxes"/>
+		<term name="Securities"/>
+		<term name="Tax administration and collection, taxpayers"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ltree.crs1250.prep&apos; to &apos;com.ltree.crs1278.prep&apos;&#x0A;- Original project: &apos;data-prep&apos;&#x0A;- Original element: &apos;data-prep/src/com.ltree.crs1250.prep&apos;&#x0A;- Renamed element: &apos;data-prep/src/com.ltree.crs1278.prep&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ltree.crs1250.prep&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.ltree.crs1250.prep" name="com.ltree.crs1278.prep" qualified="false" references="true" stamp="1627940568630" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,39 @@
+<bill session="112" type="s" number="3314" updated="2012-11-24T17:41:33-05:00">
+	<state datetime="2012-06-19">PASS_OVER:SENATE</state>
+	<status><vote datetime="2012-06-19" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="2012-06-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill to specifically authorize certain funds for an intelligence or intelligence-related activity and for other purposes.</title>
+	</titles>
+	<sponsor id="300043"/>
+	<cosponsors>
+		<cosponsor id="300021" joined="2012-06-19"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Voice Vote" type="vote" datetime="2012-06-19" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text><reference label="consideration" ref="CR S4307-4308"/><reference label="text as passed Senate" ref="CR S4308"/></vote>
+		<action datetime="2012-06-20T10:01:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="2012-06-20"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-06-20T19:37:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Armed forces and national security"/>
+		<term name="Appropriations"/>
+		<term name="Congressional oversight"/>
+		<term name="Defense spending"/>
+		<term name="Intelligence activities, surveillance, classified information"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/19/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Requires funds appropriated for an intelligence or intelligence-related activity that are in excess of the amount specified for such activity in the funding tables accompanying the Intelligence Authorization Act for Fiscal Year 2012 to be specifically authorized by Congress, as required under the National Security Act of 1947.
+
+	</summary>
+</bill>

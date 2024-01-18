@@ -1,0 +1,37 @@
+<bill session="112" type="sr" number="361" updated="2012-11-24T14:57:50-05:00">
+	<state datetime="2012-01-31">PASSED:SIMPLERES</state>
+	<status><vote datetime="2012-01-31" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-01-31"/>
+	<titles>
+		<title type="official" as="introduced">A resolution congratulating the University of Alabama Crimson Tide football team for winning the 2011 Bowl Championship Series National Championship.</title>
+	</titles>
+	<sponsor id="300089"/>
+	<cosponsors>
+		<cosponsor id="300088" joined="2012-01-31"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-01-31" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S222-224"/><reference label="text as passed Senate" ref="CR S222-223"/><reference label="text of measure as introduced" ref="CR S213-214"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="hr" number="518" />
+	</relatedbills>
+	<subjects>
+		<term name="Sports and recreation"/>
+		<term name="Alabama"/>
+		<term name="Athletes"/>
+		<term name="Congressional tributes"/>
+		<term name="Higher education"/>
+		<term name="School athletics"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	1/31/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Commends the University of Alabama for winning the 2011 Bowl Championship Series National Championship.
+
+	</summary>
+</bill>

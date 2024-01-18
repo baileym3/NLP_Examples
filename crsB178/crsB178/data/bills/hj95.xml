@@ -1,0 +1,41 @@
+<bill session="112" type="hj" number="95" updated="2012-11-24T09:11:20-05:00">
+	<state datetime="2011-12-17">ENACTED:SIGNED</state>
+	<status><enacted datetime="2011-12-17" /></status>
+
+	<introduced datetime="2011-12-16"/>
+	<titles>
+		<title type="official" as="introduced">Making further continuing appropriations for fiscal year 2012, and for other purposes.</title>
+	</titles>
+	<sponsor id="400340"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2011-12-16T14:06:00-05:00" state="INTRODUCED"><text>Mr. Rogers (KY) asked unanimous consent to consider as introduced.</text></action>
+		<action datetime="2011-12-16T14:07:00-05:00"><text>Considered by unanimous consent.</text><reference label="consideration" ref="CR H9908"/></action>
+		<vote how="without objection" type="vote" datetime="2011-12-16T14:07:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On passage Passed without objection.</text><reference label="text" ref="CR H9908"/></vote>
+		<action datetime="2011-12-16T14:07:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<vote how="by Unanimous Consent" type="vote2" datetime="2011-12-17" where="s" result="pass"  state="PASSED:BILL"><text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8780"/></vote>
+		<action datetime="2011-12-17"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="2011-12-17" ><text>Presented to President.</text></topresident>
+		<signed datetime="2011-12-17" ><text>Signed by President.</text></signed>
+		<enacted number="112-68" type="public" datetime="2011-12-17"  state="ENACTED:SIGNED"><text>Became Public Law No: 112-68.</text></enacted>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="hj" number="94" />
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Appropriations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/17/2011--Public Law. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Amends the Continuing Appropriations Act, 2012 (P.L. 112-36) to extend through December 23, 2011, specified continuing appropriations for FY2012.
+
+	</summary>
+</bill>

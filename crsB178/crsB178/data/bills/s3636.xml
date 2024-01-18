@@ -1,0 +1,37 @@
+<bill session="112" type="s" number="3636" updated="2012-12-11T06:13:21-05:00">
+	<state datetime="2012-11-26">REFERRED</state>
+	<status><introduced datetime="2012-11-26"/></status>
+
+	<introduced datetime="2012-11-26"/>
+	<titles>
+		<title type="short" as="introduced">Gift Card Consumer Protection Act of 2012</title>
+		<title type="official" as="introduced">A bill to provide increased consumer protections for gift cards.</title>
+	</titles>
+	<sponsor id="412490"/>
+	<cosponsors>
+		<cosponsor id="412246" joined="2012-12-10"/>
+		<cosponsor id="400357" joined="2012-12-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-26" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S6895-6896)</text></action>
+		<action datetime="2012-11-26" state="REFERRED"><text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Bankruptcy"/>
+		<term name="Consumer affairs"/>
+		<term name="Retail and wholesale trades"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

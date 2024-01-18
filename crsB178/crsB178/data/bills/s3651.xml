@@ -1,0 +1,33 @@
+<bill session="112" type="s" number="3651" updated="2012-12-06T06:22:15-05:00">
+	<state datetime="2012-12-04">REFERRED</state>
+	<status><introduced datetime="2012-12-04"/></status>
+
+	<introduced datetime="2012-12-04"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend title II of the Social Security Act and the Internal Revenue Code of 1986 to make improvements in the old-age, survivors, and disability insurance program, to provide for cash relief for years for which annual COLAs do not take effect under certain cash benefit programs, and to provide for Social Security benefit protection.</title>
+	</titles>
+	<sponsor id="412326"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-04" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Social welfare"/>
+		<term name="Inflation and prices"/>
+		<term name="Social security and elderly assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

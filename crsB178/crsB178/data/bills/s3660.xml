@@ -1,0 +1,33 @@
+<bill session="112" type="s" number="3660" updated="2012-12-07T06:18:28-05:00">
+	<state datetime="2012-12-05">REFERRED</state>
+	<status><introduced datetime="2012-12-05"/></status>
+
+	<introduced datetime="2012-12-05"/>
+	<titles>
+		<title type="official" as="introduced">A bill to extend the payroll tax holiday and to amend the Internal Revenue Code of 1986 to provide a temporary payroll increase tax credit for certain employees.</title>
+	</titles>
+	<sponsor id="412246"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-05" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Employment taxes"/>
+		<term name="Income tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="112" type="h" number="6666" updated="2013-01-01T08:51:08-05:00">
+	<state datetime="2012-12-13">REFERRED</state>
+	<status><introduced datetime="2012-12-13"/></status>
+
+	<introduced datetime="2012-12-13"/>
+	<titles>
+		<title type="short" as="introduced">Healthy Communities through Helping to Offer Incentives and Choices to Everyone in Society Act</title>
+		<title type="official" as="introduced">To provide a comprehensive approach to preventing and treating obesity.</title>
+	</titles>
+	<sponsor id="400218"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-13" state="REFERRED"><text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Natural Resources, Education and the Workforce, Transportation and Infrastructure, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-12-13"><text>Referred to House Energy and Commerce</text></action>
+		<action datetime="2012-12-13"><text>Referred to House Ways and Means</text></action>
+		<action datetime="2012-12-13"><text>Referred to House Natural Resources</text></action>
+		<action datetime="2012-12-13"><text>Referred to House Education and the Workforce</text></action>
+		<action datetime="2012-12-13"><text>Referred to House Transportation and Infrastructure</text></action>
+		<action datetime="2012-12-13"><text>Referred to House Agriculture</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+		<committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee" />
+		<committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee" />
+		<committee code="HSAG" name="House Agriculture" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

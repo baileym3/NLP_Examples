@@ -1,0 +1,41 @@
+<bill session="112" type="sc" number="45" updated="2012-11-24T14:42:31-05:00">
+	<state datetime="2012-06-05">PASS_OVER:SENATE</state>
+	<status><vote datetime="2012-06-05" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-06-05"/>
+	<titles>
+		<title type="official" as="introduced">A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to award the Congressional Gold Medal, collectively, to the Montford Point Marines.</title>
+	</titles>
+	<sponsor id="412324"/>
+	<cosponsors>
+		<cosponsor id="400054" joined="2012-06-05"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-06-05" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S3738"/><reference label="text as passed Senate" ref="CR S3738"/><reference label="text of measure as introduced" ref="CR S3734"/></vote>
+		<action datetime="2012-06-06T10:35:00-04:00"><text>Received in the House.</text></action>
+		<action datetime="2012-06-06"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-06-06T19:00:00-04:00"><text>Held at the desk.</text></action>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="112" type="hc" number="128" />
+		<bill relation="unknown" session="112" type="hc" number="128" />
+	</relatedbills>
+	<subjects>
+		<term name="Congress"/>
+		<term name="Congressional tributes"/>
+		<term name="Military history"/>
+		<term name="Military personnel and dependents"/>
+		<term name="North Carolina"/>
+		<term name="Racial and ethnic relations"/>
+		<term name="U.S. Capitol"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/5/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes Emancipation Hall in the Capitol Visitor Center to be used on June 27, 2012, for an event to award the Congressional Gold Medal, collectively, to the Montford Point Marines. (Camp Montford Point, North Carolina, was the site for the training of the first African-American Marines.) 
+	</summary>
+</bill>

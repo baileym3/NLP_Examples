@@ -1,0 +1,50 @@
+<bill session="112" type="s" number="266" updated="2012-11-24T15:21:47-05:00">
+	<state datetime="2011-02-17">PASS_OVER:SENATE</state>
+	<status><vote datetime="2011-02-17" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2011-02-03"/>
+	<titles>
+		<title type="official" as="introduced">A bill to redesignate the Noxubee National Wildlife Refuge as the Sam D. Hamilton Noxubee National Wildlife Refuge.</title>
+	</titles>
+	<sponsor id="300023"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2011-02-03" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<action datetime="2011-02-17"><text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text><reference label="consideration" ref="CR S924"/></action>
+		<vote how="by Unanimous Consent" type="vote" datetime="2011-02-17" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="text" ref="CR S924"/></vote>
+		<action datetime="2011-02-18T12:45:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="2011-02-18"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2011-02-18"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="2011-02-23"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text></action>
+		<action datetime="2011-04-07"><committee name="House Committee on Natural Resources" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="2011-06-15"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text></action>
+		<action datetime="2011-06-15"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2011-06-15" ><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action datetime="2011-07-20T15:47:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 112-171.</text></action>
+		<calendar number="56" datetime="2011-07-20T15:47:00-04:00" calendar="House" ><text>Placed on the House Calendar, Calendar No. 56.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" activity="Referral, Hearings, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="112" type="h" number="588" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Congressional tributes"/>
+		<term name="Department of the Interior"/>
+		<term name="Federal officials"/>
+		<term name="Mississippi"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/20/2011--Reported to House without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Redesignates the Noxubee National Wildlife Refuge in Mississippi as the Sam D. Hamilton Noxubee National Wildlife Refuge. 
+	</summary>
+</bill>

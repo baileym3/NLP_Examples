@@ -1,0 +1,43 @@
+<bill session="112" type="h" number="6531" updated="2012-11-24T14:31:12-05:00">
+	<state datetime="2012-09-21">REFERRED</state>
+	<status><introduced datetime="2012-09-21"/></status>
+
+	<introduced datetime="2012-09-21"/>
+	<titles>
+		<title type="short" as="introduced">Bottle Recycling Climate Protection Act of 2012</title>
+		<title type="official" as="introduced">To amend the Solid Waste Disposal Act to require a refund value for certain beverage containers, and to provide resources for State pollution prevention and recycling programs, and for other purposes.</title>
+	</titles>
+	<sponsor id="400253"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-21" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="2012-09-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Environment and the Economy.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Environment and the Economy" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Civil actions and liability"/>
+		<term name="Consumer affairs"/>
+		<term name="Environmental Protection Agency (EPA)"/>
+		<term name="Retail and wholesale trades"/>
+		<term name="Solid waste and recycling"/>
+		<term name="State and local government operations"/>
+		<term name="State and local taxation"/>
+		<term name="User charges and fees"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="112" type="h" number="3998" updated="2012-11-24T12:17:17-05:00">
+	<state datetime="2012-02-09">REFERRED</state>
+	<status><introduced datetime="2012-02-09"/></status>
+
+	<introduced datetime="2012-02-09"/>
+	<titles>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the deduction for certain expenses of elementary and secondary school teachers.</title>
+	</titles>
+	<sponsor id="400628"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-02-09" state="REFERRED"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Income tax deductions"/>
+		<term name="Teaching, teachers, curricula"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/9/2012--Introduced.
+Amends the Internal Revenue Code to increase from $250 to $500 the tax deduction for certain expenses of elementary and secondary school teachers and to extend such deduction through 2013.
+
+	</summary>
+</bill>

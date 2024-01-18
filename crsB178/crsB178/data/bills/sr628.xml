@@ -1,0 +1,43 @@
+<bill session="112" type="sr" number="628" updated="2013-01-01T12:05:48-05:00">
+	<state datetime="2013-01-01">PASSED:SIMPLERES</state>
+	<status><vote datetime="2013-01-01" where="s" result="pass" how="by Voice Vote" roll=""/></status>
+
+	<introduced datetime="2012-12-31"/>
+	<titles>
+		<title type="official" as="introduced">A resolution expressing the deep disappointment of the Senate in the enactment by the Russian Government of a law ending inter-country adoptions of Russian children by United States citizens and urging the Russia Government to reconsider the law and prioritize the processing of inter-country adoptions involving parentless Russian children who were already matched with United States families before the enactment of the law.</title>
+	</titles>
+	<sponsor id="300063"/>
+	<cosponsors>
+		<cosponsor id="400034" joined="2012-12-31"/>
+		<cosponsor id="300018" joined="2012-12-31"/>
+		<cosponsor id="300038" joined="2012-12-31"/>
+		<cosponsor id="300048" joined="2012-12-31"/>
+		<cosponsor id="300055" joined="2012-12-31"/>
+		<cosponsor id="412242" joined="2012-12-31"/>
+		<cosponsor id="300064" joined="2012-12-31"/>
+		<cosponsor id="300070" joined="2012-12-31"/>
+		<cosponsor id="412243" joined="2012-12-31"/>
+		<cosponsor id="400272" joined="2012-12-31"/>
+		<cosponsor id="300073" joined="2012-12-31"/>
+		<cosponsor id="412321" joined="2012-12-31"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-31" state="INTRODUCED"><text>Submitted in the Senate.</text></action>
+		<vote how="by Voice Vote" type="vote" datetime="2013-01-01" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="112" type="hc" number="145" updated="2013-01-01T12:00:03-05:00">
+	<state datetime="2012-12-17">REFERRED</state>
+	<status><introduced datetime="2012-12-17"/></status>
+
+	<introduced datetime="2012-12-17"/>
+	<titles>
+		<title type="official" as="introduced">Calling for universal condemnation of the North Korean missile launch of December 12, 2012.</title>
+	</titles>
+	<sponsor id="400344"/>
+	<cosponsors>
+		<cosponsor id="400025" joined="2012-12-17"/>
+		<cosponsor id="400055" joined="2012-12-17"/>
+		<cosponsor id="400071" joined="2012-12-17"/>
+		<cosponsor id="412272" joined="2012-12-17"/>
+		<cosponsor id="412457" joined="2012-12-18"/>
+		<cosponsor id="400122" joined="2012-12-17"/>
+		<cosponsor id="400128" joined="2012-12-17"/>
+		<cosponsor id="412460" joined="2012-12-17"/>
+		<cosponsor id="400348" joined="2012-12-17"/>
+		<cosponsor id="400380" joined="2012-12-17"/>
+		<cosponsor id="412499" joined="2012-12-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-17" state="REFERRED"><text>Referred to the House Committee on Foreign Affairs.</text></action>
+		<action datetime="2012-12-31T12:06:00-05:00"><text>Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution, as amended.</text></action>
+		<action datetime="2012-12-31T12:07:00-05:00"><text>Considered under suspension of the rules.</text></action>
+		<action datetime="2012-12-31T12:07:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 145.</text></action>
+		<action datetime="2012-12-31T12:18:00-05:00"><text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Berman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSFA" name="House Foreign Affairs" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="International affairs"/>
+		<term name="Arms control and nonproliferation"/>
+		<term name="Asia"/>
+		<term name="International organizations and cooperation"/>
+		<term name="Military assistance, sales, and agreements"/>
+		<term name="Military procurement, research, weapons development"/>
+		<term name="North Korea"/>
+		<term name="Sanctions"/>
+		<term name="Trade restrictions"/>
+		<term name="United Nations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/17/2012--Introduced.
+Expresses the sense of Congress that: (1) the North Korean missile launch of December 12, 2012, represents a flagrant violation of specified U.N. Security Council resolutions; (2) North Korea continues to defy the U.N., its Six-Party partners, and the international community; (3) the member nations should immediately impose sanctions covered by such resolutions and censure North Korea; and (4) all current restrictions against North Korea, including sanctions that ban the importation into the United States of North Korean goods, should remain in effect until North Korea no longer engages in activities that threaten U.S. interests and global peace.
+
+	</summary>
+</bill>

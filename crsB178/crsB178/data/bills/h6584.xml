@@ -1,0 +1,54 @@
+<bill session="112" type="h" number="6584" updated="2012-12-27T06:12:11-05:00">
+	<state datetime="2012-11-02">REFERRED</state>
+	<status><introduced datetime="2012-11-02"/></status>
+
+	<introduced datetime="2012-11-02"/>
+	<titles>
+		<title type="short" as="introduced">Verifying Authority and Legality In Drug Compounding Act of 2012</title>
+		<title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to provide for the compounding of drug products.</title>
+	</titles>
+	<sponsor id="400253"/>
+	<cosponsors>
+		<cosponsor id="400074" joined="2012-11-27"/>
+		<cosponsor id="412236" joined="2012-11-02"/>
+		<cosponsor id="400140" joined="2012-11-27"/>
+		<cosponsor id="400249" joined="2012-11-02"/>
+		<cosponsor id="400263" joined="2012-11-27"/>
+		<cosponsor id="400301" joined="2012-11-02"/>
+		<cosponsor id="400333" joined="2012-11-27"/>
+		<cosponsor id="400378" joined="2012-11-02"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-02" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="2012-11-02"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Health.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Health" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Health"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Administrative remedies"/>
+		<term name="Consumer affairs"/>
+		<term name="Department of Health and Human Services"/>
+		<term name="Drug safety, medical device, and laboratory regulation"/>
+		<term name="Food and Drug Administration (FDA)"/>
+		<term name="Government information and archives"/>
+		<term name="Health information and medical records"/>
+		<term name="Licensing and registrations"/>
+		<term name="Manufacturing"/>
+		<term name="Prescription drugs"/>
+		<term name="Retail and wholesale trades"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="112" type="hr" number="548" updated="2012-11-24T08:55:42-05:00">
+	<state datetime="2012-02-15">REFERRED</state>
+	<status><introduced datetime="2012-02-15"/></status>
+
+	<introduced datetime="2012-02-15"/>
+	<titles>
+		<title type="official" as="introduced">Acknowledging the National Academy of Inventors (NAI) as a driving factor in the world economy and the contributions of scientist-inventors across all disciplines.</title>
+	</titles>
+	<sponsor id="412195"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-02-15" state="REFERRED"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action datetime="2012-02-16"><text>Sponsor introductory remarks on measure. (CR E215-216)</text></action>
+		<action datetime="2012-02-28"><committee name="House Committee on the Judiciary"/><text>Referred to the Subcommittee on Intellectual Property, Competition and the Internet.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Intellectual Property, Competition and the Internet" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Commerce"/>
+		<term name="Advanced technology and technological innovations"/>
+		<term name="Competitiveness, trade promotion, trade deficits"/>
+		<term name="Congressional tributes"/>
+		<term name="Higher education"/>
+		<term name="Intellectual property"/>
+		<term name="Product development and innovation"/>
+		<term name="Science and engineering education"/>
+		<term name="Small business"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/15/2012--Introduced.
+Acknowledges the National Academy of Inventors (NAI) as a driving factor in the world economy and the contributions of scientist-inventors. Expresses support for university technological developments, promoting entrepreneurship and, support for university innovations in local communities. Recognizes the importance of inventions, patents, and copyrights as part of maintaining U.S. leadership in the world and a competitive global economy. 
+	</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="112" type="s" number="3598" updated="2012-11-24T17:54:49-05:00">
+	<state datetime="2012-09-20">REFERRED</state>
+	<status><introduced datetime="2012-09-20"/></status>
+
+	<introduced datetime="2012-09-20"/>
+	<titles>
+		<title type="short" as="introduced">Robert Matava Exploitation Protection for Elder Adults Act of 2012</title>
+		<title type="official" as="introduced">A bill to protect elder adults from exploitation and financial crime, to prevent elder adult abuse and financial exploitation, and to promote safety for elder adults.</title>
+	</titles>
+	<sponsor id="412490"/>
+	<cosponsors>
+		<cosponsor id="412247" joined="2012-11-14"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-20" state="REFERRED"><text>Read twice and referred to the Committee on the Judiciary.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="s" number="462" />
+	</relatedbills>
+	<subjects>
+		<term name="Crime and law enforcement"/>
+		<term name="Aging"/>
+		<term name="Congressional oversight"/>
+		<term name="Crime prevention"/>
+		<term name="Crime victims"/>
+		<term name="Criminal investigation, prosecution, interrogation"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Evidence and witnesses"/>
+		<term name="Fraud offenses and financial crimes"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Health programs administration and funding"/>
+		<term name="Intergovernmental relations"/>
+		<term name="Internet and video services"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Lawyers and legal services"/>
+		<term name="Marketing and advertising"/>
+		<term name="State and local government operations"/>
+		<term name="Telephone and wireless communication"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

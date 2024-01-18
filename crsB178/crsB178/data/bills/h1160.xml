@@ -1,0 +1,70 @@
+<bill session="112" type="h" number="1160" updated="2012-11-24T10:04:39-05:00">
+	<state datetime="2011-10-24T19:00:00-04:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="2011-10-24T19:00:00-04:00" where="h" result="pass" how="roll" roll="802"/></status>
+
+	<introduced datetime="2011-03-17"/>
+	<titles>
+		<title type="short" as="introduced">McKinney Lake National Fish Hatchery Conveyance Act</title>
+		<title type="short" as="reported to house">McKinney Lake National Fish Hatchery Conveyance Act</title>
+		<title type="short" as="passed house">McKinney Lake National Fish Hatchery Conveyance Act</title>
+		<title type="short" as="reported to senate">McKinney Lake National Fish Hatchery Conveyance Act</title>
+		<title type="official" as="introduced">To require the Secretary of the Interior to convey the McKinney Lake National Fish Hatchery to the State of North Carolina, and for other purposes.</title>
+	</titles>
+	<sponsor id="412287"/>
+	<cosponsors>
+		<cosponsor id="400616" joined="2011-03-17"/>
+		<cosponsor id="400076" joined="2011-03-17"/>
+		<cosponsor id="412457" joined="2011-03-17"/>
+		<cosponsor id="400643" joined="2011-05-23"/>
+		<cosponsor id="400209" joined="2011-03-17"/>
+		<cosponsor id="400266" joined="2011-03-17"/>
+		<cosponsor id="400280" joined="2011-03-17"/>
+		<cosponsor id="400288" joined="2011-03-17"/>
+		<cosponsor id="400326" joined="2011-03-17"/>
+		<cosponsor id="412225" joined="2011-03-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-03-17" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="2011-03-21"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text></action>
+		<action datetime="2011-05-12"><committee name="House Committee on Natural Resources" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="2011-06-15"><committee name="House Committee on Natural Resources"/><text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text></action>
+		<action datetime="2011-06-15"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2011-06-15"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported by Unanimous Consent.</text></calendar>
+		<action datetime="2011-07-20T13:11:00-04:00"><text>Reported by the Committee on Natural Resources. H. Rept. 112-168.</text></action>
+		<calendar number="112" datetime="2011-07-20T13:11:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 112.</text></calendar>
+		<action datetime="2011-10-24T16:25:00-04:00"><text>Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.</text></action>
+		<action datetime="2011-10-24T16:25:00-04:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6992-6994"/></action>
+		<action datetime="2011-10-24T16:25:00-04:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1160.</text></action>
+		<action datetime="2011-10-24T16:31:00-04:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="2011-10-24T18:54:00-04:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7003"/></action>
+		<vote how="roll" type="vote" roll="802" datetime="2011-10-24T19:00:00-04:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 802).</text><reference label="text" ref="CR H6992-6993"/></vote>
+		<action datetime="2011-10-24T19:00:00-04:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2011-10-31"><text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text></action>
+		<calendar datetime="2012-06-21" ><committee name="House Committee on Natural Resources"/><text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text></calendar>
+		<action datetime="2012-07-19"><text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-190.</text></action>
+		<calendar under="General Orders" number="466" datetime="2012-07-19" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" activity="Referral, Hearings, Discharged" />
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="s" number="651" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Fishes"/>
+		<term name="Government buildings, facilities, and property"/>
+		<term name="Hunting and fishing"/>
+		<term name="Land transfers"/>
+		<term name="North Carolina"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	7/19/2012--Reported to Senate without amendment. (This measure has not been amended since it was passed by the House on October 24, 2011. The summary of that version is repeated here.) McKinney Lake National Fish Hatchery Conveyance Act - Directs the Secretary of the Interior to convey the McKinney Lake National Fish Hatchery in Richmond County, North Carolina, to the state of North Carolina to be used by the North Carolina Wildlife Resources Commission as a component of the fish and wildlife management program of the state. Requires the state to allow the United States Fish and Wildlife Service (USFWS) to use such property for the propagation of any critically important aquatic resource held in public trust to address the specific restoration or recovery needs of such resource. Requires reversion of the property if it is used for any purpose other than as described above. 
+	</summary>
+</bill>

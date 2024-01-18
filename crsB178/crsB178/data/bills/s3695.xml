@@ -1,0 +1,40 @@
+<bill session="112" type="s" number="3695" updated="2012-12-22T06:24:14-05:00">
+	<state datetime="2012-12-19">REFERRED</state>
+	<status><introduced datetime="2012-12-19"/></status>
+
+	<introduced datetime="2012-12-19"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend section 5000A of the Internal Revenue Code of 1986 to provide an additional religious exemption from the individual health coverage mandate.</title>
+	</titles>
+	<sponsor id="300067"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2012-12-19"/>
+		<cosponsor id="412493" joined="2012-12-19"/>
+		<cosponsor id="400034" joined="2012-12-19"/>
+		<cosponsor id="400284" joined="2012-12-19"/>
+		<cosponsor id="412492" joined="2012-12-19"/>
+		<cosponsor id="412491" joined="2012-12-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-19" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Health care costs and insurance"/>
+		<term name="Health care coverage and access"/>
+		<term name="Religion"/>
+		<term name="Sales and excise taxes"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

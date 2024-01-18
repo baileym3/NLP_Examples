@@ -1,0 +1,49 @@
+<bill session="112" type="s" number="3605" updated="2012-11-24T17:55:09-05:00">
+	<state datetime="2012-09-20">REFERRED</state>
+	<status><introduced datetime="2012-09-20"/></status>
+
+	<introduced datetime="2012-09-20"/>
+	<titles>
+		<title type="short" as="introduced">Restoring Effective Environmental Protection Act of 2012</title>
+		<title type="official" as="introduced">A bill to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.</title>
+	</titles>
+	<sponsor id="412324"/>
+	<cosponsors>
+		<cosponsor id="412251" joined="2012-11-13"/>
+		<cosponsor id="300019" joined="2012-09-20"/>
+		<cosponsor id="300021" joined="2012-11-13"/>
+		<cosponsor id="300026" joined="2012-09-20"/>
+		<cosponsor id="412390" joined="2012-09-20"/>
+		<cosponsor id="300030" joined="2012-09-20"/>
+		<cosponsor id="300055" joined="2012-09-21"/>
+		<cosponsor id="300063" joined="2012-09-20"/>
+		<cosponsor id="412243" joined="2012-09-20"/>
+		<cosponsor id="300080" joined="2012-09-20"/>
+		<cosponsor id="412322" joined="2012-09-20"/>
+		<cosponsor id="400418" joined="2012-09-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-20" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="872" />
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Agricultural pests"/>
+		<term name="Congressional oversight"/>
+		<term name="Environmental regulatory procedures"/>
+		<term name="Hazardous wastes and toxic substances"/>
+		<term name="Licensing and registrations"/>
+		<term name="Water quality"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

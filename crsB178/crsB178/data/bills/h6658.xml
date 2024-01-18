@@ -1,0 +1,37 @@
+<bill session="112" type="h" number="6658" updated="2013-01-01T08:51:12-05:00">
+	<state datetime="2012-12-13">REFERRED</state>
+	<status><introduced datetime="2012-12-13"/></status>
+
+	<introduced datetime="2012-12-13"/>
+	<titles>
+		<title type="short" as="introduced">Urban Competitiveness Act</title>
+		<title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a zero capital gains rate for certain new investments in specified areas made during a temporary period.</title>
+	</titles>
+	<sponsor id="412440"/>
+	<cosponsors>
+		<cosponsor id="400639" joined="2012-12-20"/>
+		<cosponsor id="400141" joined="2012-12-13"/>
+		<cosponsor id="412422" joined="2012-12-13"/>
+		<cosponsor id="412199" joined="2012-12-20"/>
+		<cosponsor id="412506" joined="2012-12-20"/>
+		<cosponsor id="400316" joined="2012-12-18"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-13" state="REFERRED"><text>Referred to the House Committee on Ways and Means.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

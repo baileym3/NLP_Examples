@@ -1,0 +1,39 @@
+<bill session="112" type="sr" number="491" updated="2012-11-24T15:03:15-05:00">
+	<state datetime="2012-06-12">PASSED:SIMPLERES</state>
+	<status><vote datetime="2012-06-12" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-06-12"/>
+	<titles>
+		<title type="official" as="introduced">A resolution commending the participants in the 44th International Chemistry Olympiad and recognizing the importance of education in the fields of science, technology, engineering, and mathematics to the future of the United States.</title>
+	</titles>
+	<sponsor id="412390"/>
+	<cosponsors>
+		<cosponsor id="300002" joined="2012-06-12"/>
+		<cosponsor id="400040" joined="2012-06-12"/>
+		<cosponsor id="300073" joined="2012-06-12"/>
+		<cosponsor id="300075" joined="2012-06-12"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-06-12" where="s" result="pass"  state="PASSED:SIMPLERES"><text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text><reference label="consideration" ref="CR S4107-4108"/><reference label="text as passed Senate" ref="CR S4108"/><reference label="text of measure as introduced" ref="CR S3983"/></vote>
+	</actions>
+	<committees>
+
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Education"/>
+		<term name="Congressional tributes"/>
+		<term name="Elementary and secondary education"/>
+		<term name="Higher education"/>
+		<term name="Maryland"/>
+		<term name="Science and engineering education"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/12/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Welcomes the 44th International Chemistry Olympiad to the United States. Recognizes the need to encourage young people to pursue careers in the fields of science (including chemistry) technology, engineering, and mathematics. Commends the University of Maryland, College Park for hosting, and the American Chemical Society for organizing, the 44th Olympiad. 
+	</summary>
+</bill>

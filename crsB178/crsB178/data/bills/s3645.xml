@@ -1,0 +1,40 @@
+<bill session="112" type="s" number="3645" updated="2012-12-01T06:17:29-05:00">
+	<state datetime="2012-11-28">REFERRED</state>
+	<status><introduced datetime="2012-11-28"/></status>
+
+	<introduced datetime="2012-11-28"/>
+	<titles>
+		<title type="official" as="introduced">A bill to direct the United States Fish and Wildlife Service, in coordination with the Army Corps of Engineers, the National Park Service, and the United States Geological Survey, to lead a multiagency effort to slow the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries, and for other purposes.</title>
+	</titles>
+	<sponsor id="400050"/>
+	<cosponsors>
+		<cosponsor id="412246" joined="2012-11-28"/>
+		<cosponsor id="412378" joined="2012-11-28"/>
+		<cosponsor id="412242" joined="2012-11-30"/>
+		<cosponsor id="400325" joined="2012-11-28"/>
+		<cosponsor id="400408" joined="2012-11-28"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-11-28" state="REFERRED"><text>Read twice and referred to the Committee on Environment and Public Works.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Water resources development"/>
+		<term name="Aquatic ecology"/>
+		<term name="Fishes"/>
+		<term name="Lakes and rivers"/>
+		<term name="Mississippi River"/>
+		<term name="Wildlife conservation and habitat protection"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

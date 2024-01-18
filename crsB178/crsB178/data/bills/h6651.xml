@@ -1,0 +1,48 @@
+<bill session="112" type="h" number="6651" updated="2012-12-21T06:22:19-05:00">
+	<state datetime="2012-12-12">REFERRED</state>
+	<status><introduced datetime="2012-12-12"/></status>
+
+	<introduced datetime="2012-12-12"/>
+	<titles>
+		<title type="official" as="introduced">To impose requirements with regard to border searches of digital electronic devices and digital storage media, and for other purposes.</title>
+	</titles>
+	<sponsor id="400122"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-12" state="REFERRED"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-12-12"><text>Referred to House Judiciary</text></action>
+		<action datetime="2012-12-12"><text>Referred to House Homeland Security</text></action>
+		<action datetime="2012-12-17"><committee name="House Homeland Security"/><text>Referred to the Subcommittee on Border and Maritime Security.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee" />
+		<committee code="" name="House Homeland Security" subcommittee="Border and Maritime Security" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Law"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Border security and unlawful immigration"/>
+		<term name="Computers and information technology"/>
+		<term name="Constitution and constitutional amendments"/>
+		<term name="Criminal investigation, prosecution, interrogation"/>
+		<term name="Department of Homeland Security"/>
+		<term name="Evidence and witnesses"/>
+		<term name="Government information and archives"/>
+		<term name="Government investigations"/>
+		<term name="Law enforcement officers"/>
+		<term name="Right of privacy"/>
+		<term name="Telephone and wireless communication"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

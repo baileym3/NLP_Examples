@@ -1,0 +1,37 @@
+<bill session="112" type="s" number="3581" updated="2012-11-24T17:54:10-05:00">
+	<state datetime="2012-09-20">REFERRED</state>
+	<status><introduced datetime="2012-09-20"/></status>
+
+	<introduced datetime="2012-09-20"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to modify the credit for carbon dioxide sequestration.</title>
+	</titles>
+	<sponsor id="300026"/>
+	<cosponsors>
+		<cosponsor id="300041" joined="2012-09-20"/>
+		<cosponsor id="300084" joined="2012-09-20"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-20" state="REFERRED"><text>Read twice and referred to the Committee on Finance.</text></action>
+	</actions>
+	<committees>
+		<committee code="SSFI" name="Senate Finance" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Taxation"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Air quality"/>
+		<term name="Climate change and greenhouse gases"/>
+		<term name="Department of the Treasury"/>
+		<term name="Income tax credits"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

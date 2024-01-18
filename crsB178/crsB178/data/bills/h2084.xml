@@ -1,0 +1,40 @@
+<bill session="112" type="h" number="2084" updated="2012-11-24T10:45:51-05:00">
+	<state datetime="2011-06-02">REFERRED</state>
+	<status><introduced datetime="2011-06-02"/></status>
+
+	<introduced datetime="2011-06-02"/>
+	<titles>
+		<title type="short" as="introduced">Universal Right to Vote by Mail Act of 2011</title>
+		<title type="official" as="introduced">To amend the Help America Vote Act of 2002 to allow all eligible voters to vote by mail in Federal elections.</title>
+	</titles>
+	<sponsor id="400097"/>
+	<cosponsors>
+		<cosponsor id="400326" joined="2011-12-01"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-06-02" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR E1018-1019)</text></action>
+		<action datetime="2011-06-02" state="REFERRED"><text>Referred to the House Committee on House Administration.</text></action>
+		<action datetime="2011-08-11"><committee name="House Committee on House Administration"/><text>Referred to the Subcommittee on Elections.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSHA" name="House Administration" activity="Referral, In Committee" />
+		<committee code="" name="House Administration" subcommittee="Elections" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Congressional elections"/>
+		<term name="Elections, voting, political campaign regulation"/>
+		<term name="Postal service"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	6/2/2011--Introduced.
+Universal Right to Vote by Mail Act of 2011 - Amends the Help America Vote Act of 2002 to prohibit a state from imposing additional conditions or requirements on the eligibility of an individual to cast a vote in federal elections by mail, except to the extent that it imposes a deadline for requesting the ballot and returning it to the appropriate state or local election official. 
+	</summary>
+</bill>

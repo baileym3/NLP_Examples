@@ -1,0 +1,52 @@
+<bill session="112" type="h" number="6625" updated="2012-12-08T06:12:47-05:00">
+	<state datetime="2012-12-03">REFERRED</state>
+	<status><introduced datetime="2012-12-03"/></status>
+
+	<introduced datetime="2012-12-03"/>
+	<titles>
+		<title type="short" as="introduced">Violence Against Indian Women Act of 2012</title>
+		<title type="official" as="introduced">To grant Indian tribes jurisdiction over crimes of domestic violence that occur in the Indian country of that tribe.</title>
+	</titles>
+	<sponsor id="400196"/>
+	<cosponsors>
+		<cosponsor id="400077" joined="2012-12-03"/>
+		<cosponsor id="400224" joined="2012-12-04"/>
+		<cosponsor id="400644" joined="2012-12-03"/>
+		<cosponsor id="400376" joined="2012-12-03"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-03" state="REFERRED"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-12-03"><text>Referred to House Judiciary</text></action>
+		<action datetime="2012-12-03"><text>Referred to House Natural Resources</text></action>
+		<action datetime="2012-12-07"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text></action>
+		<action datetime="2012-12-07"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Courts, Commercial and Administrative Law.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, In Committee" />
+		<committee code="" name="House Judiciary" subcommittee="Crime, Terrorism, and Homeland Security" activity="Referral" />
+		<committee code="" name="House Judiciary" subcommittee="Courts, Commercial and Administrative Law" activity="Referral" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Assault and harassment offenses"/>
+		<term name="Crimes against women"/>
+		<term name="Criminal investigation, prosecution, interrogation"/>
+		<term name="Criminal procedure and sentencing"/>
+		<term name="Domestic violence and child abuse"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Jurisdiction and venue"/>
+		<term name="Law enforcement administration and funding"/>
+		<term name="Sex offenses"/>
+		<term name="Violent crime"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

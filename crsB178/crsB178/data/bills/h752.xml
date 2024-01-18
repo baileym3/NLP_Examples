@@ -1,0 +1,46 @@
+<bill session="112" type="h" number="752" updated="2013-01-01T12:01:07-05:00">
+	<state datetime="2012-12-05">REPORTED</state>
+	<status><calendar datetime="2012-12-05" /></status>
+
+	<introduced datetime="2011-02-17"/>
+	<titles>
+		<title type="short" as="introduced">Molalla River Wild and Scenic Rivers Act</title>
+		<title type="official" as="introduced">To amend the Wild and Scenic Rivers Act to designate segments of the Molalla River in the State of Oregon, as components of the National Wild and Scenic Rivers System, and for other purposes.</title>
+	</titles>
+	<sponsor id="412315"/>
+	<cosponsors>
+		<cosponsor id="400033" joined="2011-02-17"/>
+		<cosponsor id="400100" joined="2011-02-17"/>
+		<cosponsor id="400437" joined="2011-02-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-02-17" state="REFERRED"><text>Referred to the House Committee on Natural Resources.</text></action>
+		<action datetime="2011-02-22"><committee name="House Committee on Natural Resources"/><text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text></action>
+		<action datetime="2012-03-08"><committee name="House Committee on Natural Resources" subcommittee="National Parks, Forests and Public Lands"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="2012-12-05"><committee name="House Committee on Natural Resources"/><text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text></action>
+		<action datetime="2012-12-05"><committee name="House Committee on Natural Resources"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2012-12-05"  state="REPORTED"><committee name="House Committee on Natural Resources"/><text>Ordered to be Reported (Amended) by Unanimous Consent.</text></calendar>
+		<action datetime="2012-12-31T12:11:00-05:00"><text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-735.</text></action>
+		<calendar number="537" datetime="2012-12-31T12:12:00-05:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 537.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Natural Resources" subcommittee="National Parks, Forests and Public Lands" activity="Referral, Hearings, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="identical" session="112" type="s" number="403" />
+	</relatedbills>
+	<subjects>
+		<term name="Public lands and natural resources"/>
+		<term name="Oregon"/>
+		<term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	2/17/2011--Introduced.
+Molalla River Wild and Scenic Rivers Act - Amends the Wild and Scenic Rivers Act (the Act) to designate specified segments of the Molalla River in Oregon as components of the National Wild and Scenic Rivers System. Amends the Act to rename the Squaw Creek in Oregon as Wychus Creek.
+
+	</summary>
+</bill>

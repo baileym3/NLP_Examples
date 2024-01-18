@@ -1,0 +1,78 @@
+<bill session="112" type="s" number="1950" updated="2012-11-24T16:40:33-05:00">
+	<state datetime="2011-12-14">REPORTED</state>
+	<status><calendar datetime="2011-12-14" /></status>
+
+	<introduced datetime="2011-12-07"/>
+	<titles>
+		<title type="short" as="introduced">Commercial Motor Vehicle Safety Enhancement Act of 2011</title>
+		<title type="short" as="introduced">Motorcoach Enhanced Safety Act of 2011</title>
+		<title type="short" as="introduced">Safe Roads Act of 2011</title>
+		<title type="short" as="reported to senate">Commercial Motor Vehicle Safety Enhancement Act of 2011</title>
+		<title type="short" as="reported to senate">Motorcoach Enhanced Safety Act of 2011</title>
+		<title type="short" as="reported to senate">Safe Roads Act of 2011</title>
+		<title type="short" as="reported to senate">Surface Transportation and Freight Policy Act of 2011</title>
+		<title type="official" as="introduced">A bill to amend title 49, United States Code, to improve commercial motor vehicle safety and reduce commercial motor vehicle-related accidents and fatalities, to authorize the Federal Motor Carrier Safety Administration, and for other purposes.</title>
+	</titles>
+	<sponsor id="300064"/>
+	<cosponsors>
+		<cosponsor id="300080" joined="2011-12-07"/>
+		<cosponsor id="300084" joined="2011-12-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2011-12-07" state="REFERRED"><text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text></action>
+		<calendar datetime="2011-12-14"  state="REPORTED"><committee name="Committee on Commerce, Science, and Transportation"/><text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text></calendar>
+		<action datetime="2012-11-13"><text>Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 112-238.</text></action>
+		<calendar under="General Orders" number="543" datetime="2012-11-13" calendar="Senate Legislative" ><text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="14" />
+		<bill relation="unknown" session="112" type="h" number="873" />
+		<bill relation="unknown" session="112" type="h" number="2459" />
+		<bill relation="unknown" session="112" type="h" number="4348" />
+		<bill relation="unknown" session="112" type="s" number="453" />
+		<bill relation="unknown" session="112" type="s" number="695" />
+		<bill relation="unknown" session="112" type="s" number="754" />
+		<bill relation="unknown" session="112" type="s" number="1813" />
+	</relatedbills>
+	<subjects>
+		<term name="Transportation and public works"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Advisory bodies"/>
+		<term name="Animal protection and human-animal relationships"/>
+		<term name="Canada"/>
+		<term name="Civil actions and liability"/>
+		<term name="Computers and information technology"/>
+		<term name="Consumer affairs"/>
+		<term name="Criminal justice information and records"/>
+		<term name="Department of Transportation"/>
+		<term name="Drug, alcohol, tobacco use"/>
+		<term name="Employment discrimination and employee rights"/>
+		<term name="Fires"/>
+		<term name="Government information and archives"/>
+		<term name="Health personnel"/>
+		<term name="Labor standards"/>
+		<term name="Labor-management relations"/>
+		<term name="Licensing and registrations"/>
+		<term name="Mammals"/>
+		<term name="Medical tests and diagnostic methods"/>
+		<term name="Motor carriers"/>
+		<term name="Motor vehicles"/>
+		<term name="Roads and highways"/>
+		<term name="Transportation employees"/>
+		<term name="Transportation programs funding"/>
+		<term name="Transportation safety and security"/>
+		<term name="User charges and fees"/>
+		<term name="Worker safety and health"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/7/2011--Introduced.
+Commercial Motor Vehicle Safety Enhancement Act of 2011 - Revises commercial motor vehicle registration requirements to prohibit the Secretary of Transportation (DOT) from registering a person to provide motorcoach services until that person has: (1) submitted a comprehensive management plan that is in place to ensure compliance with DOT motor carrier safety regulations; (2) disclosed any common ownership, common management, common control, or common familial relationships between the carrier and any other motor carrier, freight forwarder, or broker that have occurred in the five-years preceding the filing of an application for registration; and (3) passed the DOT written proficiency examination established under this Act to test a motor carrier's knowledge of federal and state motor carrier safety regulations, standards, and orders. Reduces from 18 months to 12 months after motorcoach operations begin the deadline for mandatory safety reviews of newly registered motorcoach owners or operators. Authorizes the Secretary to register a person to provide motorcoach services after that person undergoes a pre-authorization safety audit. Authorizes the Secretary to withhold, suspend, amend, or revoke the registration of a motor carrier, broker, or freight forwarder: (1) for failure to obey a subpoena issued by the Secretary; (2) for failure to disclose in its application a material fact with respect to its ability to comply with federal law, regulations, or a registration condition; or (3) that is or was related through common ownership, common management, common control, or common familial relationship to any other motor carrier, broker, or freight forwarder. Authorizes an employer or person to operate a commercial motor vehicle only if that employer or person is registered by the Secretary and receives a U.S. Department of Transportation (USDOT) number. Eliminates the $300 limit on the registration fee for new motor carrier registrants using the Unified Carrier Registration System. Increases civil penalties against motor carriers or foreign motor carriers of passengers or motor carriers of hazardous waste for: (1) failing to comply with certain reporting and recordkeeping requirements, and (2) operating without being registered. Increases civil penalties against a motor carrier, motor carrier of migrant workers, or motor private carrier for failing to respond to a subpoena or requirement of the Secretary to appear and testify or produce records. Authorizes the Secretary to withhold, suspend, amend, or revoke the registration of a motorcoach carrier for failure to obey such subpoena or requirement. Prohibits two or more motor carriers, employers, or persons from using common ownership, common management, common control, or common familial relationship to avoid compliance, or conceal noncompliance or a history of noncompliance with commercial motor vehicle safety regulations or an order of the Secretary. Authorizes the Secretary to impose appropriate sanctions for violation of this prohibition. Repeals the exemption for brokers of motor carriers of passengers from the jurisdiction of either the Secretary or the Surface Transportation Board (STB). Redefines &quot;employer,&quot; for purposes of the application of federal commercial motor vehicle safety standards, to include a person that offers for rent or lease in interstate commerce motor vehicles used to transport more than eight passengers (including the driver) from the same location, or as part of the same business provides names or contact information of drivers, or holds itself out to the public as a charter bus company. Directs the Secretary to analyze the need for crashworthiness standards on certain property-carrying commercial motor vehicles. Authorizes the Secretary to prohibit from operating a commercial motor vehicle in interstate and foreign commerce any Canadian employer that has received an unfit safety determination to operate such a vehicle from an authorized agency in Canada, until that same agency determines that the employer is fit. Prescribes requirements with respect to: (1) state reporting to the Federal Convictions and Withdrawal Database or other similar database of any motor vehicle-related convictions of foreign commercial drivers, (2) disqualification of foreign commercial drivers for alcohol and controlled substance felony violations, and (3) revocation of the registration of a foreign motor carrier for failure to comply with an order of the Secretary or the STB or to pay certain civil penalties. Directs the Secretary to prescribe regulations to require commercial motor vehicles involved in interstate commerce, and operated by a driver subject to both federal hours-of-service and record of duty status requirements, to be equipped with an electronic on-board recording device meeting certain performance and design standards and requirements. Requires the Secretary to establish a national registry of medical examiners. Requires an employer to ascertain at least once every 12 months the driving record of each commercial motor vehicle driver it employs. Requires the Secretary to develop recommendations and a plan for the development and implementation of a national driver record notification system. Directs the Secretary to issue final regulations establishing minimum entry-level training requirements for such operators. Revises the CDL information system program. Requires states to submit CDL program plans for the operation of state CDL information systems compatible with the modernized federal CDL information system. Safe Roads Act of 2011 - Directs the Secretary to establish a national clearinghouse for verified positive alcohol and controlled substance test results and test refusals as well as violations of Federal Motor Carrier Safety Administration (FMCSA) alcohol and controlled substances regulations of commercial motor vehicle operators. Prohibits an employer from hiring an individual to operate a commercial motor vehicle unless, during the preceding three-year period, the individual: (1) did not test positive for use of alcohol and controlled substances, or completed the return-to-duty process after initially testing positive; (2) did not refuse to be tested, or completed the return-to-duty process after initially refusing to be tested; or (3) did not violate FMCSA alcohol and controlled substances regulations. Prescribes new and revises current penalties for violations of certain commercial motor vehicle drug and alcohol prohibitions and specified other requirements. Directs the Secretary to carry out a Motor Carrier Safety Assistance Program to make compliance, safety, and accountability grants to assist states, local governments, and other entities and persons with motor carrier safety and enforcement activities and programs. Revises the number of passengers a commercial motor vehicle must be designed or used to transport from more than 10 passengers (including the driver) to: (1) more than 8 passengers (including the driver) for compensation, or (2) more than 15 passengers (including the driver) if not for compensation. Revises commercial motor vehicle driver safety fitness requirements. Authorizes the Secretary to withhold increasing percentages of a state's motor carrier safety improvement grant funds if the state uses an electronic commercial motor vehicle inspection selection system that does not employ a DOT-approved selection methodology. Authorizes FY2012-FY2013 appropriations for FMCSA programs. Directs the Secretary to establish a data and technology grant program to assist states with implementation and maintenance of commercial motor vehicle data systems. Revises CDL program improvement grant requirements. Converts the commercial driver's license program improvement grant program to a driver focused grant program to improve driver safety. Motorcoach Enhanced Safety Act of 2011 - Directs the Secretary to prescribe regulations requiring motorcoaches to be installed with: (1) safety belts at each seating position, (2) advanced glazing in each portal to prevent passenger ejection, (3) stability enhancing technology to reduce the number and frequency of rollover crashes, and (4) direct tire pressure monitoring systems. Requires the Secretary to prescribe regulations establishing improved strength and crush resistance standards for motorcoach roofs. Requires the Secretary to initiate rulemaking proceedings to establish: (1) flammability standards for motorcoach exterior and interior components, (2) requirements to prevent wheel well fires, and (3) requirements for motorcoaches to be equipped with improved designs for emergency passenger evacuation and fire suppression systems. Requires the Secretary to: (1) determine the safety fitness and assign a rating, updated triennially, for each registered motorcoach operator; and (2) establish a process for monitoring regularly the safety performance of each operator following the assignment of a rating. Requires the Secretary to complete a rulemaking proceeding to consider requiring states to conduct annual inspections of commercial passenger motor vehicles. Requires the Secretary to: (1) prescribe regulations on the use of electronic or wireless devices (including cell phones and other distracting devices) by motorcoach operators; and (2) prohibit their use in cases where they interfere with the driver's safe operation of a motorcoach, but not when necessary for driver or public safety in emergency situations. Directs the Secretary to study and compile a list of all state truck size and weight limit laws. Directs the Secretary to task the Motor Carrier Safety Advisory Committee to study the extent to which detention time contributes to motor carrier drivers violating hours of service requirements and driver fatigue. Prohibits the transportation of horses in a motor vehicle containing two or more levels stacked on top of each other. Revises household goods motor carrier registration requirements to require the Secretary to require registered household goods motor carriers to undergo a consumer protection standards review 18 months after beginning operations. Directs the Secretary to: (1) develop and implement a joint household goods transportation assistance program, and (2) establish a task force to develop recommendations to ensure consumers are informed of federal laws concerning the transportation of household goods by a motor carrier.
+
+	</summary>
+</bill>

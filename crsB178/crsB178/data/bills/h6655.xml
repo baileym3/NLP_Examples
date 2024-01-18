@@ -1,0 +1,68 @@
+<bill session="112" type="h" number="6655" updated="2012-12-28T06:18:56-05:00">
+	<state datetime="2012-12-19T17:03:00-05:00">PASS_OVER:HOUSE</state>
+	<status><vote datetime="2012-12-19T17:03:00-05:00" where="h" result="pass" how="roll" roll="636"/></status>
+
+	<introduced datetime="2012-12-13"/>
+	<titles>
+		<title type="short" as="passed house">Protect Our Kids Act of 2012</title>
+		<title type="official" as="introduced">To establish a commission to develop a national strategy and recommendations for reducing fatalities resulting from child abuse and neglect.</title>
+	</titles>
+	<sponsor id="400111"/>
+	<cosponsors>
+		<cosponsor id="412404" joined="2012-12-19"/>
+		<cosponsor id="412458" joined="2012-12-19"/>
+		<cosponsor id="400636" joined="2012-12-13"/>
+		<cosponsor id="400058" joined="2012-12-13"/>
+		<cosponsor id="400087" joined="2012-12-13"/>
+		<cosponsor id="400233" joined="2012-12-19"/>
+		<cosponsor id="400238" joined="2012-12-13"/>
+		<cosponsor id="400240" joined="2012-12-13"/>
+		<cosponsor id="400656" joined="2012-12-19"/>
+		<cosponsor id="400262" joined="2012-12-13"/>
+		<cosponsor id="400291" joined="2012-12-19"/>
+		<cosponsor id="400309" joined="2012-12-19"/>
+		<cosponsor id="412303" joined="2012-12-13"/>
+		<cosponsor id="400333" joined="2012-12-19"/>
+		<cosponsor id="412393" joined="2012-12-13"/>
+		<cosponsor id="400660" joined="2012-12-19"/>
+		<cosponsor id="400406" joined="2012-12-19"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-13" state="REFERRED"><text>Referred to the House Committee on Ways and Means.</text></action>
+		<action datetime="2012-12-19T15:12:00-05:00"><text>Mr. Camp moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="2012-12-19T15:12:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H7313-7317"/></action>
+		<action datetime="2012-12-19T15:12:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6655.</text></action>
+		<action datetime="2012-12-19T15:31:00-05:00"><text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text></action>
+		<action datetime="2012-12-19T16:36:00-05:00"><text>Considered as unfinished business.</text><reference label="consideration" ref="CR H7327-7328"/></action>
+		<vote how="roll" type="vote" roll="636" datetime="2012-12-19T17:03:00-05:00" where="h" result="pass" suspension="1"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 330 - 77 (Roll no. 636).</text><reference label="text" ref="CR H7313-7314"/></vote>
+		<action datetime="2012-12-19T17:03:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-12-19"><text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSWM" name="House Ways and Means" activity="Referral" />
+		<committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="3653" />
+		<bill relation="unknown" session="112" type="s" number="1984" />
+	</relatedbills>
+	<subjects>
+		<term name="Families"/>
+		<term name="Advisory bodies"/>
+		<term name="Appropriations"/>
+		<term name="Child care and development"/>
+		<term name="Child health"/>
+		<term name="Child safety and welfare"/>
+		<term name="Domestic violence and child abuse"/>
+		<term name="Family relationships"/>
+		<term name="Government investigations"/>
+		<term name="Health information and medical records"/>
+		<term name="Poverty and welfare assistance"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

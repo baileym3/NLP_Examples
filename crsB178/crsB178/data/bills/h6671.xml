@@ -1,0 +1,53 @@
+<bill session="112" type="h" number="6671" updated="2013-01-01T12:05:13-05:00">
+	<state datetime="2012-12-20">PASSED:BILL</state>
+	<status><topresident datetime="2012-12-31" /></status>
+
+	<introduced datetime="2012-12-17"/>
+	<titles>
+		<title type="short" as="introduced">Video Privacy Protection Act Amendments Act of 2012</title>
+		<title type="short" as="passed house">Video Privacy Protection Act Amendments Act of 2012</title>
+		<title type="short" as="passed senate">Video Privacy Protection Act Amendments Act of 2012</title>
+		<title type="official" as="introduced">To amend section 2710 of title 18, United States Code, to clarify that a video tape service provider may obtain a consumer's informed, written consent on an ongoing basis and that consent may be obtained through the Internet.</title>
+	</titles>
+	<sponsor id="400154"/>
+	<cosponsors>
+		<cosponsor id="412379" joined="2012-12-17"/>
+		<cosponsor id="400076" joined="2012-12-17"/>
+		<cosponsor id="400124" joined="2012-12-17"/>
+		<cosponsor id="400196" joined="2012-12-17"/>
+		<cosponsor id="412290" joined="2012-12-17"/>
+		<cosponsor id="400245" joined="2012-12-17"/>
+		<cosponsor id="412305" joined="2012-12-17"/>
+		<cosponsor id="400320" joined="2012-12-17"/>
+		<cosponsor id="400355" joined="2012-12-17"/>
+		<cosponsor id="400365" joined="2012-12-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-17" state="REFERRED"><text>Referred to the House Committee on the Judiciary.</text></action>
+		<action datetime="2012-12-18T13:48:00-05:00"><text>Mr. Goodlatte moved to suspend the rules and pass the bill.</text></action>
+		<action datetime="2012-12-18T13:48:00-05:00"><text>Considered under suspension of the rules.</text><reference label="consideration" ref="CR H6849-6851"/></action>
+		<action datetime="2012-12-18T13:48:00-05:00"><text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6671.</text></action>
+		<vote how="by voice vote" type="vote" datetime="2012-12-18T14:05:00-05:00" where="h" result="pass"  state="PASS_OVER:HOUSE"><text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text><reference label="text" ref="CR H6849-6850"/></vote>
+		<action datetime="2012-12-18T14:05:00-05:00"><text>Motion to reconsider laid on the table Agreed to without objection.</text></action>
+		<action datetime="2012-12-19"><text>Received in the Senate, read twice.</text></action>
+		<vote how="by Unanimous Consent" type="vote2" datetime="2012-12-20" where="s" result="pass"  state="PASSED:BILL"><text>Passed Senate without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S8320-8321"/></vote>
+		<action datetime="2012-12-21"><text>Message on Senate action sent to the House.</text></action>
+		<topresident datetime="2012-12-31" ><text>Presented to President.</text></topresident>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	12/20/2012--Passed Senate without amendment. (This measure has not been amended since it was introduced. The summary of that version is repeated here.) Video Privacy Protection Act Amendments Act of 2012 - Amends provisions of the federal criminal code authorizing a video tape service provider to disclose personally identifiable information concerning any consumer to any person with the informed, written consent of the consumer to: (1) allow such consent to be provided through an electronic means using the Internet; (2) require such consent be in a form distinct and separate from any form setting forth other legal or financial obligations of the consumer; (3) allow such consent to be given in advance for a set period of time, not to exceed two years or until consent is withdrawn by the consumer, whichever is sooner; and (4) require the video tape service provider to provide an opportunity for the consumer to withdraw such consent on a case-by-case basis or to withdraw from ongoing disclosures, at the consumer's election.
+
+	</summary>
+</bill>

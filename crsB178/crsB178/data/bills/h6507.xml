@@ -1,0 +1,42 @@
+<bill session="112" type="h" number="6507" updated="2012-11-24T14:30:12-05:00">
+	<state datetime="2012-09-21">REFERRED</state>
+	<status><introduced datetime="2012-09-21"/></status>
+
+	<introduced datetime="2012-09-21"/>
+	<titles>
+		<title type="short" as="introduced">Promoting Nuanced Taconite Regulations Act of 2012</title>
+		<title type="official" as="introduced">To provide that any State implementation plan submitted pursuant to the Clean Air Act to address impairment of visibility shall apply for such State until 2022 with respect to emissions from taconite ore processing facilities, and for other purposes.</title>
+	</titles>
+	<sponsor id="412441"/>
+	<cosponsors>
+
+	</cosponsors>
+	<actions>
+		<action datetime="2012-09-21" state="REFERRED"><text>Referred to the House Committee on Energy and Commerce.</text></action>
+		<action datetime="2012-09-26"><committee name="House Committee on Energy and Commerce"/><text>Referred to the Subcommittee on Energy and Power.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee" />
+		<committee code="" name="House Energy and Commerce" subcommittee="Energy and Power" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Environmental protection"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Air quality"/>
+		<term name="Environmental Protection Agency (EPA)"/>
+		<term name="Environmental regulatory procedures"/>
+		<term name="Environmental technology"/>
+		<term name="Industrial facilities"/>
+		<term name="Minnesota"/>
+		<term name="State and local government operations"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

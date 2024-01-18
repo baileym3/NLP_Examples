@@ -1,0 +1,34 @@
+<bill session="112" type="s" number="3685" updated="2012-12-19T06:14:11-05:00">
+	<state datetime="2012-12-17">REFERRED</state>
+	<status><introduced datetime="2012-12-17"/></status>
+
+	<introduced datetime="2012-12-17"/>
+	<titles>
+		<title type="official" as="introduced">A bill to amend the Indian Self-Determination and Education Assistance Act to provide further self-governance by Indian tribes, and for other purposes.</title>
+	</titles>
+	<sponsor id="300001"/>
+	<cosponsors>
+		<cosponsor id="412251" joined="2012-12-17"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-12-17" state="INTRODUCED"><text>Sponsor introductory remarks on measure. (CR S8072-8073)</text></action>
+		<action datetime="2012-12-17" state="REFERRED"><text>Read twice and referred to the Committee on Indian Affairs.</text></action>
+	</actions>
+	<committees>
+		<committee code="SLIA" name="Senate Indian Affairs" activity="Referral, In Committee" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Native Americans"/>
+		<term name="Federal-Indian relations"/>
+		<term name="Indian social and development programs"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

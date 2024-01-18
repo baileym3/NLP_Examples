@@ -1,0 +1,68 @@
+<bill session="112" type="h" number="4377" updated="2012-11-24T12:35:23-05:00">
+	<state datetime="2012-06-06">REPORTED</state>
+	<status><calendar datetime="2012-06-06" /></status>
+
+	<introduced datetime="2012-04-18"/>
+	<titles>
+		<title type="short" as="introduced">RAPID Act</title>
+		<title type="short" as="introduced">Responsibly And Professionally Invigorating Development Act of 2012</title>
+		<title type="short" as="reported to house">RAPID Act</title>
+		<title type="short" as="reported to house">Responsibly And Professionally Invigorating Development Act of 2012</title>
+		<title type="official" as="introduced">To provide for improved coordination of agency actions in the preparation and adoption of environmental documents for permitting determinations, and for other purposes.</title>
+	</titles>
+	<sponsor id="412411"/>
+	<cosponsors>
+		<cosponsor id="412414" joined="2012-06-06"/>
+		<cosponsor id="412500" joined="2012-05-08"/>
+		<cosponsor id="400076" joined="2012-04-18"/>
+		<cosponsor id="400141" joined="2012-05-07"/>
+		<cosponsor id="412401" joined="2012-05-16"/>
+		<cosponsor id="412445" joined="2012-05-15"/>
+		<cosponsor id="400316" joined="2012-04-18"/>
+		<cosponsor id="400652" joined="2012-05-16"/>
+		<cosponsor id="412398" joined="2012-05-15"/>
+		<cosponsor id="412311" joined="2012-05-07"/>
+		<cosponsor id="400381" joined="2012-04-18"/>
+		<cosponsor id="412413" joined="2012-05-07"/>
+	</cosponsors>
+	<actions>
+		<action datetime="2012-04-18" state="REFERRED"><text>Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action datetime="2012-04-18"><text>Referred to House Judiciary</text></action>
+		<action datetime="2012-04-18" state="REPORTED"><text>Referred to House Natural Resources</text></action>
+		<action datetime="2012-04-19" state="REFERRED"><committee name="House Judiciary"/><text>Referred to the Subcommittee on Courts, Commercial and Administrative Law.</text></action>
+		<action datetime="2012-04-25"><committee name="House Judiciary" subcommittee="Courts, Commercial and Administrative Law"/><text>Subcommittee Hearings Held.</text></action>
+		<action datetime="2012-05-07"><committee name="House Judiciary"/><text>Subcommittee on Courts, Commercial and Administrative Law Discharged.</text></action>
+		<action datetime="2012-06-06"><committee name="House Judiciary"/><text>Committee Consideration and Mark-up Session Held.</text></action>
+		<calendar datetime="2012-06-06"  state="REPORTED"><committee name="House Judiciary"/><text>Ordered to be Reported (Amended) by the Yeas and Nays: 14 - 8.</text></calendar>
+		<action datetime="2012-07-17T12:11:00-04:00"><text>Reported (Amended) by the Committee on Judiciary. H. Rept. 112-596, Part I.</text></action>
+		<action datetime="2012-07-17T12:11:00-04:00"><text>Committee on Natural Resources discharged.</text></action>
+		<calendar number="431" datetime="2012-07-17T12:11:00-04:00" calendar="Union" ><text>Placed on the Union Calendar, Calendar No. 431.</text></calendar>
+	</actions>
+	<committees>
+		<committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting" />
+		<committee code="" name="House Judiciary" subcommittee="Courts, Commercial and Administrative Law" activity="Referral, Hearings, Discharged" />
+		<committee code="HSII" name="House Natural Resources" activity="Referral, Discharged" />
+	</committees>
+	<relatedbills>
+		<bill relation="unknown" session="112" type="h" number="4078" />
+	</relatedbills>
+	<subjects>
+		<term name="Government operations and politics"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Congressional oversight"/>
+		<term name="Economic performance and conditions"/>
+		<term name="Environmental assessment, monitoring, research"/>
+		<term name="Executive Office of the President"/>
+		<term name="Judicial review and appeals"/>
+		<term name="Licensing and registrations"/>
+		<term name="Public participation and lobbying"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	4/18/2012--Introduced.
+Responsibly And Professionally Invigorating Development Act of 2012 or the RAPID Act - States as the purpose of this Act to establish procedures to streamline the federal environmental review process established by the National Environmental Policy Act of 1969 (NEPA) for major federal actions that are construction projects undertaken, reviewed, or funded by federal agencies. Authorizes: (1) project sponsors to prepare an environmental assessment (EA) or environmental impact statement (EIS) if a lead agency furnishes oversight and independently evaluates, approves, and adopts such document prior to taking action or making any approval based on such document; (2) a lead agency to accept voluntary contributions of funds from a project sponsor for environmental review; and (3) lead agencies to adopt environmental documents that were prepared for other projects in geographical proximity to the project if the projects are similar. Requires: (1) the lead agency to adopt, use, or rely upon secondary and cumulative impact analyses included in documents prepared under NEPA for projects in the same geographic area if such documents are pertinent; and (2) a lead agency to adopt a document that has been prepared for a project under state laws as the EIS or EA for the project if such laws provide environmental protection and opportunities for public involvement that are substantially equivalent to those provided for in NEPA. Requires no more than one EIS and one EA to be prepared for a project. Sets forth provisions concerning the designation of participating agencies in the environmental review process. Precludes any agency that declines to participate in such process from submitting comments on, or taking measures to oppose: (1) the project; (2) any document prepared under NEPA for such project; or (3) any permit, license, or approval related to such project. Requires federal agencies to carry out obligations under other applicable laws concurrently and in conjunction with the review required under NEPA. Sets forth provisions concerning requirements for, and deadlines associated with, initiating and completing environmental review. Requires the lead agency to establish a schedule for completion of environmental review for a project and requires participating agencies to comply with such schedule. Deems a project to be approved in the event that a federal agency fails to approve or disapprove a project within such deadlines. Prohibits a federal agency from being required to evaluate an alternative that was identified but not carried forward for detailed evaluation in, or evaluated and not selected in, any environmental document prepared under NEPA for the same project. Requires cooperating agencies, where a project is being constructed, managed, funded, or undertaken by a sponsor that is not a federal agency, to only be required to evaluate alternatives that the project sponsor could feasibly undertake. Requires the evaluation of each alternative in an EIS or an EA to identify the potential effects of the alternative on employment. Sets forth limitations to claims arising under federal law seeking judicial review of a permit, license, or approval issued by a federal agency for an action subject to NEPA.
+
+	</summary>
+</bill>

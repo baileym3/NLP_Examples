@@ -1,0 +1,40 @@
+<bill session="112" type="s" number="3677" updated="2012-12-21T06:19:46-05:00">
+	<state datetime="2012-12-12">PASS_OVER:SENATE</state>
+	<status><vote datetime="2012-12-12" where="s" result="pass" how="by Unanimous Consent" roll=""/></status>
+
+	<introduced datetime="2012-12-12"/>
+	<titles>
+		<title type="official" as="introduced">A bill to make a technical correction to the Flood Disaster Protection Act of 1973.</title>
+	</titles>
+	<sponsor id="300058"/>
+	<cosponsors>
+		<cosponsor id="300089" joined="2012-12-12"/>
+	</cosponsors>
+	<actions>
+		<vote how="by Unanimous Consent" type="vote" datetime="2012-12-12" where="s" result="pass"  state="PASS_OVER:SENATE"><text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text><reference label="consideration" ref="CR S7988-7989"/><reference label="text as passed Senate" ref="CR S7989"/></vote>
+		<action datetime="2012-12-13T10:02:00-05:00"><text>Received in the House.</text></action>
+		<action datetime="2012-12-13"><text>Message on Senate action sent to the House.</text></action>
+		<action datetime="2012-12-13"><text>Referred to the House Committee on Financial Services.</text></action>
+		<action datetime="2012-12-20"><committee name="House Committee on Financial Services"/><text>Referred to the Subcommittee on Insurance, Housing and Community Opportunity.</text></action>
+	</actions>
+	<committees>
+		<committee code="HSBA" name="House Financial Services" activity="Referral, In Committee" />
+		<committee code="" name="House Financial Services" subcommittee="Insurance, Housing and Community Opportunity" activity="Referral" />
+	</committees>
+	<relatedbills>
+
+	</relatedbills>
+	<subjects>
+		<term name="Finance and financial sector"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Disaster relief and insurance"/>
+		<term name="Floods and storm protection"/>
+		<term name="Housing finance and home ownership"/>
+	</subjects>
+	<amendments>
+
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>
